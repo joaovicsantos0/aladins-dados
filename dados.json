@@ -1,0 +1,967 @@
+﻿{
+  "opportunities": [
+    {
+      "id": "obmep",
+      "category": "olimpiadas",
+      "status": "abertas",
+      "title": "Olimpíada Brasileira de Matemática (OBMEP)",
+      "institution": "IMPA / SBM",
+      "description": "A OBMEP é a maior olimpíada científica do país, envolvendo milhões de alunos de escolas públicas e privadas. Realizada anualmente, tem como objetivo estimular o estudo da Matemática e revelar talentos. A prova é dividida em duas fases: a 1ª fase é composta por 20 questões de múltipla escolha (nível fácil a médio) e a 2ª fase por 6 questões discursivas que exigem raciocínio lógico e criatividade. Os medalhistas (ouro, prata e bronze) são convidados a participar do Programa de Iniciação Científica (PIC), que oferece bolsas de estudo e formação continuada. Além disso, os melhores colocados representam o Brasil em competições internacionais, como a IMO. A participação é gratuita e as inscrições são realizadas pelas próprias escolas, que devem cadastrar seus alunos no sistema da OBMEP.",
+      "requirement": "Alunos do 6º ano do Ensino Fundamental até o 3º ano do Ensino Médio. Não há limite de idade.",
+      "timeline": [
+        {
+          "date": "05 Abr 2026",
+          "label": "Início das inscrições pelas escolas"
+        },
+        {
+          "date": "04 Jun 2026",
+          "label": "Prova da 1ª Fase (objetiva)"
+        },
+        {
+          "date": "19 Out 2026",
+          "label": "Prova da 2ª Fase (discursiva)"
+        },
+        {
+          "date": "20 Dez 2026",
+          "label": "Divulgação dos medalhistas e premiação"
+        }
+      ],
+      "link": "https://www.obmep.org.br"
+    },
+    {
+      "id": "oba",
+      "category": "olimpiadas",
+      "status": "abertas",
+      "title": "Olimpíada Brasileira de Astronomia e Astronáutica (OBA)",
+      "institution": "SAB / AEB",
+      "description": "A OBA é uma competição nacional que avalia conhecimentos sobre astronomia, astronautica e ciências espaciais. A prova é realizada em uma única fase, dentro da própria escola, e contém questões objetivas e uma questão discursiva (construção de um foguete de garrafa PET). A participação é aberta a todos os estudantes do Ensino Fundamental e Médio. Os destaques são premiados com medalhas e convites para participar de cursos de astronomia promovidos pela Sociedade Astronômica Brasileira. A prova aborda desde conceitos básicos como sistema solar, estações do ano e fases da lua, até tópicos mais avançados como órbitas, gravitação e missões espaciais. É uma excelente oportunidade para quem se interessa pelo universo.",
+      "requirement": "Estudantes do 1º ano do Ensino Fundamental até o último ano do Ensino Médio.",
+      "timeline": [
+        {
+          "date": "01 Mar 2026",
+          "label": "Início das inscrições"
+        },
+        {
+          "date": "01 Mai 2026",
+          "label": "Fim das inscrições"
+        },
+        {
+          "date": "15 Mai 2026",
+          "label": "Prova presencial de fase única"
+        }
+      ],
+      "link": "http://www.oba.org.br"
+    },
+    {
+      "id": "obf",
+      "category": "olimpiadas",
+      "status": "embreve",
+      "title": "Olimpíada Brasileira de Física (OBF)",
+      "institution": "SBF",
+      "description": "A OBF é promovida pela Sociedade Brasileira de Física e tem como objetivo despertar o interesse pela Física entre os jovens. A competição é dividida em três fases: a primeira é uma prova objetiva de 30 questões, a segunda é uma prova teórica com questões abertas, e a terceira é uma prova experimental, onde os alunos realizam medições e interpretam dados. Os melhores colocados são selecionados para treinamentos intensivos e podem representar o Brasil nas Olimpíadas Internacionais de Física (IPhO) e Olimpíada Ibero-Americana de Física. A OBF valoriza tanto a teoria quanto a prática, sendo uma das olimpíadas mais completas para estudantes de Ensino Médio.",
+      "requirement": "Alunos a partir do 8º ano do Ensino Fundamental até a 3ª série do Ensino Médio.",
+      "timeline": [
+        {
+          "date": "10 Ago 2026",
+          "label": "Prova da 1ª Fase"
+        },
+        {
+          "date": "12 Set 2026",
+          "label": "Prova da 2ª Fase"
+        },
+        {
+          "date": "24 Out 2026",
+          "label": "Prova da 3ª Fase (experimental)"
+        }
+      ],
+      "link": "http://www.sbfisica.org.br"
+    },
+    {
+      "id": "obi",
+      "category": "olimpiadas",
+      "status": "encerradas",
+      "title": "Olimpíada Brasileira de Informática (OBI)",
+      "institution": "SBC / Unicamp",
+      "description": "A OBI é a principal competição de programação e raciocínio computacional do Brasil. Ela é dividida em duas modalidades: Iniciação (para alunos do 4º ao 6º ano) e Programação (para alunos do 7º ano ao Ensino Médio). Na modalidade Programação, os participantes devem resolver problemas de lógica e algoritmos usando linguagens como C++, Python ou Java. A prova é realizada em duas fases: a primeira é online, com questões de múltipla escolha; a segunda é presencial, onde os alunos devem desenvolver códigos para resolver problemas. Os melhores classificados recebem medalhas e são convidados a participar de treinamentos avançados, que podem levar à representação do Brasil na Olimpíada Internacional de Informática (IOI).",
+      "requirement": "Alunos do 4º ano do Ensino Fundamental até o 1º ano do Ensino Superior (modalidade Universitária).",
+      "timeline": [
+        {
+          "date": "15 Mar 2026",
+          "label": "Abertura das inscrições"
+        },
+        {
+          "date": "20 Mai 2026",
+          "label": "Prova da Fase Local"
+        },
+        {
+          "date": "15 Ago 2026",
+          "label": "Prova da Fase Nacional"
+        }
+      ],
+      "link": "https://olimpiada.ic.unicamp.br"
+    },
+    {
+      "id": "onhb",
+      "category": "olimpiadas",
+      "status": "abertas",
+      "title": "Olimpíada Nacional em História do Brasil (ONHB)",
+      "institution": "Unicamp",
+      "description": "A ONHB é uma olimpíada voltada para o estudo da História do Brasil, realizada em equipes de três alunos sob a orientação de um professor. A competição possui cinco fases online, onde os participantes analisam documentos históricos, mapas, charges e textos, respondendo a questões objetivas e produzindo sínteses. A grande final ocorre presencialmente na Unicamp, em Campinas, com uma prova dissertativa e uma atividade prática. A ONHB valoriza o pensamento crítico e a interpretação de fontes históricas, sendo uma excelente preparação para o ENEM e vestibulares. As equipes medalhistas recebem certificados e premiação em livros.",
+      "requirement": "Equipes de 3 alunos do 8º ano ao Ensino Médio, mais 1 professor orientador.",
+      "timeline": [
+        {
+          "date": "10 Fev 2026",
+          "label": "Inscrições abertas"
+        },
+        {
+          "date": "05 Mai 2026",
+          "label": "Início da 1ª Fase online"
+        },
+        {
+          "date": "20 Ago 2026",
+          "label": "Grande Final presencial (Campinas)"
+        }
+      ],
+      "link": "https://www.olimpiadadehistoria.com.br"
+    },
+    {
+      "id": "obq",
+      "category": "olimpiadas",
+      "status": "embreve",
+      "title": "Olimpíada Brasileira de Química (OBQ)",
+      "institution": "ABQ",
+      "description": "A OBQ é uma competição que estimula o estudo da Química, integrando aspectos teóricos e práticos. A prova é dividida em três fases: a primeira é uma prova objetiva com 30 questões de múltipla escolha; a segunda é uma prova teórica com questões abertas; e a terceira é uma prova experimental realizada em laboratórios universitários. Os participantes devem demonstrar conhecimentos em química geral, orgânica, inorgânica e físico-química. Os medalhistas são convidados a participar da seleção para a Olimpíada Internacional de Química (IChO). A OBQ é uma excelente oportunidade para alunos que desejam aprofundar seus conhecimentos em química e seguir carreiras científicas.",
+      "requirement": "Alunos do 9º ano até a 3ª série do Ensino Médio.",
+      "timeline": [
+        {
+          "date": "01 Ago 2026",
+          "label": "Fase Escolar / Estadual"
+        },
+        {
+          "date": "30 Ago 2026",
+          "label": "Fase Nacional (exame teórico)"
+        }
+      ],
+      "link": "http://obquimica.org"
+    },
+    {
+      "id": "obm",
+      "category": "olimpiadas",
+      "status": "abertas",
+      "title": "Olimpíada Brasileira de Matemática (OBM)",
+      "institution": "SBM",
+      "description": "A OBM é a competição de matemática de mais alto nível no Brasil, voltada para alunos que já se destacaram em olimpíadas anteriores. A prova é composta por questões discursivas que exigem profundo conhecimento em álgebra, teoria dos números, combinatória e geometria. A OBM é a principal porta de entrada para a seleção da equipe brasileira que participa da Olimpíada Internacional de Matemática (IMO). Os participantes são convidados com base em seus desempenhos em outras olimpíadas, como a OBMEP. Os medalhistas recebem bolsas de estudo e são acompanhados por tutores do IMPA.",
+      "requirement": "Estudantes convidados devido ao desempenho em olimpíadas anteriores (OBMEP, OBM, etc.).",
+      "timeline": [
+        {
+          "date": "01 Set 2026",
+          "label": "Convites enviados"
+        },
+        {
+          "date": "15 Out 2026",
+          "label": "Provas Nível Universitário e Escolar"
+        }
+      ],
+      "link": "https://www.obm.org.br"
+    },
+    {
+      "id": "petrobras",
+      "category": "concursos",
+      "status": "abertas",
+      "title": "Concurso Petrobras Jovem Aprendiz",
+      "institution": "Petrobras",
+      "description": "O programa Jovem Aprendiz da Petrobras é uma das melhores oportunidades para jovens que buscam o primeiro emprego com qualificação profissional. Os selecionados atuam em áreas administrativas, operacionais ou de logística, recebendo bolsa-auxílio, vale-transporte e alimentação. Além do trabalho, os jovens participam de cursos de capacitação no SENAI, que combinam teoria e prática. O processo seletivo consiste em prova objetiva (conhecimentos gerais e raciocínio lógico) e análise de documentos. O programa dura 18 meses e oferece grande chance de efetivação. As inscrições são feitas pelo site da Petrobras.",
+      "requirement": "Idade entre 14 e 22 anos e 11 meses; estar matriculado em escola pública ou privada; não ter vínculo empregatício prévio.",
+      "timeline": [
+        {
+          "date": "05 Jan 2026",
+          "label": "Lançamento do edital"
+        },
+        {
+          "date": "20 Fev 2026",
+          "label": "Término das inscrições"
+        },
+        {
+          "date": "15 Mar 2026",
+          "label": "Sorteio público / provas"
+        },
+        {
+          "date": "02 Mai 2026",
+          "label": "Início do programa"
+        }
+      ],
+      "link": "https://petrobras.com.br/pt/jovem-aprendiz"
+    },
+    {
+      "id": "bb",
+      "category": "concursos",
+      "status": "embreve",
+      "title": "Concurso Banco do Brasil",
+      "institution": "Banco do Brasil",
+      "description": "O concurso do Banco do Brasil para escriturário é um dos mais concorridos do país, oferecendo carreira estável, salário atrativo e benefícios como PLR, auxílio-alimentação e plano de saúde. O cargo de Agente Comercial envolve atendimento ao público, vendas e gestão de carteira de clientes; já o Agente de Tecnologia atua na área de TI. A prova é composta por questões de língua portuguesa, matemática, conhecimentos bancários, informática e redação. A banca organizadora é a Fundação Cesgranrio. Os aprovados são convocados ao longo de dois anos.",
+      "requirement": "Ensino Médio completo e idade mínima de 18 anos na posse.",
+      "timeline": [
+        {
+          "date": "Setembro 2026",
+          "label": "Previsão de edital"
+        },
+        {
+          "date": "Novembro 2026",
+          "label": "Aplicação das provas (Cesgranrio)"
+        }
+      ],
+      "link": "https://www.bb.com.br/concursos"
+    },
+    {
+      "id": "caixa",
+      "category": "concursos",
+      "status": "encerradas",
+      "title": "Concurso Caixa Econômica Federal",
+      "institution": "CEF",
+      "description": "A Caixa Econômica Federal realiza concursos para Técnico Bancário, com vagas para atuação em agências e unidades administrativas. O cargo de Técnico Bancário Novo exige Ensino Médio e oferece remuneração inicial de R$ 3.000,00 + benefícios (vale-refeição, plano de saúde, participação nos lucros). A prova objetiva abrange conhecimentos bancários, matemática financeira, língua portuguesa e legislação. O concurso é organizado pela Fundação Getúlio Vargas (FGV). Os aprovados são chamados ao longo do prazo de validade de 2 anos, prorrogável por mais 2.",
+      "requirement": "Certificado de conclusão do Ensino Médio.",
+      "timeline": [
+        {
+          "date": "Fev 2026",
+          "label": "Edital publicado"
+        },
+        {
+          "date": "Mai 2026",
+          "label": "Realização das provas"
+        },
+        {
+          "date": "Jul 2026",
+          "label": "Divulgação do resultado final"
+        }
+      ],
+      "link": "https://www.caixa.gov.br"
+    },
+    {
+      "id": "ibge",
+      "category": "concursos",
+      "status": "abertas",
+      "title": "IBGE - Agente de Pesquisas",
+      "institution": "IBGE",
+      "description": "O IBGE abre anualmente Processos Seletivos Simplificados (PSS) para contratação de Agentes de Pesquisas, que atuam na coleta de dados de pesquisas socioeconômicas e demográficas. O trabalho é temporário, com duração média de 6 meses, e envolve visitas domiciliares, aplicação de questionários e digitação de dados. A seleção consiste em prova objetiva de 50 questões (língua portuguesa, matemática e geografia) e, eventualmente, análise de títulos. A remuneração varia conforme a pesquisa, sendo compatível com o mercado. É uma excelente oportunidade para quem gosta de trabalho de campo.",
+      "requirement": "Ensino Médio completo.",
+      "timeline": [
+        {
+          "date": "10 Mar 2026",
+          "label": "Inscrições abertas"
+        },
+        {
+          "date": "15 Abr 2026",
+          "label": "Último dia de inscrição"
+        },
+        {
+          "date": "30 Mai 2026",
+          "label": "Provas objetivas"
+        }
+      ],
+      "link": "https://www.ibge.gov.br"
+    },
+    {
+      "id": "correios",
+      "category": "concursos",
+      "status": "embreve",
+      "title": "Concurso Correios (Agente e Carteiro)",
+      "institution": "Correios",
+      "description": "O concurso dos Correios é um dos mais aguardados para cargos de nível médio. As vagas são para Atendente Comercial (trabalho em agências) e Carteiro (entregas de correspondências e encomendas). A seleção inclui prova objetiva com 60 questões de múltipla escolha, abrangendo língua portuguesa, matemática, informática e conhecimentos gerais, além de teste de aptidão física para o cargo de carteiro. Os aprovados são nomeados com salário inicial de cerca de R$ 2.400,00 + benefícios. A banca organizadora será definida em edital.",
+      "requirement": "Nível Médio completo.",
+      "timeline": [
+        {
+          "date": "Agosto 2026",
+          "label": "Banca definida"
+        },
+        {
+          "date": "Outubro 2026",
+          "label": "Previsão de provas"
+        }
+      ],
+      "link": "https://www.correios.com.br"
+    },
+    {
+      "id": "inss",
+      "category": "concursos",
+      "status": "embreve",
+      "title": "Concurso INSS - Técnico",
+      "institution": "INSS",
+      "description": "O concurso para Técnico do Seguro Social do INSS é um dos mais procurados para quem deseja estabilidade no serviço público federal. O cargo envolve atendimento ao segurado, análise de benefícios (aposentadorias, auxílios, pensões) e tarefas administrativas. A prova objetiva tem 100 questões de conhecimentos específicos (direito previdenciário, regime próprio, legislação) e básicos (português, raciocínio lógico). A banca organizadora ainda não foi definida, mas historicamente é a Cesgranrio. O salário inicial é de cerca de R$ 4.500,00 + benefícios.",
+      "requirement": "Ensino Médio completo.",
+      "timeline": [
+        {
+          "date": "Semestre 2/2026",
+          "label": "Autorização governamental"
+        },
+        {
+          "date": "Dezembro 2026",
+          "label": "Lançamento do edital"
+        }
+      ],
+      "link": "https://www.gov.br/inss"
+    },
+    {
+      "id": "pf_admin",
+      "category": "concursos",
+      "status": "encerradas",
+      "title": "Polícia Federal - Agente Administrativo",
+      "institution": "Polícia Federal",
+      "description": "A Polícia Federal realiza concursos para Agente Administrativo, um cargo de nível médio que atua na área de apoio técnico-administrativo da PF. As atividades incluem expedição de documentos, gestão de arquivos, atendimento ao público e suporte logístico. A prova é composta por 80 questões objetivas (português, matemática, informática, legislação) e redação. O salário é atrativo, com gratificações e benefícios. Os aprovados passam por curso de formação. A banca organizadora é o Cebraspe (antigo CESPE).",
+      "requirement": "Ensino Médio completo.",
+      "timeline": [
+        {
+          "date": "Jan 2026",
+          "label": "Encerramento das inscrições"
+        },
+        {
+          "date": "Mar 2026",
+          "label": "Provas"
+        }
+      ],
+      "link": "https://www.gov.br/pf"
+    },
+    {
+      "id": "enem",
+      "category": "processos",
+      "status": "abertas",
+      "title": "Exame Nacional do Ensino Médio (ENEM)",
+      "institution": "INEP / MEC",
+      "description": "O ENEM é a principal porta de entrada para o ensino superior no Brasil. Ele avalia as competências dos estudantes em quatro áreas do conhecimento (Linguagens, Matemática, Ciências Humanas e Ciências da Natureza) e uma redação dissertativo-argumentativa. A nota do ENEM é utilizada no SISU (para universidades públicas), no ProUni (bolsas em particulares) e no FIES (financiamento estudantil). Além disso, muitas universidades portuguesas aceitam a nota. A prova é aplicada em dois domingos consecutivos. O estudante pode se inscrever como \"treineiro\" (não concluinte) para testar seus conhecimentos.",
+      "requirement": "Qualquer pessoa, com ou sem Ensino Médio completo. Treineiros são alunos do 1º e 2º ano.",
+      "timeline": [
+        {
+          "date": "05 Mai 2026",
+          "label": "Início das inscrições e isenção"
+        },
+        {
+          "date": "17 Jun 2026",
+          "label": "Fim das inscrições"
+        },
+        {
+          "date": "01 Nov 2026",
+          "label": "1º dia de prova (Linguagens, Humanas, Redação)"
+        },
+        {
+          "date": "08 Nov 2026",
+          "label": "2º dia de prova (Matemática, Natureza)"
+        }
+      ],
+      "link": "https://enem.inep.gov.br"
+    },
+    {
+      "id": "ifes",
+      "category": "processos",
+      "status": "embreve",
+      "title": "Processo Seletivo IFES - Cursos Técnicos",
+      "institution": "Instituto Federal do ES",
+      "description": "O IFES oferece cursos técnicos integrados ao Ensino Médio em diversas áreas, como Informática, Eletrotécnica, Edificações, Química e Agropecuária. O processo seletivo é composto por uma prova objetiva de 50 questões (matemática, língua portuguesa, ciências humanas e da natureza) e redação. As vagas são para os campi de Vitória, Serra, Cariacica, Aracruz, São Mateus, entre outros. O IFES é referência em educação profissional e tecnológica, com alto índice de empregabilidade dos egressos.",
+      "requirement": "Ter concluído ou estar cursando o 9º ano do Ensino Fundamental.",
+      "timeline": [
+        {
+          "date": "01 Set 2026",
+          "label": "Lançamento do edital"
+        },
+        {
+          "date": "19 Out 2026",
+          "label": "Término das inscrições"
+        },
+        {
+          "date": "29 Nov 2026",
+          "label": "Prova objetiva"
+        }
+      ],
+      "link": "https://www.ifes.edu.br"
+    },
+    {
+      "id": "fuvest",
+      "category": "processos",
+      "status": "embreve",
+      "title": "FUVEST - Vestibular USP",
+      "institution": "Universidade de São Paulo",
+      "description": "O vestibular da Fuvest é o mais concorrido do país, com mais de 150 mil inscritos anualmente. Ele é composto por duas fases: a primeira é uma prova objetiva com 90 questões de múltipla escolha (abrangendo todas as áreas do conhecimento); a segunda é composta por provas discursivas específicas para cada curso (ex: matemática, física, química para engenharias; português e redação para humanidades). A classificação final é pela média ponderada das notas. A Fuvest é a porta de entrada para os melhores cursos da USP, como Medicina, Engenharia, Direito e Administração.",
+      "requirement": "Concluintes do Ensino Médio (ou treineiros).",
+      "timeline": [
+        {
+          "date": "Agosto 2026",
+          "label": "Período de inscrição"
+        },
+        {
+          "date": "Novembro 2026",
+          "label": "Prova da 1ª Fase"
+        },
+        {
+          "date": "Dezembro 2026",
+          "label": "Provas da 2ª Fase"
+        }
+      ],
+      "link": "https://www.fuvest.br"
+    },
+    {
+      "id": "unicamp",
+      "category": "processos",
+      "status": "abertas",
+      "title": "Comvest - Vestibular Unicamp",
+      "institution": "Unicamp",
+      "description": "O vestibular da Unicamp é conhecido por sua prova de redação inovadora, que exige análise de textos e produção de argumentos. A seleção ocorre em duas fases: a primeira é uma prova objetiva com 90 questões de múltipla escolha; a segunda é composta por provas discursivas de português, matemática, e disciplinas específicas conforme o curso. A Unicamp é uma das universidades mais bem avaliadas do Brasil, com forte presença em pesquisa. As inscrições são feitas pela Comvest.",
+      "requirement": "Concluintes do Ensino Médio.",
+      "timeline": [
+        {
+          "date": "01 Ago 2026",
+          "label": "Abertura das inscrições"
+        },
+        {
+          "date": "20 Out 2026",
+          "label": "1ª Fase (objetiva)"
+        },
+        {
+          "date": "Dezembro 2026",
+          "label": "2ª Fase (discursiva)"
+        }
+      ],
+      "link": "https://www.comvest.unicamp.br"
+    },
+    {
+      "id": "sisu",
+      "category": "processos",
+      "status": "encerradas",
+      "title": "SISU - Seleção Unificada",
+      "institution": "MEC",
+      "description": "O Sistema de Seleção Unificada (SISU) é a plataforma onde as instituições públicas de ensino superior ofertam vagas para os participantes do ENEM. O candidato escolhe até duas opções de curso e concorre com base na nota do ENEM. O processo é totalmente online e ocorre em duas edições por ano (semestre 1 e 2). A lista de espera pode ser usada para preencher vagas remanescentes. O SISU democratizou o acesso à universidade, especialmente para estudantes de baixa renda.",
+      "requirement": "Ter feito o ENEM do ano anterior e não ter zerado a redação.",
+      "timeline": [
+        {
+          "date": "Jan 2026",
+          "label": "Abertura do sistema"
+        },
+        {
+          "date": "Fev 2026",
+          "label": "Resultado da chamada regular"
+        },
+        {
+          "date": "Mar 2026",
+          "label": "Convocação da lista de espera"
+        }
+      ],
+      "link": "https://sisu.mec.gov.br"
+    },
+    {
+      "id": "prouni",
+      "category": "processos",
+      "status": "encerradas",
+      "title": "ProUni - Programa Universidade para Todos",
+      "institution": "MEC",
+      "description": "O ProUni oferece bolsas de estudo integrais (100%) e parciais (50%) em instituições privadas de ensino superior. A seleção é baseada na nota do ENEM e na renda familiar. Para bolsa integral, a renda per capita deve ser de até 1,5 salário mínimo; para a parcial, até 3 salários. O candidato também deve atender a critérios de escola pública ou bolsista integral em escola privada. O processo é feito pela internet, com duas edições anuais. É uma oportunidade única para quem não pode pagar uma faculdade particular.",
+      "requirement": "Renda familiar bruta per capita de até 1,5 salário mínimo (integral) ou 3 salários (parcial); ter cursado o Ensino Médio em escola pública.",
+      "timeline": [
+        {
+          "date": "Fev 2026",
+          "label": "Inscrições"
+        },
+        {
+          "date": "Mar 2026",
+          "label": "Resultados e comprovação de documentos"
+        }
+      ],
+      "link": "https://prouniportal.mec.gov.br"
+    },
+    {
+      "id": "ifrj",
+      "category": "processos",
+      "status": "embreve",
+      "title": "Processo Seletivo IFRJ",
+      "institution": "Instituto Federal do RJ",
+      "description": "O IFRJ oferece cursos técnicos integrados ao Ensino Médio em diversas áreas, como Mecânica, Eletrônica, Química, Informática, entre outras. O processo seletivo é composto por uma prova objetiva (matemática, língua portuguesa, conhecimentos gerais) e redação. As vagas são para os campi do Rio de Janeiro, Nilópolis, Paracambi, entre outros. O IFRJ é uma instituição de excelência, com laboratórios modernos e alto índice de empregabilidade.",
+      "requirement": "Conclusão do Ensino Fundamental (9º ano).",
+      "timeline": [
+        {
+          "date": "Setembro 2026",
+          "label": "Inscrições"
+        },
+        {
+          "date": "Novembro 2026",
+          "label": "Prova"
+        }
+      ],
+      "link": "https://www.ifrj.edu.br"
+    },
+    {
+      "id": "ismart",
+      "category": "bolsas",
+      "status": "abertas",
+      "title": "Bolsa Instituto Ismart",
+      "institution": "Instituto Ismart",
+      "description": "O Ismart identifica jovens talentos de escolas públicas e os prepara para ingressar em universidades de excelência. A bolsa inclui mensalidade integral em colégios particulares de alto nível, material didático, e acompanhamento pedagógico. O processo seletivo é composto por prova de matemática e língua portuguesa, redação, análise de histórico escolar e entrevista socioeconômica. O programa dura até o final do Ensino Médio, com foco na aprovação em vestibulares como Fuvest e ENEM.",
+      "requirement": "Alunos do 7º ou 9º ano de escolas públicas, com excelente histórico escolar e renda familiar per capita de até 2 salários mínimos.",
+      "timeline": [
+        {
+          "date": "01 Abr 2026",
+          "label": "Início das inscrições online"
+        },
+        {
+          "date": "15 Jun 2026",
+          "label": "Fim das inscrições"
+        },
+        {
+          "date": "Julho 2026",
+          "label": "Prova presencial"
+        }
+      ],
+      "link": "https://www.ismart.org.br"
+    },
+    {
+      "id": "estudar",
+      "category": "bolsas",
+      "status": "abertas",
+      "title": "Programa Líderes Estudar",
+      "institution": "Fundação Estudar",
+      "description": "A Fundação Estudar oferece bolsas para cursos de graduação e pós-graduação no Brasil e no exterior (EUA, Europa, Canadá). A bolsa cobre mensalidades, moradia e material didático. O processo seletivo envolve testes de lógica, análise de currículo, redação e painel com executivos. O programa busca jovens com alto potencial de liderança e impacto social. É uma das bolsas mais prestigiadas do país.",
+      "requirement": "Jovens de 16 a 34 anos que já foram aceitos ou estão matriculados em cursos de graduação ou pós-graduação.",
+      "timeline": [
+        {
+          "date": "Janeiro 2026",
+          "label": "Inscrições"
+        },
+        {
+          "date": "Abril 2026",
+          "label": "Testes de lógica"
+        },
+        {
+          "date": "Junho 2026",
+          "label": "Painel final"
+        }
+      ],
+      "link": "https://www.estudar.org.br"
+    },
+    {
+      "id": "semear",
+      "category": "bolsas",
+      "status": "embreve",
+      "title": "Programa Instituto Semear",
+      "institution": "Instituto Semear",
+      "description": "O Instituto Semear oferece bolsas de auxílio financeiro e mentoria para jovens de baixa renda que ingressaram em universidades públicas. O valor da bolsa é de R$ 800,00 mensais, com acompanhamento de carreira. O processo seletivo inclui análise de documentos, prova socioeconômica e entrevista. O programa dura até a conclusão da graduação, com possibilidade de prorrogação.",
+      "requirement": "Calouros de Universidades Públicas dos estados de SP, RJ e MG, com renda per capita de até 1,5 salário mínimo.",
+      "timeline": [
+        {
+          "date": "Fevereiro 2026",
+          "label": "Edital para calouros"
+        },
+        {
+          "date": "Março 2026",
+          "label": "Entrevistas"
+        }
+      ],
+      "link": "https://www.isemear.org.br"
+    },
+    {
+      "id": "primeirachance",
+      "category": "bolsas",
+      "status": "abertas",
+      "title": "Bolsa Primeira Chance",
+      "institution": "ONG Primeira Chance",
+      "description": "A ONG Primeira Chance oferece bolsas de estudo integrais em cursinhos preparatórios, além de material didático e suporte psicológico para alunos da rede pública do Ceará. O programa tem como objetivo aumentar o acesso de jovens carentes aos melhores vestibulares. A seleção é feita por meio de prova de conhecimento (matemática, português) e entrevista. O programa tem duração de um ano, com possibilidade de renovação.",
+      "requirement": "Alunos do Ensino Médio da rede pública do Ceará, com bom desempenho escolar e renda comprovada.",
+      "timeline": [
+        {
+          "date": "01 Mar 2026",
+          "label": "Abertura"
+        },
+        {
+          "date": "30 Abr 2026",
+          "label": "Seleção acadêmica"
+        }
+      ],
+      "link": "https://primeirachance.org"
+    },
+    {
+      "id": "proa",
+      "category": "bolsas",
+      "status": "abertas",
+      "title": "Instituto PROA - Plataforma PROA",
+      "institution": "Instituto PROA",
+      "description": "O PROA oferece um curso gratuito de programação e desenvolvimento profissional para jovens de escolas públicas. O curso é 100% online e tem duração de 3 meses, com certificado. Os participantes aprendem HTML, CSS, JavaScript, lógica de programação e soft skills como comunicação e trabalho em equipe. O processo seletivo é simples: preencher formulário e responder a um teste de raciocínio lógico. O PROA é uma ponte para o mercado de tecnologia.",
+      "requirement": "Jovens de 17 a 22 anos, que estudam em escola pública e têm acesso à internet.",
+      "timeline": [
+        {
+          "date": "Inscrição contínua",
+          "label": "Sempre aberto"
+        },
+        {
+          "date": "Acesso imediato",
+          "label": "Início das aulas online"
+        }
+      ],
+      "link": "https://www.proa.org.br"
+    },
+    {
+      "id": "fapesp",
+      "category": "bolsas",
+      "status": "embreve",
+      "title": "Bolsa Iniciação Científica",
+      "institution": "FAPESP / CNPq",
+      "description": "As bolsas de Iniciação Científica são destinadas a alunos de graduação que desejam se envolver em projetos de pesquisa acadêmica. A FAPESP e o CNPq oferecem bolsas mensais de cerca de R$ 800,00, além de auxílio para material e viagens. O projeto deve ser submetido por um professor orientador, e o aluno deve ter bom desempenho escolar e dedicar-se integralmente à pesquisa. É uma excelente forma de ingressar na carreira científica.",
+      "requirement": "Vínculo com universidade, bom histórico escolar e projeto de pesquisa aprovado.",
+      "timeline": [
+        {
+          "date": "Julho 2026",
+          "label": "Submissão de projetos"
+        },
+        {
+          "date": "Setembro 2026",
+          "label": "Início do pagamento"
+        }
+      ],
+      "link": "https://fapesp.br"
+    },
+    {
+      "id": "bolsatim",
+      "category": "bolsas",
+      "status": "encerradas",
+      "title": "Instituto TIM - Bolsas Olimpíadas",
+      "institution": "Instituto TIM",
+      "description": "O Instituto TIM concede bolsas de manutenção para medalhistas da OBMEP que ingressam em cursos de graduação nas áreas de Exatas. A bolsa é de R$ 500,00 mensais e pode ser renovada anualmente até a conclusão do curso. O objetivo é apoiar talentos olímpicos a continuar sua formação acadêmica. O processo é simplificado, com análise do histórico de medalhas e comprovação de matrícula.",
+      "requirement": "Medalhistas da OBMEP que ingressaram em curso de graduação em Ciências Exatas.",
+      "timeline": [
+        {
+          "date": "Jan 2026",
+          "label": "Chamada pública"
+        },
+        {
+          "date": "Fev 2026",
+          "label": "Seleção dos bolsistas"
+        }
+      ],
+      "link": "https://institutotim.org.br"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "matematica",
+      "name": "Matemática",
+      "color": "var(--cat-blue)",
+      "topics": [
+        {
+          "title": "1. Conjuntos Numéricos — A Base de Tudo",
+          "content": "\n      <h3>Conjuntos Numéricos</h3>\n      <p>A Matemática é construída a partir da organização dos números em conjuntos que compartilham propriedades. O domínio desses conjuntos é fundamental para toda a álgebra, geometria e análise que virão.</p>\n      \n      <h4>1. Conjunto dos Números Naturais (N)</h4>\n      <p><strong>Definição:</strong> N = {0, 1, 2, 3, 4, ...}. Utilizados para contagem e ordenação. Possuem a propriedade do <em>princípio da boa ordenação</em>: todo subconjunto não vazio tem um menor elemento.</p>\n      <p><strong>Operações:</strong> A adição e multiplicação são fechadas em N (resultado sempre natural). A subtração e divisão não são fechadas (ex: 3 - 5 não é natural).</p>\n      \n      <h4>2. Conjunto dos Números Inteiros (Z)</h4>\n      <p><strong>Definição:</strong> Z = {..., -3, -2, -1, 0, 1, 2, 3, ...}. Inclui os naturais e seus opostos negativos.</p>\n      <p><strong>Propriedades:</strong> Z é fechado para adição, subtração e multiplicação. A divisão não é sempre inteira (ex: 5 ÷ 2 = 2,5 ∉ Z).</p>\n      \n      <h4>3. Conjunto dos Números Racionais (Q)</h4>\n      <p><strong>Definição:</strong> Números que podem ser escritos na forma a/b, com a, b ∈ Z e b ≠ 0. Incluem os inteiros (b = 1), as dízimas periódicas (ex: 0,333... = 1/3) e os decimais finitos.</p>\n      <p><strong>Representação decimal:</strong> Todo racional tem representação decimal finita ou periódica. Ex: 1/4 = 0,25 (finito); 1/6 = 0,1666... (periódico).</p>\n      <p><strong>Densidade:</strong> Entre dois racionais quaisquer existe infinitos outros racionais.</p>\n      \n      <h4>4. Conjunto dos Números Irracionais (I)</h4>\n      <p><strong>Definição:</strong> Números decimais infinitos não periódicos, como π = 3,14159265..., √2 = 1,41421356..., e = 2,7182818... Eles não podem ser expressos como fração de inteiros.</p>\n      <p><strong>Exemplos famosos:</strong> √p (p primo), π, e, φ (número de ouro).</p>\n      \n      <h4>5. Conjunto dos Números Reais (R)</h4>\n      <p><strong>Definição:</strong> União de Q e I. R = Q ∪ I. Os reais preenchem a reta numérica completa, com a propriedade da completeza (toda sequência de Cauchy converge).</p>\n      <p><strong>Relações de inclusão:</strong> N ⊂ Z ⊂ Q ⊂ R e I ⊂ R.</p>\n      \n      <h4>6. Intervalos Reais</h4>\n      <p>Subconjuntos de R que podem ser abertos, fechados ou mistos:</p>\n      <ul>\n        <li><strong>Intervalo fechado:</strong> [a, b] = {x ∈ R | a ≤ x ≤ b}</li>\n        <li><strong>Intervalo aberto:</strong> (a, b) = {x ∈ R | a < x < b}</li>\n        <li><strong>Intervalo semiaberto:</strong> [a, b) = {x ∈ R | a ≤ x < b}</li>\n        <li><strong>Intervalos infinitos:</strong> (−∞, a], [a, +∞), etc.</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Classifique os números em conjuntos: 0, -3, 2/5, √7, 0,777...</p>\n      <p><em>Solução:</em> 0 ∈ N, Z, Q, R; -3 ∈ Z, Q, R; 2/5 ∈ Q, R; √7 ∈ I, R; 0,777... ∈ Q, R.</p>\n      \n      <p><strong>2.</strong> Represente o intervalo (−2, 3] na reta e identifique o menor e o maior elemento, se existir.</p>\n      <p><em>Solução:</em> Intervalo aberto em -2 e fechado em 3. Não há menor elemento (pois -2 não pertence); o maior é 3.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Quais dos números 0, -1, 1/2, √3, 0,1010010001... (não periódico) são irracionais?</li>\n        <li>2. Determine a interseção dos intervalos [−1, 3] e (0, 5).</li>\n        <li>3. É verdade que todo número inteiro é racional? Justifique.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "2. Funções do 1º e 2º Grau — Modelando o Mundo",
+          "content": "\n      <h3>Funções Polinomiais do 1º e 2º Grau</h3>\n      <p>Funções são relações entre duas grandezas onde a cada valor de x (domínio) corresponde um único valor de y (contradomínio).</p>\n      \n      <h4>Função do 1º Grau (Afim)</h4>\n      <p><strong>Definição:</strong> f(x) = ax + b, com a ≠ 0. O coeficiente a é a taxa de variação (inclinação da reta); b é o valor onde a reta corta o eixo y.</p>\n      <p><strong>Raiz (zero) da função:</strong> Valor de x que anula f(x). Calcula-se ax + b = 0 ⇒ x = −b/a.</p>\n      <p><strong>Gráfico:</strong> Uma reta. Se a > 0, função crescente; se a < 0, decrescente.</p>\n      <p><strong>Estudo do sinal:</strong> f(x) > 0 para x > −b/a (se a > 0), etc.</p>\n      \n      <h4>Função do 2º Grau (Quadrática)</h4>\n      <p><strong>Definição:</strong> f(x) = ax² + bx + c, com a ≠ 0. O gráfico é uma parábola.</p>\n      <ul>\n        <li>Se a > 0, concavidade para cima (ponto de mínimo).</li>\n        <li>Se a < 0, concavidade para baixo (ponto de máximo).</li>\n      </ul>\n      <p><strong>Vértice:</strong> Ponto de máximo ou mínimo, coordenadas V = (−b/(2a), −Δ/(4a)), onde Δ = b² − 4ac.</p>\n      <p><strong>Raízes (zeros):</strong> Soluções de ax² + bx + c = 0, dadas pela fórmula de Bhaskara: x = (−b ± √Δ)/(2a).</p>\n      <ul>\n        <li>Δ > 0: duas raízes reais distintas.</li>\n        <li>Δ = 0: duas raízes reais iguais (raiz dupla).</li>\n        <li>Δ < 0: não há raízes reais.</li>\n      </ul>\n      <p><strong>Estudo do sinal:</strong> Análise conforme o sinal de a e a posição das raízes.</p>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Dada f(x) = 2x − 3, determine a raiz, o coeficiente angular e o gráfico.</p>\n      <p><em>Solução:</em> Raiz: 2x − 3 = 0 ⇒ x = 1,5. Coeficiente angular a = 2 (crescente). Gráfico reta que corta y em −3.</p>\n      \n      <p><strong>2.</strong> Para f(x) = x² − 4x + 3, calcule as raízes, o vértice e esboce.</p>\n      <p><em>Solução:</em> Δ = 16 − 12 = 4. Raízes: x = (4 ± 2)/2 ⇒ x = 1 ou x = 3. Vértice: x_v = 2, y_v = −1. Parábola com concavidade para cima, corta y em (0,3).</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Resolva 3x − 5 = 0 e classifique a função como crescente ou decrescente.</li>\n        <li>2. Encontre o vértice de f(x) = −2x² + 8x − 6.</li>\n        <li>3. Determine para quais valores de x a função f(x) = x² − 5x + 6 é positiva.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "3. Progressões Aritméticas e Geométricas — Sequências",
+          "content": "\n      <h3>Progressões Aritméticas (PA) e Geométricas (PG)</h3>\n      <p>Sequências numéricas onde cada termo é obtido a partir do anterior por uma operação fixa.</p>\n      \n      <h4>Progressão Aritmética (PA)</h4>\n      <p><strong>Definição:</strong> a<sub>n+1</sub> = a<sub>n</sub> + r, onde r é a razão.</p>\n      <p><strong>Termo geral:</strong> a<sub>n</sub> = a<sub>1</sub> + (n − 1)r.</p>\n      <p><strong>Soma dos n primeiros termos:</strong> S<sub>n</sub> = (a<sub>1</sub> + a<sub>n</sub>)·n/2.</p>\n      <p><strong>Propriedade:</strong> Em uma PA finita, a soma de dois termos equidistantes dos extremos é constante.</p>\n      \n      <h4>Progressão Geométrica (PG)</h4>\n      <p><strong>Definição:</strong> a<sub>n+1</sub> = a<sub>n</sub> · q, onde q é a razão (q ≠ 0).</p>\n      <p><strong>Termo geral:</strong> a<sub>n</sub> = a<sub>1</sub> · q<sup>n−1</sup>.</p>\n      <p><strong>Soma finita (q ≠ 1):</strong> S<sub>n</sub> = a<sub>1</sub> · (q<sup>n</sup> − 1)/(q − 1).</p>\n      <p><strong>Soma infinita (|q| < 1):</strong> S = a<sub>1</sub>/(1 − q).</p>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Na PA (3, 7, 11, 15, ...), calcule o 10º termo e a soma dos 10 primeiros.</p>\n      <p><em>Solução:</em> r = 4. a<sub>10</sub> = 3 + 9·4 = 39. S<sub>10</sub> = (3+39)·10/2 = 210.</p>\n      \n      <p><strong>2.</strong> Uma PG tem a<sub>1</sub> = 2 e q = 3. Calcule o 5º termo e a soma dos 5 primeiros.</p>\n      <p><em>Solução:</em> a<sub>5</sub> = 2·3⁴ = 162. S<sub>5</sub> = 2·(3⁵−1)/(3−1) = 2·(243−1)/2 = 242.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Interpole 3 meios aritméticos entre 2 e 14.</li>\n        <li>2. Calcule a soma dos infinitos termos da PG (1, 1/2, 1/4, ...).</li>\n        <li>3. Em uma PA, a<sub>5</sub> = 17 e a<sub>9</sub> = 29. Determine a<sub>1</sub> e r.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "4. Geometria Plana — Medindo Superfícies e Perímetros",
+          "content": "\n      <h3>Geometria Plana</h3>\n      <p>Estuda as figuras bidimensionais, calculando perímetro (soma dos lados) e área (medida da superfície).</p>\n      \n      <h4>Triângulos</h4>\n      <ul>\n        <li><strong>Soma dos ângulos internos:</strong> 180°.</li>\n        <li><strong>Classificação:</strong> Equilátero (3 lados iguais), Isósceles (2 lados iguais), Escaleno (todos diferentes).</li>\n        <li><strong>Teorema de Pitágoras:</strong> Em um triângulo retângulo, a² = b² + c² (a = hipotenusa).</li>\n        <li><strong>Área:</strong> (base × altura)/2.</li>\n        <li><strong>Relações métricas:</strong> h² = m·n (altura relativa à hipotenusa), etc.</li>\n      </ul>\n      \n      <h4>Quadriláteros</h4>\n      <ul>\n        <li><strong>Retângulo:</strong> Área = b·h, Perímetro = 2(b+h).</li>\n        <li><strong>Quadrado:</strong> Área = l², Perímetro = 4l.</li>\n        <li><strong>Paralelogramo:</strong> Área = b·h.</li>\n        <li><strong>Trapézio:</strong> Área = (B+b)·h/2.</li>\n        <li><strong>Losango:</strong> Área = (diagonal maior × diagonal menor)/2.</li>\n      </ul>\n      \n      <h4>Círculo e Circunferência</h4>\n      <ul>\n        <li>Comprimento da circunferência: C = 2πR.</li>\n        <li>Área do círculo: A = πR².</li>\n        <li>Setor circular: área = (ângulo/360°)·πR².</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Um triângulo retângulo tem catetos 6 cm e 8 cm. Calcule a hipotenusa, a área e o perímetro.</p>\n      <p><em>Solução:</em> Hipotenusa = √(6²+8²) = 10 cm. Área = (6·8)/2 = 24 cm². Perímetro = 6+8+10 = 24 cm.</p>\n      \n      <p><strong>2.</strong> Calcule a área de um círculo de raio 5 m.</p>\n      <p><em>Solução:</em> A = π·5² = 25π ≈ 78,54 m².</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Determine a altura de um triângulo equilátero de lado 4 cm.</li>\n        <li>2. Um trapézio tem bases 10 cm e 6 cm e altura 4 cm. Qual sua área?</li>\n        <li>3. Qual o raio de uma circunferência cujo comprimento é 30π cm?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "5. Geometria Espacial — O Mundo Tridimensional",
+          "content": "\n      <h3>Geometria Espacial</h3>\n      <p>Lida com sólidos (figuras tridimensionais) e calcula volume (capacidade) e área total (superfície).</p>\n      \n      <h4>Prismas</h4>\n      <ul>\n        <li>Dois polígonos congruentes e paralelos (bases).</li>\n        <li>Volume: V = Área da base × altura.</li>\n        <li>Área total: A<sub>total</sub> = 2·A<sub>base</sub> + A<sub>lateral</sub>.</li>\n      </ul>\n      \n      <h4>Cilindros (prisma circular)</h4>\n      <ul>\n        <li>Volume: V = πR²h.</li>\n        <li>Área lateral: A<sub>l</sub> = 2πRh.</li>\n        <li>Área total: A<sub>t</sub> = 2πR² + 2πRh.</li>\n      </ul>\n      \n      <h4>Pirâmides e Cones</h4>\n      <ul>\n        <li>Volume da pirâmide: V = (Área da base × altura)/3.</li>\n        <li>Volume do cone: V = (πR²h)/3.</li>\n      </ul>\n      \n      <h4>Esfera</h4>\n      <ul>\n        <li>Volume: V = (4/3)πR³.</li>\n        <li>Área da superfície: A = 4πR².</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Um cilindro reto tem raio 3 cm e altura 7 cm. Calcule volume e área total.</p>\n      <p><em>Solução:</em> V = π·3²·7 = 63π cm³. Área lateral = 2π·3·7 = 42π. Área total = 2·9π + 42π = 60π cm².</p>\n      \n      <p><strong>2.</strong> Uma esfera tem raio 6 cm. Qual seu volume?</p>\n      <p><em>Solução:</em> V = (4/3)π·6³ = 288π cm³.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Calcule o volume de um cone de raio 4 m e altura 9 m.</li>\n        <li>2. Uma pirâmide de base quadrada tem lado 5 cm e altura 12 cm. Determine seu volume.</li>\n        <li>3. Qual o raio de uma esfera cujo volume é 36π cm³?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "6. Trigonometria no Triângulo Retângulo",
+          "content": "\n      <h3>Trigonometria</h3>\n      <p>Relações métricas entre ângulos e lados em um triângulo retângulo. Usa-se o acrônimo SOH CAH TOA:</p>\n      <ul>\n        <li><strong>Seno (sen θ)</strong> = Cateto Oposto / Hipotenusa.</li>\n        <li><strong>Cosseno (cos θ)</strong> = Cateto Adjacente / Hipotenusa.</li>\n        <li><strong>Tangente (tan θ)</strong> = Cateto Oposto / Cateto Adjacente.</li>\n      </ul>\n      <p><strong>Relações fundamentais:</strong> sen²θ + cos²θ = 1, tanθ = senθ/cosθ.</p>\n      <p><strong>Ângulos notáveis:</strong> 30°, 45°, 60° (valores tabelados).</p>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Em um triângulo retângulo, a hipotenusa mede 13 cm e um cateto 5 cm. Calcule sen, cos e tan do ângulo oposto ao cateto de 5 cm.</p>\n      <p><em>Solução:</em> O cateto adjacente = √(13² − 5²) = 12 cm. sen = 5/13, cos = 12/13, tan = 5/12.</p>\n      \n      <p><strong>2.</strong> Calcule a altura de um prédio sabendo que a sombra mede 20 m e o ângulo de elevação do sol é 30°.</p>\n      <p><em>Solução:</em> tan 30° = h/20 ⇒ h = 20·tan30° = 20·(√3/3) ≈ 11,55 m.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Se senθ = 3/5, calcule cosθ e tanθ.</li>\n        <li>2. Uma escada de 6 m está encostada em uma parede, formando 60° com o chão. Qual a altura da parede?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "7. Análise Combinatória — Contando sem Listar",
+          "content": "\n      <h3>Análise Combinatória</h3>\n      <p>Conjunto de técnicas para contar possibilidades sem precisar enumerá-las.</p>\n      \n      <h4>Princípio Fundamental da Contagem (PFC)</h4>\n      <p>Se um evento pode ocorrer de m maneiras e, independente disso, outro pode ocorrer de n maneiras, então os dois juntos podem ocorrer de m·n maneiras.</p>\n      \n      <h4>Fatorial</h4>\n      <p>n! = n·(n−1)·...·1, com 0! = 1.</p>\n      \n      <h4>Permutação</h4>\n      <p>Arranjo de todos os elementos de um conjunto, onde a ordem importa. P<sub>n</sub> = n!.</p>\n      \n      <h4>Arranjo</h4>\n      <p>Escolha de p elementos dentre n, onde a ordem importa. A<sub>n,p</sub> = n!/(n−p)!.</p>\n      \n      <h4>Combinação</h4>\n      <p>Escolha de p elementos dentre n, onde a ordem não importa. C<sub>n,p</sub> = n!/[p!·(n−p)!].</p>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> De quantas maneiras podemos escolher 3 alunos dentre 10 para formar uma comissão?</p>\n      <p><em>Solução:</em> Combinação (ordem não importa) → C<sub>10,3</sub> = 10!/(3!·7!) = 120.</p>\n      \n      <p><strong>2.</strong> Quantos anagramas da palavra \"AMOR\" existem?</p>\n      <p><em>Solução:</em> Permutação de 4 letras → 4! = 24.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Quantos números de 4 algarismos distintos podemos formar com os dígitos 1 a 6?</li>\n        <li>2. De quantas formas podemos dispor 5 pessoas em uma fila?</li>\n        <li>3. Em uma prova com 10 questões, de quantas maneiras um aluno pode escolher 6 para responder?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "8. Probabilidade — Medindo a Chance",
+          "content": "\n      <h3>Probabilidade</h3>\n      <p>Mede a chance de um evento ocorrer em um experimento aleatório.</p>\n      \n      <h4>Definição Clássica</h4>\n      <p>P(E) = (número de casos favoráveis a E) / (número total de casos possíveis), supondo todos igualmente prováveis.</p>\n      \n      <h4>Propriedades</h4>\n      <ul>\n        <li>0 ≤ P(E) ≤ 1.</li>\n        <li>P(Ω) = 1 (evento certo).</li>\n        <li>P(∅) = 0 (evento impossível).</li>\n        <li>P(A ∪ B) = P(A) + P(B) − P(A ∩ B).</li>\n        <li>P(Ā) = 1 − P(A).</li>\n      </ul>\n      \n      <h4>Probabilidade Condicional e Independência</h4>\n      <p>P(A|B) = P(A ∩ B) / P(B). Dois eventos são independentes se P(A|B) = P(A) e P(A ∩ B) = P(A)·P(B).</p>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Lançando dois dados, qual a probabilidade de a soma ser 7?</p>\n      <p><em>Solução:</em> Casos possíveis = 36. Soma 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) → 6 casos. P = 6/36 = 1/6.</p>\n      \n      <p><strong>2.</strong> Uma urna tem 4 bolas vermelhas e 6 azuis. Retira-se uma, qual a probabilidade de ser vermelha?</p>\n      <p><em>Solução:</em> P = 4/10 = 0,4.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Qual a probabilidade de sair cara no lançamento de uma moeda?</li>\n        <li>2. Jogando um dado, qual a chance de obter um número par?</li>\n        <li>3. Retirando uma carta de um baralho de 52, qual a probabilidade de ser de ouros?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "9. Estatística Básica — Organizando Dados",
+          "content": "\n      <h3>Estatística Básica</h3>\n      <p>Conjunto de técnicas para coletar, organizar, analisar e interpretar dados.</p>\n      \n      <h4>Medidas de Tendência Central</h4>\n      <ul>\n        <li><strong>Média Aritmética:</strong> Soma de todos os valores dividida pela quantidade.</li>\n        <li><strong>Mediana:</strong> Valor central quando os dados estão ordenados. Se n ímpar, o do meio; se par, a média dos dois centrais.</li>\n        <li><strong>Moda:</strong> Valor que ocorre com maior frequência (pode ser amodal, unimodal, multimodal).</li>\n      </ul>\n      \n      <h4>Medidas de Dispersão</h4>\n      <ul>\n        <li><strong>Amplitude:</strong> Maior valor − menor valor.</li>\n        <li><strong>Variância:</strong> Média dos quadrados dos desvios em relação à média.</li>\n        <li><strong>Desvio padrão:</strong> Raiz quadrada da variância.</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Calcule média, mediana e moda dos dados: 2, 3, 3, 5, 7, 8.</p>\n      <p><em>Solução:</em> Média = (2+3+3+5+7+8)/6 = 28/6 ≈ 4,67. Mediana = (3+5)/2 = 4. Moda = 3 (aparece duas vezes).</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Dados: 10, 12, 12, 15, 18. Calcule média, mediana e variância.</li>\n        <li>2. Explique a diferença entre média e mediana.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "10. Logaritmos — O Inverso da Potência",
+          "content": "\n      <h3>Logaritmos</h3>\n      <p>Logaritmo é a operação inversa da exponenciação: log<sub>a</sub> b = c ⇔ a<sup>c</sup> = b (a > 0, a ≠ 1, b > 0).</p>\n      \n      <h4>Propriedades Fundamentais</h4>\n      <ul>\n        <li>log<sub>a</sub>(x·y) = log<sub>a</sub>x + log<sub>a</sub>y</li>\n        <li>log<sub>a</sub>(x/y) = log<sub>a</sub>x − log<sub>a</sub>y</li>\n        <li>log<sub>a</sub>(x<sup>k</sup>) = k·log<sub>a</sub>x</li>\n        <li>log<sub>a</sub>1 = 0 e log<sub>a</sub>a = 1</li>\n        <li>Mudança de base: log<sub>a</sub>b = (log<sub>c</sub>b)/(log<sub>c</sub>a)</li>\n      </ul>\n      \n      <h4>Logaritmos Especiais</h4>\n      <ul>\n        <li>Logaritmo decimal: log<sub>10</sub>x, geralmente escrito como log x.</li>\n        <li>Logaritmo neperiano (natural): log<sub>e</sub>x = ln x, onde e ≈ 2,71828.</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Calcule log<sub>2</sub> 16 + log<sub>3</sub> 81.</p>\n      <p><em>Solução:</em> log<sub>2</sub>16 = 4 (pois 2⁴=16); log<sub>3</sub>81 = 4 (pois 3⁴=81). Soma = 8.</p>\n      \n      <p><strong>2.</strong> Resolva log<sub>2</sub> (x−1) = 3.</p>\n      <p><em>Solução:</em> 2³ = x−1 ⇒ 8 = x−1 ⇒ x = 9.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Calcule log<sub>5</sub> 125.</li>\n        <li>2. Simplifique log<sub>2</sub> 8 + log<sub>2</sub> 4 − log<sub>2</sub> 2.</li>\n        <li>3. Determine log<sub>10</sub> 1000.</li>\n      </ul>\n    "
+        }
+      ]
+    },
+    {
+      "id": "portugues",
+      "name": "Português",
+      "color": "var(--red-text)",
+      "topics": [
+        {
+          "title": "1. Morfologia: Classes de Palavras — A Estrutura da Língua",
+          "content": "\n      <h3>Morfologia: As 10 Classes de Palavras</h3>\n      <p>A morfologia estuda a estrutura e classificação das palavras. As palavras são agrupadas em 10 classes gramaticais.</p>\n      \n      <h4>Classes Variáveis (se flexionam em gênero, número, grau, pessoa, tempo, modo)</h4>\n      <ul>\n        <li><strong>Substantivo:</strong> Nomeia seres, objetos, sentimentos, ideias. Ex: casa, amor, João.</li>\n        <li><strong>Adjetivo:</strong> Caracteriza ou qualifica o substantivo. Ex: belo, rápido, brasileiro.</li>\n        <li><strong>Artigo:</strong> Antecede o substantivo, definindo-o (o, a, os, as) ou indefinindo-o (um, uma, uns, umas).</li>\n        <li><strong>Numeral:</strong> Indica quantidade, ordem, fração ou multiplicação. Ex: dois, primeiro, metade, dobro.</li>\n        <li><strong>Pronome:</strong> Substitui ou acompanha o substantivo. Pessoais (eu, tu, ele...), possessivos (meu, teu...), demonstrativos (este, esse, aquele...), relativos (que, qual, cujo...), indefinidos (algum, nenhum, todo...).</li>\n        <li><strong>Verbo:</strong> Expressa ação, estado ou fenômeno. Ex: correr, ser, chover.</li>\n      </ul>\n      \n      <h4>Classes Invariáveis (não se flexionam)</h4>\n      <ul>\n        <li><strong>Advérbio:</strong> Modifica o verbo, o adjetivo ou outro advérbio. Ex: bem, muito, aqui, rapidamente.</li>\n        <li><strong>Preposição:</strong> Liga termos em uma oração, estabelecendo relação de dependência. Ex: de, em, para, com, sem.</li>\n        <li><strong>Conjunção:</strong> Liga orações ou termos de mesma função sintática. Ex: e, mas, porque, portanto.</li>\n        <li><strong>Interjeição:</strong> Expressa emoção, sentimento. Ex: Ah!, Oh!, Puxa!, Oba!</li>\n      </ul>\n      \n      <h4>Exemplos de Análise</h4>\n      <p>\"A bela menina correu rapidamente.\"</p>\n      <ul>\n        <li>A: artigo</li>\n        <li>bela: adjetivo</li>\n        <li>menina: substantivo</li>\n        <li>correu: verbo</li>\n        <li>rapidamente: advérbio</li>\n      </ul>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Classifique as palavras: \"Os livros são interessantes.\"</li>\n        <li>2. Identifique a classe de \"felizmente\", \"meu\", \"alegria\".</li>\n      </ul>\n    "
+        },
+        {
+          "title": "2. Sintaxe: Sujeito e Predicado — A Estrutura da Oração",
+          "content": "\n      <h3>Sintaxe: Sujeito e Predicado</h3>\n      <p>O estudo da sintaxe analisa como as palavras se organizam em orações. Toda oração possui um sujeito e um predicado.</p>\n      \n      <h4>Sujeito</h4>\n      <p>É o termo sobre o qual se declara algo. Pode ser:</p>\n      <ul>\n        <li><strong>Simples:</strong> Um único núcleo. Ex: \"O aluno estudou.\"</li>\n        <li><strong>Composto:</strong> Mais de um núcleo. Ex: \"Pedro e Paulo chegaram.\"</li>\n        <li><strong>Oculto (implícito):</strong> Não aparece, mas é identificado pela desinência verbal. Ex: \"(Nós) Partimos.\"</li>\n        <li><strong>Indeterminado:</strong> Não se sabe quem realiza a ação. Usa-se verbo na 3ª pessoa do plural ou com o \"se\" indeterminador. Ex: \"Falam mal de você.\"</li>\n        <li><strong>Inexistente:</strong> Orações sem sujeito (verbos impessoais: haver no sentido de existir, fazer indicando tempo, fenômenos da natureza). Ex: \"Choveu muito.\"</li>\n      </ul>\n      \n      <h4>Predicado</h4>\n      <p>É tudo o que se declara sobre o sujeito. Pode ser:</p>\n      <ul>\n        <li><strong>Verbal:</strong> Apresenta um verbo significativo (ação). Ex: \"Ela estudou matemática.\"</li>\n        <li><strong>Nominal:</strong> Apresenta um verbo de ligação (ser, estar, ficar, parecer) e um predicativo do sujeito. Ex: \"Ela é inteligente.\"</li>\n        <li><strong>Verbo-Nominal:</strong> Possui dois núcleos: verbo significativo + predicativo do sujeito ou do objeto. Ex: \"O aluno saiu cansado.\"</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p>Analise sintaticamente: \"Os pássaros cantam alegremente no jardim.\"</p>\n      <ul>\n        <li>Sujeito: Os pássaros (simples, núcleo: pássaros).</li>\n        <li>Predicado: cantam alegremente no jardim (verbal, verbo \"cantar\").</li>\n      </ul>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Classifique o sujeito: \"Carlos e Ana viajarão amanhã.\"</li>\n        <li>2. Classifique o predicado: \"O dia estava ensolarado.\"</li>\n      </ul>\n    "
+        },
+        {
+          "title": "3. Concordância Nominal e Verbal — A Harmonia da Língua",
+          "content": "\n      <h3>Concordância Nominal e Verbal</h3>\n      <p>A concordância é a relação de harmonia entre os termos da oração em gênero, número e pessoa.</p>\n      \n      <h4>Concordância Verbal</h4>\n      <p>O verbo concorda em número e pessoa com o núcleo do sujeito.</p>\n      <ul>\n        <li>Sujeito simples: verbo no singular/plural conforme o núcleo. Ex: \"O aluno estudou.\" / \"Os alunos estudaram.\"</li>\n        <li>Sujeito composto: verbo vai para o plural. Ex: \"João e Maria cantam.\"</li>\n        <li>Sujeito com \"mais de um\": verbo no singular. Ex: \"Mais de um aluno faltou.\"</li>\n        <li>Sujeito com expressões partitivas (a maioria de, grande parte de): verbo concorda com o núcleo ou com o complemento. Ex: \"A maioria dos alunos aprovou/aprovaram.\" (ambas válidas).</li>\n        <li>Verbo impessoal (haver, fazer): sempre na 3ª pessoa do singular. Ex: \"Havia muitos problemas.\"</li>\n      </ul>\n      \n      <h4>Concordância Nominal</h4>\n      <p>Os determinantes (artigos, adjetivos, pronomes) concordam em gênero e número com o substantivo.</p>\n      <ul>\n        <li>Ex: \"As meninas bonitas.\" (artigo, adjetivo, substantivo todos no plural feminino).</li>\n        <li>Quando um adjetivo se refere a mais de um substantivo de gêneros diferentes: vai para o masculino plural. Ex: \"Camisa e calça novas.\"</li>\n        <li>Adjetivo anteposto: pode concordar com o mais próximo ou com todos. Ex: \"Foram contratados o gerente e o secretário.\" / \"Foram contratado o gerente e o secretário.\" (ambas válidas).</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Corrija: \"Fazem três anos que não o vejo.\"</p>\n      <p><em>Solução:</em> \"Faz três anos...\" (verbo fazer impessoal, 3ª pessoa do singular).</p>\n      \n      <p><strong>2.</strong> Corrija: \"Ele mesmo fez o trabalho.\" (concordância do pronome \"mesmo\").</p>\n      <p><em>Solução:</em> Está correta, pois \"mesmo\" concorda com o sujeito.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Complete: \"________ (havia / haviam) muitos livros.\"</li>\n        <li>2. \"A bela paisagem e o mar _______ (azul / azuis).\"</li>\n      </ul>\n    "
+        },
+        {
+          "title": "4. Regência e Crase — Relações entre Palavras",
+          "content": "\n      <h3>Regência e Crase</h3>\n      \n      <h4>Regência</h4>\n      <p>A regência estuda a relação de dependência entre as palavras, principalmente entre o verbo (ou nome) e seus complementos.</p>\n      <ul>\n        <li><strong>Regência verbal:</strong> Verbo transitivo direto (sem preposição): \"Ele ama a natureza.\" / Verbo transitivo indireto (com preposição): \"Ele gosta de música.\"</li>\n        <li><strong>Exemplos comuns:</strong> Assistir (no sentido de ver) é VTI (pede preposição a): \"Assisti ao filme.\" / Assistir (no sentido de ajudar) é VTD: \"Assisti o doente.\"</li>\n        <li><strong>Regência nominal:</strong> Relação entre um nome (substantivo, adjetivo, advérbio) e seu complemento. Ex: \"Necessidade de\", \"Capaz de\", \"Longe de\".</li>\n      </ul>\n      \n      <h4>Crase</h4>\n      <p>A crase é a fusão da preposição \"a\" com o artigo feminino \"a\" (à) ou com os demonstrativos aquele(s), aquela(s), aquilo.</p>\n      <ul>\n        <li><strong>Ocorre:</strong> Antes de palavras femininas que admitem artigo e quando exigidas pela regência. Ex: \"Vou à escola.\" (preposição a + artigo a).</li>\n        <li><strong>Dica:</strong> Substitua a palavra feminina por uma masculina. Se aparecer \"ao\", usa-se crase. Ex: \"Vou à escola\" → \"Vou ao colégio\" (crase).</li>\n        <li><strong>Não ocorre:</strong> Antes de verbos, pronomes, ou palavras masculinas. Ex: \"Vou a pé\" (sem crase).</li>\n        <li><strong>Casos facultativos:</strong> Antes de pronomes possessivos femininos no singular. Ex: \"Ela se referiu à sua mãe\" (facultativo).</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> \"Chegamos ________ (a) praça.\"</p>\n      <p><em>Solução:</em> à, pois praça é feminino e exige artigo.</p>\n      \n      <p><strong>2.</strong> \"O livro foi escrito ________ (a) mão.\"</p>\n      <p><em>Solução:</em> a, sem crase, pois \"mão\" é usado sem artigo nessa expressão.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Complete com crase ou não: \"Vou _____ (a) Bahia.\"</li>\n        <li>2. \"Refiro-me _____ (a) você.\"</li>\n      </ul>\n    "
+        },
+        {
+          "title": "5. Pontuação — Organizando o Texto",
+          "content": "\n      <h3>Pontuação (ênfase na Vírgula)</h3>\n      <p>A pontuação é essencial para a clareza e coesão do texto. Vamos focar no uso correto da vírgula.</p>\n      \n      <h4>Regras básicas para o uso da vírgula</h4>\n      <ul>\n        <li><strong>Não separa sujeito de predicado.</strong> Errado: \"O aluno, estudou muito.\" Correto: \"O aluno estudou muito.\"</li>\n        <li><strong>Separa termos de uma enumeração.</strong> Ex: \"Comprei maçãs, peras e bananas.\"</li>\n        <li><strong>Isola o vocativo.</strong> Ex: \"João, venha aqui.\"</li>\n        <li><strong>Isola o aposto explicativo.</strong> Ex: \"Brasília, a capital do Brasil, é uma cidade planejada.\"</li>\n        <li><strong>Isola adjuntos adverbiais deslocados.</strong> Ex: \"À tarde, iremos ao cinema.\"</li>\n        <li><strong>Separa orações coordenadas assindéticas e sindéticas (exceto as aditivas).</strong> Ex: \"Ele chegou, viu e venceu.\" / \"Estudou, mas não passou.\"</li>\n        <li><strong>Separa orações subordinadas adjetivas explicativas.</strong> Ex: \"O aluno, que estudou muito, passou.\" (explicativa). As restritivas não usam vírgula: \"O aluno que estudou muito passou.\" (restritiva).</li>\n        <li><strong>Separa termos repetidos.</strong> Ex: \"Ele falava, falava e ninguém ouvia.\"</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p>Analise a pontuação: \"Maria, a irmã de João, chegou cedo, e foi embora tarde.\"</p>\n      <ul>\n        <li>Vírgula após \"Maria\": isola o aposto explicativo \"a irmã de João\".</li>\n        <li>Vírgula antes de \"e\": separa orações coordenadas (sujeitos diferentes).</li>\n      </ul>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Coloque vírgulas onde necessário: \"O aluno que faltou perdeu a matéria.\"</li>\n        <li>2. \"Belo Horizonte a capital de Minas Gerais é uma cidade acolhedora.\"</li>\n      </ul>\n    "
+        },
+        {
+          "title": "6. Figuras de Linguagem — Expressividade e Estilo",
+          "content": "\n      <h3>Figuras de Linguagem</h3>\n      <p>Recursos estilísticos que conferem expressividade, ênfase ou beleza ao texto.</p>\n      \n      <h4>Principais Figuras</h4>\n      <ul>\n        <li><strong>Metáfora:</strong> Comparação implícita (sem conectivo). Ex: \"A vida é uma estrada.\"</li>\n        <li><strong>Metonímia:</strong> Substituição de um termo por outro com relação de contiguidade (causa/efeito, autor/obra, continente/conteúdo). Ex: \"Ler Machado\" (a obra de Machado).</li>\n        <li><strong>Catacrese:</strong> Uso de uma palavra por falta de termo específico. Ex: \"Perna da mesa.\"</li>\n        <li><strong>Eufemismo:</strong> Suavização de uma ideia desagradável. Ex: \"Ele partiu\" (morreu).</li>\n        <li><strong>Hipérbole:</strong> Exagero intencional. Ex: \"Estou morrendo de fome.\"</li>\n        <li><strong>Prosopopeia (personificação):</strong> Atribuir características humanas a seres inanimados. Ex: \"O vento sussurrou.\"</li>\n        <li><strong>Ironia:</strong> Afirmar o contrário do que se pensa, com tom crítico. Ex: \"Que belo dia!\" em um dia chuvoso.</li>\n        <li><strong>Antítese:</strong> Aproximação de palavras ou ideias opostas. Ex: \"Amor e ódio.\"</li>\n        <li><strong>Paradoxo:</strong> Ideia aparentemente contraditória, mas que faz sentido no contexto. Ex: \"O silêncio era ensurdecedor.\"</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p>Identifique a figura: \"O tempo é um senhor de barbas grisalhas.\"</p>\n      <p><em>Solução:</em> Metáfora (comparação implícita entre tempo e senhor).</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Que figura está em \"A lua beijava o mar\"?</li>\n        <li>2. \"Comi um prato de feijão\" é um exemplo de quê?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "7. Interpretação de Texto — Indo Além das Palavras",
+          "content": "\n      <h3>Interpretação e Compreensão Textual</h3>\n      <p>Ler não é apenas decodificar; é construir sentido.</p>\n      \n      <h4>Compreensão vs. Interpretação</h4>\n      <ul>\n        <li><strong>Compreensão:</strong> Identifica o que está literalmente escrito. Respostas explícitas no texto. Ex: \"O texto diz que a chuva caiu.\"</li>\n        <li><strong>Interpretação:</strong> Infere ideias implícitas, relaciona com conhecimentos prévios, deduz consequências. Ex: \"O texto sugere que a chuva atrapalhou o evento.\"</li>\n      </ul>\n      \n      <h4>Estratégias de Leitura</h4>\n      <ul>\n        <li>Faça uma leitura geral (skimming) para captar o tema.</li>\n        <li>Leia atentamente, grifando palavras-chave, ideias principais.</li>\n        <li>Identifique a estrutura do texto (introdução, desenvolvimento, conclusão).</li>\n        <li>Observe os conectivos (portanto, no entanto, etc.) que indicam relações lógicas.</li>\n        <li>Responda às perguntas com base no texto, não com opinião pessoal.</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>Texto: \"A chuva não parava, mas o jogo foi realizado.\"</p>\n      <ul>\n        <li>Compreensão: O jogo aconteceu apesar da chuva.</li>\n        <li>Interpretação: Houve obstáculo climático, mas houve persistência.</li>\n      </ul>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Leia um texto curto e separe compreensão e interpretação.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "8. Funções da Linguagem — O Propósito da Comunicação",
+          "content": "\n      <h3>Funções da Linguagem</h3>\n      <p>Cada ato comunicativo tem uma finalidade predominante. As funções refletem o foco da mensagem.</p>\n      \n      <ul>\n        <li><strong>Referencial (ou denotativa):</strong> Foco na informação, na objetividade. Ex: notícia, texto científico. Linguagem direta e clara.</li>\n        <li><strong>Emotiva (ou expressiva):</strong> Foco no emissor (eu). Exprime sentimentos, opiniões. Marcas de 1ª pessoa, interjeições. Ex: diário pessoal.</li>\n        <li><strong>Apelativa (conativa):</strong> Foco no receptor (tu). Busca convencer, ordenar, pedir. Usa verbos no imperativo, pronomes de tratamento. Ex: propaganda, discurso político.</li>\n        <li><strong>Metalinguística:</strong> Foco no código (a própria linguagem). O emissor explica o código. Ex: dicionários, gramáticas, poemas que falam sobre poesia.</li>\n        <li><strong>Fática:</strong> Foco no canal de comunicação. Testa ou mantém o contato. Ex: cumprimentos (\"Alô?\"), conversa fiada.</li>\n        <li><strong>Poética:</strong> Foco na mensagem em si, na sua forma, na estética. Ex: poemas, letras de música, propaganda criativa.</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>\"Amanhã farei uma prova.\" — Função referencial.</p>\n      <p>\"Que dia horrível!\" — Função emotiva.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Identifique a função em \"A gramática explica a língua.\"</li>\n        <li>2. \"Você está me ouvindo?\" — qual função?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "9. Variação Linguística — A Língua em Movimento",
+          "content": "\n      <h3>Variação Linguística</h3>\n      <p>A língua não é homogênea; ela varia conforme fatores sociais, geográficos, históricos e situacionais.</p>\n      \n      <h4>Tipos de Variação</h4>\n      <ul>\n        <li><strong>Variação geográfica (diatópica):</strong> Diferenças regionais. Ex: macaxeira (Norte/NE), mandioca (Sul), aipim (Centro-Oeste) para o mesmo tubérculo.</li>\n        <li><strong>Variação social (diastrática):</strong> Ligada a classe social, idade, escolaridade, gênero. Ex: gírias (jovens), jargões profissionais (médicos, advogados).</li>\n        <li><strong>Variação situacional (diafásica):</strong> Adequação ao contexto: formal (entrevista, reunião) versus informal (conversa entre amigos).</li>\n        <li><strong>Variação histórica (diacrônica):</strong> Mudanças ao longo do tempo. Ex: \"vosmecê\" → \"você\".</li>\n      </ul>\n      \n      <h4>Preconceito Linguístico</h4>\n      <p>Nenhuma variante é superior a outra. O preconceito linguístico é injusto e revela discriminação social. A norma-padrão é uma das variantes, geralmente a de prestígio, mas não a única.</p>\n      \n      <h4>Exemplo</h4>\n      <p>\"Nós vai\" é uma forma comum em algumas regiões e contextos informais, mas na escrita formal usamos \"nós vamos\".</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Dê exemplos de variação regional do português.</li>\n        <li>2. Qual a importância de conhecer a norma-padrão?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "10. Tipologia Textual — Gêneros e Tipos de Texto",
+          "content": "\n      <h3>Tipologia e Gêneros Textuais</h3>\n      <p>Os textos podem ser classificados por sua estrutura e propósito (tipos) e por sua forma de circulação (gêneros).</p>\n      \n      <h4>Tipos Textuais (sequências dominantes)</h4>\n      <ul>\n        <li><strong>Narrativo:</strong> Conta uma história, com personagens, tempo, espaço, enredo. Ex: conto, romance, crônica, fábula.</li>\n        <li><strong>Descritivo:</strong> Apresenta características de seres ou objetos. Ex: retrato, guia turístico.</li>\n        <li><strong>Dissertativo-Argumentativo:</strong> Defende uma tese com argumentos. Estrutura: tese, desenvolvimento (argumentos) e conclusão. Ex: artigo de opinião, redação do ENEM.</li>\n        <li><strong>Expositivo (ou informativo):</strong> Apresenta informações objetivas, sem argumentação explícita. Ex: verbete enciclopédico, relatório.</li>\n        <li><strong>Injuntivo (ou instrucional):</strong> Dá ordens, instruções, prescrições. Ex: receita, manual de instruções, bula de remédio.</li>\n      </ul>\n      \n      <h4>Gêneros Textuais</h4>\n      <p>São os textos concretos que circulam socialmente: carta, e-mail, notícia, reportagem, editorial, poema, propaganda, etc. Cada gênero tem características próprias (estrutura, linguagem, propósito).</p>\n      \n      <h4>Exemplo</h4>\n      <p>A redação do ENEM é predominantemente dissertativo-argumentativa, mas pode incluir trechos narrativos ou descritivos.</p>\n      \n      <h4>Exercícios Propostos</h4>\n      <ul>\n        <li>1. Qual o tipo textual predominante em uma notícia?</li>\n        <li>2. Diferencie conto de artigo de opinião.</li>\n      </ul>\n    "
+        }
+      ]
+    },
+    {
+      "id": "redacao",
+      "name": "Redação",
+      "color": "var(--cat-purple)",
+      "topics": [
+        {
+          "title": "1. Estrutura da Dissertação Argumentativa — O Modelo ENEM",
+          "content": "\n      <h3>Estrutura da Dissertação Argumentativa (ENEM)</h3>\n      <p>A redação do ENEM deve ser um texto dissertativo-argumentativo, com no mínimo 7 linhas e no máximo 30 linhas, geralmente organizado em 4 a 5 parágrafos.</p>\n      \n      <h4>Estrutura Clássica</h4>\n      <ul>\n        <li><strong>Introdução (1º parágrafo):</strong> Apresenta o tema, a tese (opinião) e os argumentos que serão desenvolvidos. Deve conter: contextualização (repertório), problematização e tese.</li>\n        <li><strong>Desenvolvimento 1 (2º parágrafo):</strong> Primeiro argumento (tópico-frase), comprovação com repertório sociocultural (dados, citações, exemplos), fechamento parcial.</li>\n        <li><strong>Desenvolvimento 2 (3º parágrafo):</strong> Segundo argumento, com a mesma estrutura, aprofundando a discussão.</li>\n        <li><strong>Desenvolvimento 3 (opcional, 4º parágrafo):</strong> Pode ser usado para contrapor ou aprofundar ainda mais.</li>\n        <li><strong>Conclusão (último parágrafo):</strong> Retoma a tese, sintetiza os argumentos e apresenta a proposta de intervenção (detalhada e com agentes).</li>\n      </ul>\n      \n      <h4>Importância da Coesão</h4>\n      <p>Use conectivos adequados para garantir a progressão lógica: \"Além disso\", \"Contudo\", \"Portanto\", \"Em síntese\", etc.</p>\n      \n      <h4>Exemplo de Estrutura</h4>\n      <p>Introdução: \"A violência no trânsito é um problema crônico no Brasil. Segundo o IPEA, ... Portanto, medidas eficazes são urgentes.\"</p>\n      <p>Desenvolvimento: \"Em primeiro lugar, a fiscalização inadequada ...\"</p>\n      <p>Conclusão: \"Para mitigar o problema, o governo deve investir em educação e fiscalização, por meio de ...\"</p>\n      \n      <h4>Exercício</h4>\n      <ul>\n        <li>1. Esboce a estrutura de uma redação sobre \"Desafios da educação a distância no Brasil\".</li>\n      </ul>\n    "
+        },
+        {
+          "title": "2. A Tese — A Espinha Dorsal da Redação",
+          "content": "\n      <h3>A Tese (ou Tema-Tese)</h3>\n      <p>A tese é a sua resposta ao problema proposto pelo tema. Ela deve ser clara, objetiva, impessoal (3ª pessoa) e aparecer no final da introdução.</p>\n      \n      <h4>Características de uma boa tese</h4>\n      <ul>\n        <li><strong>Direta:</strong> Expressa sua posição sem rodeios.</li>\n        <li><strong>Abarcadora:</strong> Contém os elementos que serão desenvolvidos nos parágrafos seguintes.</li>\n        <li><strong>Polêmica:</strong> Apresenta um ponto de vista que pode ser contestado, gerando argumentação.</li>\n      </ul>\n      \n      <h4>Exemplos</h4>\n      <p><strong>Tema:</strong> \"Desafios para a valorização da cultura indígena no Brasil\"</p>\n      <p><strong>Tese:</strong> \"A superação desses desafios exige políticas públicas eficazes de preservação cultural e o combate aos estereótipos históricos.\"</p>\n      <p>Nessa tese, os dois argumentos já estão implícitos: (1) políticas públicas, (2) combate a estereótipos.</p>\n      \n      <h4>Como construir a tese</h4>\n      <ul>\n        <li>Leia o tema atentamente, identificando palavras-chave.</li>\n        <li>Pergunte-se: \"Qual é o problema central?\" e \"O que deve ser feito?\"</li>\n        <li>Formule uma frase que contenha sua posição e os aspectos que serão abordados.</li>\n      </ul>\n      \n      <h4>Exercício</h4>\n      <ul>\n        <li>1. Elabore uma tese para o tema \"A importância do esporte na formação do jovem\".</li>\n      </ul>\n    "
+        },
+        {
+          "title": "3. Repertório Sociocultural — Como Enriquecer seus Argumentos",
+          "content": "\n      <h3>Repertório Sociocultural</h3>\n      <p>O repertório sociocultural é o conhecimento de mundo que você utiliza para legitimar seus argumentos. Ele é avaliado na Competência 2 do ENEM.</p>\n      \n      <h4>O que pode ser usado como repertório?</h4>\n      <ul>\n        <li><strong>Dados estatísticos:</strong> Pesquisas, censos (IBGE, IPEA, ONGs).</li>\n        <li><strong>Referências históricas:</strong> Eventos, períodos (Revolução Francesa, Ditadura Militar).</li>\n        <li><strong>Filosofia e sociologia:</strong> Pensadores (Foucault, Bauman, Durkheim, Marx).</li>\n        <li><strong>Literatura:</strong> Obras, autores (Machado de Assis, Clarice Lispector).</li>\n        <li><strong>Artes:</strong> Filmes, músicas, pinturas (ex: \"A Hora da Estrela\", \"O Alienista\").</li>\n        <li><strong>Constituição e leis:</strong> Dispositivos legais (CF/88, ECA, LDB).</li>\n        <li><strong>Experiência pessoal:</strong> Usada com moderação e sempre de forma impessoal (ex: \"Fatos cotidianos mostram que...\").</li>\n      </ul>\n      \n      <h4>Critérios para uso</h4>\n      <ul>\n        <li><strong>Legitimidade:</strong> Fonte confiável.</li>\n        <li><strong>Pertinência:</strong> Relação direta com o tema e a tese.</li>\n        <li><strong>Produtividade:</strong> O repertório deve ser explorado (analisado, não apenas citado).</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>\"Como afirmou o sociólogo Zygmunt Bauman, a modernidade líquida caracteriza-se pela fragilidade dos laços sociais. Esse fenômeno é visível nas relações de trabalho contemporâneas, onde ...\"</p>\n      \n      <h4>Exercício</h4>\n      <ul>\n        <li>1. Escolha um tema e liste três repertórios que você poderia usar.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "4. Coesão Textual — Conectando Ideias",
+          "content": "\n      <h3>Coesão Textual (Competência 4)</h3>\n      <p>A coesão é o conjunto de recursos linguísticos que garantem a ligação entre as partes do texto, criando um fluxo lógico.</p>\n      \n      <h4>Elementos Coesivos</h4>\n      <ul>\n        <li><strong>Conjunções e locuções conjuntivas:</strong> e, mas, portanto, porque, embora, etc.</li>\n        <li><strong>Pronomes:</strong> Relativos (que, o qual), demonstrativos (esse, aquele), possessivos (seu, minha).</li>\n        <li><strong>Advérbios e locuções adverbiais:</strong> então, assim, todavia, por outro lado.</li>\n        <li><strong>Sinônimos e paráfrases:</strong> repetir ideias com outras palavras.</li>\n      </ul>\n      \n      <h4>Principais Conectivos por Relação</h4>\n      <ul>\n        <li><strong>Adição:</strong> e, além disso, ademais, outrossim, também.</li>\n        <li><strong>Oposição/Contraste:</strong> mas, porém, contudo, no entanto, entretanto, em contrapartida.</li>\n        <li><strong>Causa e consequência:</strong> porque, pois, já que, visto que, portanto, logo, por conseguinte.</li>\n        <li><strong>Condição:</strong> se, caso, contanto que, desde que.</li>\n        <li><strong>Finalidade:</strong> para que, a fim de que.</li>\n        <li><strong>Conclusão:</strong> então, assim, desse modo, em síntese.</li>\n      </ul>\n      \n      <h4>Exemplo de uso</h4>\n      <p>\"A poluição afeta a saúde; portanto, medidas de controle devem ser adotadas.\"</p>\n      \n      <h4>Exercício</h4>\n      <ul>\n        <li>1. Reescreva o parágrafo seguinte usando conectivos adequados: \"A tecnologia avança. As pessoas ainda têm dificuldade de adaptação. A educação precisa acompanhar as mudanças.\"</li>\n      </ul>\n    "
+        },
+        {
+          "title": "5. Proposta de Intervenção — Como Resolver o Problema",
+          "content": "\n      <h3>Proposta de Intervenção</h3>\n      <p>A proposta de intervenção é a parte da conclusão que apresenta uma solução para o problema abordado. No ENEM, ela é avaliada na Competência 5.</p>\n      \n      <h4>Elementos obrigatórios</h4>\n      <p>Você deve apresentar os 5 elementos a seguir:</p>\n      <ul>\n        <li><strong>Agente:</strong> Quem vai executar a ação? (ex: Ministério da Educação, ONGs, empresas).</li>\n        <li><strong>Ação:</strong> O que vai ser feito? (ex: implementar aulas de educação financeira).</li>\n        <li><strong>Meio/Modo:</strong> Como será feito? (ex: por meio de parcerias com instituições financeiras).</li>\n        <li><strong>Efeito/Finalidade:</strong> Para que? (ex: para promover a educação financeira desde a infância).</li>\n        <li><strong>Detalhamento:</strong> Um complemento que especifica a ação (ex: em todas as escolas da rede pública).</li>\n      </ul>\n      \n      <h4>Exemplo completo</h4>\n      <p>\"Para combater o abandono escolar, o Ministério da Educação (agente) deve criar um programa de mentoria (ação) em parceria com universidades (meio), com o objetivo de oferecer apoio pedagógico e emocional (finalidade), especialmente aos alunos do Ensino Médio em situação de vulnerabilidade (detalhamento).\"</p>\n      \n      <h4>Dicas</h4>\n      <ul>\n        <li>Seja específico, evite soluções vagas como \"as autoridades devem agir\".</li>\n        <li>Relacione a proposta com os argumentos desenvolvidos.</li>\n        <li>Respeite os direitos humanos (ex: não sugerir medidas violentas).</li>\n      </ul>\n      \n      <h4>Exercício</h4>\n      <ul>\n        <li>1. Elabore uma proposta de intervenção para o tema \"Desafios para a inclusão de pessoas com deficiência no mercado de trabalho\".</li>\n      </ul>\n    "
+        },
+        {
+          "title": "6. Tipos de Introdução — Começando com Estilo",
+          "content": "\n      <h3>Como Introduzir sua Redação</h3>\n      <p>A introdução é a primeira impressão que o corretor terá. Ela deve ser impactante, clara e apresentar a tese.</p>\n      \n      <h4>Estratégias de abertura</h4>\n      <ul>\n        <li><strong>Alusão histórica:</strong> Remete a um evento do passado. Ex: \"Desde a colonização, a cultura indígena é marginalizada...\"</li>\n        <li><strong>Citação filosófica ou literária:</strong> Traz um pensamento de um autor. Ex: \"Como afirmou Sartre, o homem é condenado a ser livre...\"</li>\n        <li><strong>Dados estatísticos:</strong> Começa com números. Ex: \"Segundo o IBGE, 13% da população brasileira vive em favelas...\"</li>\n        <li><strong>Referência cultural:</strong> Cita filme, música, série. Ex: \"No filme 'A Vila', a comunidade busca isolamento...\"</li>\n        <li><strong>Pergunta retórica:</strong> Instiga o leitor. Ex: \"Por que ainda há tanta desigualdade de gênero?\"</li>\n        <li><strong>Declaração polêmica:</strong> Frase de impacto. Ex: \"O Brasil é um país que despreza sua própria história.\"</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p><strong>Tema:</strong> \"A importância da leitura na formação do cidadão\"</p>\n      <p><strong>Introdução usando alusão histórica:</strong> \"Na Grécia Antiga, a leitura era privilégio de poucos. Hoje, apesar dos avanços, o brasileiro ainda lê poucos livros por ano. Diante desse cenário, é fundamental compreender os benefícios da leitura e incentivar seu hábito desde a infância.\"</p>\n      \n      <h4>Exercício</h4>\n      <ul>\n        <li>1. Escreva duas introduções diferentes para o tema \"O papel do esporte na saúde pública\".</li>\n      </ul>\n    "
+        },
+        {
+          "title": "7. Construção do Desenvolvimento — Parágrafos Sólidos",
+          "content": "\n      <h3>Estrutura do Parágrafo de Desenvolvimento</h3>\n      <p>Cada parágrafo de desenvolvimento deve seguir uma estrutura interna que garanta coesão e progressão argumentativa.</p>\n      \n      <h4>Estrutura recomendada</h4>\n      <ul>\n        <li><strong>Tópico-frase:</strong> Primeira frase, contém o argumento central do parágrafo (geralmente o que foi anunciado na tese).</li>\n        <li><strong>Comprovação:</strong> Uso de repertório (dados, exemplos, citações) para sustentar o tópico-frase.</li>\n        <li><strong>Fechamento parcial:</strong> Uma frase que conclui o raciocínio do parágrafo e, se possível, faz uma transição para o próximo.</li>\n      </ul>\n      \n      <h4>Exemplo completo</h4>\n      <p><strong>Tópico-frase:</strong> \"Em primeiro lugar, a falta de fiscalização contribui para o aumento da violência no trânsito.\"</p>\n      <p><strong>Comprovação:</strong> \"De acordo com o IPEA, a cada hora morrem duas pessoas em acidentes de trânsito no Brasil, grande parte devido à imprudência e à ausência de agentes nas vias.\"</p>\n      <p><strong>Fechamento:</strong> \"Portanto, é urgente que o poder público invista em tecnologia e em maior efetivo para coibir infrações.\"</p>\n      \n      <h4>Dicas</h4>\n      <ul>\n        <li>Use ao menos dois parágrafos de desenvolvimento.</li>\n        <li>Cada parágrafo deve abordar um argumento diferente.</li>\n        <li>Varie o repertório (dados, exemplos, citações).</li>\n      </ul>\n      \n      <h4>Exercício</h4>\n      <ul>\n        <li>1. Desenvolva um parágrafo para o tema \"Desafios da mobilidade urbana\" seguindo a estrutura proposta.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "8. Erros Fatais — Fuga e Tangenciamento",
+          "content": "\n      <h3>Erros Fatais na Redação</h3>\n      <p>Dois erros podem comprometer gravemente sua nota: fuga ao tema e tangenciamento.</p>\n      \n      <h4>Fuga ao tema</h4>\n      <p>Ocorre quando você escreve sobre um assunto completamente diferente do proposto. Isso resulta em nota zero na redação.</p>\n      <p><strong>Exemplo:</strong> Tema: \"Desafios da educação no Brasil\". O candidato escreve sobre o meio ambiente.</p>\n      \n      <h4>Tangenciamento (ou \"tema tangenciado\")</h4>\n      <p>Ocorre quando você aborda apenas uma parte do tema, ou desvia para um aspecto secundário, sem responder ao que foi pedido. A nota pode ser muito baixa.</p>\n      <p><strong>Exemplo:</strong> Tema: \"Desafios da educação no Brasil\". O candidato fala apenas sobre o professor, sem mencionar outros desafios (infraestrutura, gestão, etc.).</p>\n      \n      <h4>Como evitar?</h4>\n      <ul>\n        <li>Leia o tema várias vezes, identifique palavras-chave (sujeito, complemento).</li>\n        <li>Na introdução, escreva todas as palavras-chave para garantir alinhamento.</li>\n        <li>Nos desenvolvimentos, sempre relacione seus argumentos com o tema.</li>\n        <li>Na conclusão, retome o tema explicitamente.</li>\n      </ul>\n      \n      <h4>Exercício</h4>\n      <ul>\n        <li>1. Dado o tema \"Os efeitos da tecnologia no mercado de trabalho\", escreva uma frase de introdução que evite tangenciamento.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "9. Dicas de Gramática — A Norma-Padrão",
+          "content": "\n      <h3>Competência 1 — Domínio da Norma-Padrão</h3>\n      <p>O ENEM exige o uso da norma-padrão da língua portuguesa. Erros gramaticais podem penalizar sua nota.</p>\n      \n      <h4>Erros comuns a evitar</h4>\n      <ul>\n        <li><strong>Concordância:</strong> \"Haviam pessoas\" (errado) → \"Havia pessoas\".</li>\n        <li><strong>Regência:</strong> \"Assisti o filme\" (errado) → \"Assisti ao filme\" (no sentido de ver).</li>\n        <li><strong>Crase:</strong> \"Vou a escola\" (errado) → \"Vou à escola\".</li>\n        <li><strong>Pronomes oblíquos:</strong> \"Me dá\" (errado) → \"Dá-me\" (ou \"Me dê\" em imperativo afirmativo, mas cuidado com a colocação).</li>\n        <li><strong>Uso do \"mais\" e \"mas\":</strong> \"Mais\" = quantidade, \"mas\" = adversativa.</li>\n        <li><strong>Uso do \"a\" e \"há\":</strong> \"A\" (preposição), \"há\" (verbo haver no sentido de tempo passado).</li>\n        <li><strong>Colocação pronominal:</strong> Evite ênclise no início da frase (exceto em casos como \"Falaram-me que...\"). Prefira próclise ou mesóclise quando adequado.</li>\n      </ul>\n      \n      <h4>Dicas de revisão</h4>\n      <ul>\n        <li>Leia o texto em voz alta para identificar erros de pontuação e concordância.</li>\n        <li>Verifique a regência de verbos que costumam gerar dúvida (assistir, lembrar, pagar).</li>\n        <li>Substitua palavras por sinônimos para testar a concordância nominal.</li>\n      </ul>\n      \n      <h4>Exercício</h4>\n      <ul>\n        <li>1. Reescreva corrigindo os erros: \"A minoria das pessoas são capazes de entender.\"</li>\n        <li>2. \"Ele assistiu a filme e depois foi pra casa.\"</li>\n      </ul>\n    "
+        },
+        {
+          "title": "10. LaTeX e Ferramentas Formais — Para Projetos Científicos",
+          "content": "\n      <h3>LaTeX para Redações Científicas</h3>\n      <p>Embora a redação do ENEM seja manuscrita, em projetos de pesquisa, feiras científicas e artigos, o uso do LaTeX é um diferencial.</p>\n      \n      <h4>O que é LaTeX?</h4>\n      <p>É um sistema de preparação de documentos de alta qualidade, amplamente usado em matemática, física, computação e ciências em geral. Ele permite a formatação precisa de equações, tabelas e referências.</p>\n      \n      <h4>Vantagens</h4>\n      <ul>\n        <li>Resultado visual profissional.</li>\n        <li>Facilidade para escrever fórmulas complexas.</li>\n        <li>Gerenciamento automático de referências e citações.</li>\n        <li>Compatível com vários estilos de formatação (ABNT, IEEE, APA).</li>\n      </ul>\n      \n      <h4>Exemplo de código LaTeX para uma equação</h4>\n      <p><code>\\[ E = mc^2 \\]</code></p>\n      <p><code>\\[ \\int_0^\\infty e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2} \\]</code></p>\n      \n      <h4>Como aprender</h4>\n      <p>Existem diversos tutoriais online e editores como Overleaf (online) e TeXstudio (offline). Aprender LaTeX pode impressionar avaliadores em olimpíadas científicas.</p>\n      \n      <h4>Exercício</h4>\n      <ul>\n        <li>1. Pesquise um exemplo de documento LaTeX e identifique as partes principais (preâmbulo, corpo, referências).</li>\n      </ul>\n    "
+        }
+      ]
+    },
+    {
+      "id": "ciencias",
+      "name": "Biologia",
+      "color": "var(--cat-green)",
+      "topics": [
+        {
+          "title": "1. Citologia — A Célula, Unidade da Vida",
+          "content": "\n      <h3>Citologia</h3>\n      <p>A célula é a unidade básica estrutural e funcional de todos os seres vivos. A teoria celular afirma que todos os organismos são constituídos por células e que estas só podem originar-se de outras células.</p>\n      \n      <h4>Classificação das células</h4>\n      <ul>\n        <li><strong>Procariontes:</strong> Não possuem núcleo organizado (sem carioteca). O material genético está disperso no citoplasma. Ex: bactérias, cianobactérias. Possuem parede celular de peptidoglicano.</li>\n        <li><strong>Eucariontes:</strong> Possuem núcleo delimitado por membrana nuclear (carioteca) e organelas membranosas. Ex: fungos, plantas, animais (incluindo o ser humano).</li>\n      </ul>\n      \n      <h4>Organelas citoplasmáticas (em eucariontes)</h4>\n      <ul>\n        <li><strong>Mitocôndria:</strong> Organela responsável pela respiração celular, produzindo ATP (energia). Possui duas membranas e DNA próprio.</li>\n        <li><strong>Retículo endoplasmático (RE):</strong> Rede de membranas. RE rugoso (com ribossomos) sintetiza proteínas; RE liso sintetiza lipídios e desintoxica.</li>\n        <li><strong>Complexo de Golgi:</strong> Empilhamento de cisternas. Processa, modifica e empacota proteínas e lipídios para secreção.</li>\n        <li><strong>Lisossomos:</strong> Vesículas com enzimas digestivas (hidrolases) que realizam digestão intracelular e autofagia.</li>\n        <li><strong>Peroxissomos:</strong> Contêm enzimas que oxidam ácidos graxos e destroem peróxido de hidrogênio (H₂O₂).</li>\n        <li><strong>Centríolos:</strong> Presentes em células animais, auxiliam na divisão celular (organização do fuso).</li>\n        <li><strong>Vacúolos:</strong> Em plantas, armazenam água, nutrientes e pigmentos. Nos vegetais, um grande vacúolo central mantém a turgescência.</li>\n        <li><strong>Ribossomos:</strong> Não são organelas membranosas; atuam na síntese proteica.</li>\n      </ul>\n      \n      <h4>Membrana plasmática</h4>\n      <ul>\n        <li>Modelo do mosaico fluido: bicamada lipídica com proteínas inseridas.</li>\n        <li>Funções: permeabilidade seletiva, reconhecimento celular (glicocálice), transporte de substâncias.</li>\n        <li>Tipos de transporte: difusão simples, difusão facilitada, osmose, transporte ativo (com gasto de ATP).</li>\n      </ul>\n      \n      <h4>Exemplo de questão</h4>\n      <p>Qual organela é responsável pela produção de ATP?</p>\n      <p><em>Resposta:</em> Mitocôndria.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Diferencie célula procarionte de eucarionte.</li>\n        <li>2. Explique a função do Complexo de Golgi.</li>\n        <li>3. O que é permeabilidade seletiva?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "2. Bioquímica Celular — As Moléculas da Vida",
+          "content": "\n      <h3>Bioquímica</h3>\n      <p>Os seres vivos são compostos por moléculas orgânicas e inorgânicas. As principais são água, sais minerais, carboidratos, lipídios, proteínas e ácidos nucleicos.</p>\n      \n      <h4>Água</h4>\n      <ul>\n        <li>Solvente universal, participa de reações metabólicas (hidrólise e síntese por desidratação).</li>\n        <li>Alto calor específico, o que contribui para a homeotermia.</li>\n        <li>Papel na lubrificação, transporte e regulação térmica.</li>\n      </ul>\n      \n      <h4>Sais minerais</h4>\n      <ul>\n        <li><strong>Funções:</strong> Atuam na constituição de estruturas (cálcio nos ossos), na condução de impulsos nervosos (sódio, potássio), na contração muscular (cálcio, magnésio).</li>\n        <li><strong>Exemplos:</strong> Ferro (hemoglobina), Iodo (hormônios tireoidianos), Fósforo (ATP, DNA).</li>\n      </ul>\n      \n      <h4>Carboidratos (glicídios)</h4>\n      <ul>\n        <li><strong>Monossacarídeos:</strong> Glicose, frutose (energia rápida).</li>\n        <li><strong>Dissacarídeos:</strong> Sacarose (glicose + frutose), lactose (glicose + galactose).</li>\n        <li><strong>Polissacarídeos:</strong> Amido (reserva vegetal), Glicogênio (reserva animal), Celulose (estrutural em vegetais), Quitina (exoesqueleto de artrópodes).</li>\n        <li><strong>Funções:</strong> Energia, estrutura, reconhecimento celular.</li>\n      </ul>\n      \n      <h4>Lipídios</h4>\n      <ul>\n        <li><strong>Funções:</strong> Reserva energética (gorduras), isolante térmico, constituição de membranas (fosfolipídios), hormônios esteroides (testosterona, estrogênio), vitaminas lipossolúveis (A, D, E, K).</li>\n        <li><strong>Principais tipos:</strong> Triglicerídeos, fosfolipídios, esteroides, ceras.</li>\n      </ul>\n      \n      <h4>Proteínas</h4>\n      <ul>\n        <li>São polímeros de aminoácidos ligados por ligações peptídicas.</li>\n        <li><strong>Funções:</strong> Estrutural (colágeno, queratina), enzimática (catalisadoras), transportadora (hemoglobina), defensiva (anticorpos), hormonal (insulina), contrátil (actina, miosina).</li>\n        <li><strong>Níveis de organização:</strong> Estrutura primária (sequência de aminoácidos), secundária (α-hélice, folha β), terciária (dobramento tridimensional), quaternária (associação de subunidades).</li>\n      </ul>\n      \n      <h4>Ácidos nucleicos (DNA e RNA)</h4>\n      <ul>\n        <li>DNA: dupla hélice, contém a informação genética (genes).</li>\n        <li>RNA: fita simples, participa da síntese proteica (mRNA, tRNA, rRNA).</li>\n        <li>Nucleotídeos: formados por base nitrogenada (A, T, C, G no DNA; A, U, C, G no RNA), açúcar (desoxirribose ou ribose) e fosfato.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a diferença entre amido e celulose?</li>\n        <li>2. Quais as funções das proteínas?</li>\n        <li>3. Qual a importância do DNA?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "3. Genética Mendeliana — As Leis da Hereditariedade",
+          "content": "\n      <h3>Genética Mendeliana</h3>\n      <p>Gregor Mendel, com seus experimentos com ervilhas (Pisum sativum), estabeleceu as leis fundamentais da hereditariedade.</p>\n      \n      <h4>Conceitos básicos</h4>\n      <ul>\n        <li><strong>Genótipo:</strong> Constituição genética do indivíduo (ex: AA, Aa, aa).</li>\n        <li><strong>Fenótipo:</strong> Características observáveis (ex: cor da flor).</li>\n        <li><strong>Alelos:</strong> Formas alternativas de um gene (A e a).</li>\n        <li><strong>Dominante:</strong> Alelo que se expressa mesmo em heterozigose (A).</li>\n        <li><strong>Recessivo:</strong> Alelo que só se expressa em homozigose (a).</li>\n        <li><strong>Homozigoto:</strong> Dois alelos iguais (AA ou aa).</li>\n        <li><strong>Heterozigoto:</strong> Dois alelos diferentes (Aa).</li>\n      </ul>\n      \n      <h4>1ª Lei de Mendel (Monoibridismo)</h4>\n      <ul>\n        <li>Lei da segregação dos fatores: cada caráter é condicionado por um par de fatores (alelos) que se separam na formação dos gametas, de modo que cada gameta recebe apenas um alelo.</li>\n        <li><strong>Exemplo:</strong> Cruzamento entre plantas puras altas (AA) e baixas (aa) → F1 100% Aa (altas). F2 (Aa × Aa) → proporção fenotípica 3 altas : 1 baixa; genotípica 1AA : 2Aa : 1aa.</li>\n      </ul>\n      \n      <h4>2ª Lei de Mendel (Diibridismo)</h4>\n      <ul>\n        <li>Lei da segregação independente: os fatores para dois ou mais caracteres segregam-se independentemente, desde que os genes estejam em cromossomos diferentes.</li>\n        <li><strong>Exemplo:</strong> Cruzamento entre plantas com sementes amarelas e lisas (VVRR) e verdes e rugosas (vvrr) → F1 100% amarelas e lisas (VvRr). F2 (VvRr × VvRr) → proporção fenotípica 9:3:3:1 (amarelas-lisas, amarelas-rugosas, verdes-lisas, verdes-rugosas).</li>\n      </ul>\n      \n      <h4>Quadro de Punnett</h4>\n      <p>Ferramenta para prever a descendência de cruzamentos.</p>\n      \n      <h4>Exemplo resolvido</h4>\n      <p>Cruze um indivíduo heterozigoto (Aa) com outro heterozigoto (Aa).</p>\n      <p>Gametas: A e a de cada um. Quadro: AA, Aa, Aa, aa. Proporção fenotípica: 3 dominantes : 1 recessivo.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a proporção genotípica de um cruzamento Aa x aa?</li>\n        <li>2. Explique a 1ª Lei de Mendel.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "4. DNA, RNA e Síntese Proteica — O Código da Vida",
+          "content": "\n      <h3>DNA, RNA e Síntese Proteica</h3>\n      <p>A informação genética flui do DNA para o RNA para a proteína (Dogma Central da Biologia).</p>\n      \n      <h4>Estrutura do DNA</h4>\n      <ul>\n        <li>Dupla hélice, com duas fitas antiparalelas.</li>\n        <li>Os nucleotídeos se ligam por pontes de hidrogênio: A-T (2 pontes), C-G (3 pontes).</li>\n        <li>A sequência de bases é o código genético.</li>\n      </ul>\n      \n      <h4>Transcrição</h4>\n      <ul>\n        <li>Ocorre no núcleo (em eucariontes).</li>\n        <li>A enzima RNA polimerase copia uma das fitas do DNA, produzindo RNA mensageiro (mRNA).</li>\n        <li>O mRNA é complementar à fita molde (exceto T → U).</li>\n      </ul>\n      \n      <h4>Tradução</h4>\n      <ul>\n        <li>Ocorre nos ribossomos, no citoplasma.</li>\n        <li>O mRNA é lido em trincas (códons).</li>\n        <li>Cada códon especifica um aminoácido (código genético universal e degenerado).</li>\n        <li>O tRNA (RNA transportador) carrega o aminoácido correspondente e possui o anticódon complementar.</li>\n        <li>Os aminoácidos são ligados por ligações peptídicas, formando a proteína.</li>\n      </ul>\n      \n      <h4>Exemplo de código</h4>\n      <p>Sequência de DNA: TAC GCA TTA</p>\n      <p>Transcrição (mRNA): AUG CGU AAU</p>\n      <p>Tradução: Metionina - Arginina - Asparagina</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual o papel do mRNA?</li>\n        <li>2. O que é um códon?</li>\n        <li>3. Explique a importância do código genético ser degenerado.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "5. Evolução — Darwin, Lamarck e a Seleção Natural",
+          "content": "\n      <h3>Evolução Biológica</h3>\n      <p>A evolução é o processo de mudança das espécies ao longo do tempo.</p>\n      \n      <h4>Lamarckismo</h4>\n      <ul>\n        <li>Teoria de Lamarck (séc. XIX):</li>\n        <li><strong>Lei do uso e desuso:</strong> Órgãos usados se desenvolvem, os não usados atrofiam.</li>\n        <li><strong>Transmissão dos caracteres adquiridos:</strong> As modificações adquiridas são passadas aos descendentes.</li>\n        <li>Exemplo: pescoço da girafa se alongou pelo esforço de alcançar folhas. (Teoria refutada).</li>\n      </ul>\n      \n      <h4>Darwinismo</h4>\n      <ul>\n        <li>Charles Darwin propôs a <strong>seleção natural</strong>:</li>\n        <li>Indivíduos com variações mais adaptadas ao ambiente têm maior chance de sobreviver, reproduzir-se e transmitir essas características.</li>\n        <li>A variação é aleatória (mutações, recombinação), e a seleção é direcional.</li>\n        <li>Exemplo: bico de tentilhões de Darwin (diferentes adaptações para diferentes fontes de alimento).</li>\n      </ul>\n      \n      <h4>Síntese Moderna (Neodarwinismo)</h4>\n      <ul>\n        <li>Integra a seleção natural com a genética de populações.</li>\n        <li>As variações hereditárias são causadas por mutações e recombinação gênica.</li>\n        <li>A evolução ocorre por mudanças nas frequências alélicas (genética de populações).</li>\n      </ul>\n      \n      <h4>Evidências da evolução</h4>\n      <ul>\n        <li><strong>Anatomia comparada:</strong> Estruturas homólogas (mesma origem embrionária, funções diferentes) e análogas (origem diferente, mesma função).</li>\n        <li><strong>Embriologia comparada:</strong> Semelhanças no desenvolvimento embrionário.</li>\n        <li><strong>Registro fóssil:</strong> Sequência de formas intermediárias.</li>\n        <li><strong>Biologia molecular:</strong> Sequências de DNA e proteínas.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Diferencie lamarckismo de darwinismo.</li>\n        <li>2. O que são estruturas homólogas? Dê um exemplo.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "6. Ecologia: Cadeias e Teias Alimentares — Fluxo de Energia",
+          "content": "\n      <h3>Ecologia: Cadeias e Teias Alimentares</h3>\n      <p>A ecologia estuda as interações entre os seres vivos e o ambiente. O fluxo de energia é unidirecional e a matéria é reciclada.</p>\n      \n      <h4>Níveis tróficos</h4>\n      <ul>\n        <li><strong>Produtores (autótrofos):</strong> Organismos capazes de produzir matéria orgânica a partir de fontes inorgânicas (fotossíntese, quimiossíntese). Ex: plantas, algas, cianobactérias.</li>\n        <li><strong>Consumidores primários (herbívoros):</strong> Alimentam-se de produtores. Ex: coelho, gafanhoto.</li>\n        <li><strong>Consumidores secundários (carnívoros):</strong> Alimentam-se de consumidores primários. Ex: lobo, sapo.</li>\n        <li><strong>Consumidores terciários:</strong> Alimentam-se de consumidores secundários. Ex: águia, cobra.</li>\n        <li><strong>Decompositores (detritívoros):</strong> Fungos, bactérias, minhocas. Decompõem matéria orgânica em substâncias inorgânicas, disponibilizando nutrientes.</li>\n      </ul>\n      \n      <h4>Fluxo de energia</h4>\n      <ul>\n        <li>A energia solar é captada pelos produtores e convertida em energia química (biomassa).</li>\n        <li>Cerca de 10% da energia é transferida de um nível trófico para o seguinte (regra dos 10%).</li>\n        <li>O restante é perdido como calor (respiração, metabolismo).</li>\n      </ul>\n      \n      <h4>Cadeia alimentar vs. Teia alimentar</h4>\n      <ul>\n        <li><strong>Cadeia:</strong> Sequência linear de quem come quem. Ex: grama → coelho → raposa → águia.</li>\n        <li><strong>Teia:</strong> Conjunto de cadeias interligadas, representando a complexidade das relações.</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>Qual o papel dos decompositores na cadeia alimentar?</p>\n      <p><em>Resposta:</em> Reciclar a matéria orgânica em nutrientes inorgânicos.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que são produtores?</li>\n        <li>2. Explique a regra dos 10%.</li>\n        <li>3. Qual a importância das teias alimentares?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "7. Relações Ecológicas — Interações entre Espécies",
+          "content": "\n      <h3>Relações Ecológicas</h3>\n      <p>As espécies interagem de diversas formas, podendo ser harmônicas (benéficas ou neutras) ou desarmônicas (prejudiciais).</p>\n      \n      <h4>Relações Harmônicas</h4>\n      <ul>\n        <li><strong>Mutualismo (+/+):</strong> Ambos se beneficiam. Ex: abelhas e flores (polinização); líquens (fungo + alga); micorrizas (fungo + raízes).</li>\n        <li><strong>Comensalismo (+/0):</strong> Um se beneficia, o outro não é afetado. Ex: tubarão e rêmora (peixe que se alimenta de restos).</li>\n        <li><strong>Protocooperação (+/+):</strong> Ambos se beneficiam, mas não há dependência obrigatória. Ex: caranguejo-eremita e anêmona (o caranguejo transporta a anêmona que o protege).</li>\n        <li><strong>Inquilinismo (+/0):</strong> Um utiliza o outro como abrigo, sem prejudicar. Ex: orquídeas em árvores.</li>\n      </ul>\n      \n      <h4>Relações Desarmônicas</h4>\n      <ul>\n        <li><strong>Predatismo (+/-):</strong> Um (predador) mata e se alimenta do outro (presa). Ex: leão e zebra.</li>\n        <li><strong>Parasitismo (+/-):</strong> O parasita se beneficia, causando danos ao hospedeiro. Ex: carrapato, tênia, vírus.</li>\n        <li><strong>Competição (-/-):</strong> Disputa por recursos (alimento, espaço, luz). Pode ser intraespecífica (mesma espécie) ou interespecífica (espécies diferentes).</li>\n        <li><strong>Amensalismo (-/0):</strong> Um inibe o crescimento do outro sem ser afetado. Ex: fungos que liberam substâncias antibióticas.</li>\n        <li><strong>Canibalismo:</strong> Indivíduo da mesma espécie alimenta-se de outro.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Classifique a relação entre leão e zebra.</li>\n        <li>2. O que é mutualismo? Dê um exemplo.</li>\n        <li>3. Diferencie comensalismo de inquilinismo.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "8. Fisiologia: Digestão e Respiração — Processos Vitais",
+          "content": "\n      <h3>Fisiologia Humana I: Digestão e Respiração</h3>\n      \n      <h4>Sistema Digestório</h4>\n      <p>Responsável pela quebra de macromoléculas em nutrientes absorvíveis.</p>\n      <ul>\n        <li><strong>Boca:</strong> Mastigação, amilase salivar (inicia digestão do amido).</li>\n        <li><strong>Faringe e Esôfago:</strong> Conduzem o bolo alimentar.</li>\n        <li><strong>Estômago:</strong> Suco gástrico (HCl, pepsina) digere proteínas. Quimo.</li>\n        <li><strong>Intestino Delgado:</strong> Principal local de digestão e absorção. Recebe bile (emulsifica gorduras), suco pancreático (amilase, lipase, tripsina) e suco entérico (enterocitases).</li>\n        <li><strong>Intestino Grosso:</strong> Absorve água e sais, forma o bolo fecal.</li>\n        <li><strong>Absorção:</strong> As vilosidades intestinais aumentam a superfície de absorção.</li>\n      </ul>\n      \n      <h4>Sistema Respiratório</h4>\n      <ul>\n        <li>Responsável pela hematose (troca gasosa).</li>\n        <li><strong>Vias respiratórias:</strong> Fossas nasais, faringe, laringe, traqueia, brônquios, bronquíolos, alvéolos.</li>\n        <li>Os alvéolos são envoltos por capilares sanguíneos; ocorre a difusão de O₂ para o sangue e CO₂ para o exterior.</li>\n        <li><strong>Mecânica respiratória:</strong> Inspiração (diafragma contrai, pressão intrapulmonar cai) e expiração (diafragma relaxa).</li>\n        <li>Transporte de gases: O₂ liga-se à hemoglobina; CO₂ é transportado como bicarbonato.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a função da amilase?</li>\n        <li>2. Onde ocorre a hematose?</li>\n        <li>3. Explique o papel das vilosidades intestinais.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "9. Fisiologia: Circulação e Excreção",
+          "content": "\n      <h3>Fisiologia Humana II: Circulação e Excreção</h3>\n      \n      <h4>Sistema Cardiovascular</h4>\n      <ul>\n        <li><strong>Coração:</strong> Bombeia o sangue. Tem quatro cavidades: átrios e ventrículos (direitos e esquerdos).</li>\n        <li><strong>Circulação:</strong>\n          <ul>\n            <li><strong>Sistêmica (grande circulação):</strong> Ventrículo esquerdo → artérias → corpo → veias → átrio direito.</li>\n            <li><strong>Pulmonar (pequena circulação):</strong> Ventrículo direito → artérias pulmonares → pulmões → veias pulmonares → átrio esquerdo.</li>\n          </ul>\n        </li>\n        <li><strong>Vasos:</strong> Artérias (sangue do coração para órgãos), veias (de volta ao coração), capilares (trocas).</li>\n        <li><strong>Sangue:</strong> Plasma, hemácias (transporte de O₂), leucócitos (defesa), plaquetas (coagulação).</li>\n      </ul>\n      \n      <h4>Sistema Excretor</h4>\n      <ul>\n        <li><strong>Rins:</strong> Filtram o sangue, removem ureia, ácido úrico, creatinina e excesso de água/sais.</li>\n        <li>A unidade funcional do rim é o <strong>néfron</strong>, composto por glomérulo, cápsula de Bowman, túbulo contorcido proximal, alça de Henle, túbulo distal e ducto coletor.</li>\n        <li>Ocorre filtração glomerular, reabsorção (água, glicose, eletrólitos) e secreção.</li>\n        <li>A urina é formada e conduzida pelos ureteres até a bexiga.</li>\n        <li>Outros órgãos: pele (suor), pulmões (CO₂).</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a função do ventrículo esquerdo?</li>\n        <li>2. Explique a filtração glomerular.</li>\n        <li>3. Cite dois hormônios que regulam a excreção.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "10. Vírus e Bactérias — Agentes Infecciosos",
+          "content": "\n      <h3>Microbiologia: Vírus e Bactérias</h3>\n      \n      <h4>Vírus</h4>\n      <ul>\n        <li><strong>Características:</strong> Acelulares (não possuem estrutura celular), são parasitas intracelulares obrigatórios. Possuem um capsídeo proteico e material genético (DNA ou RNA).</li>\n        <li><strong>Classificação:</strong> De acordo com o tipo de ácido nucleico e a estrutura do capsídeo.</li>\n        <li><strong>Reprodução:</strong> Ciclo lítico (multiplicação e lise da célula hospedeira) e ciclo lisogênico (integração do genoma viral ao da célula).</li>\n        <li><strong>Doenças virais:</strong> Gripe (influenza), AIDS (HIV), COVID-19 (SARS-CoV-2), sarampo, dengue, febre amarela.</li>\n        <li><strong>Tratamento e prevenção:</strong> Não há cura para a maioria das viroses; o tratamento é sintomático. A prevenção é feita por vacinas e medidas de higiene.</li>\n      </ul>\n      \n      <h4>Bactérias</h4>\n      <ul>\n        <li><strong>Características:</strong> Procariontes, unicelulares, com parede celular de peptidoglicano. Podem ser autótrofas ou heterótrofas, aeróbias ou anaeróbias.</li>\n        <li><strong>Reprodução:</strong> Assexuada por divisão binária (bipartição). Algumas realizam conjugação (troca de material genético).</li>\n        <li><strong>Importância:</strong> Decomposição, fixação de nitrogênio, síntese de vitaminas (intestino humano), produção de alimentos (iogurte, queijo).</li>\n        <li><strong>Doenças bacterianas:</strong> Tuberculose, meningite, pneumonia, tétano, sífilis.</li>\n        <li><strong>Tratamento:</strong> Antibióticos (como penicilina) inibem a síntese da parede celular ou a síntese proteica bacteriana.</li>\n        <li><strong>Resistência bacteriana:</strong> Uso inadequado de antibióticos pode selecionar cepas resistentes.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Diferencie vírus de bactérias quanto à estrutura.</li>\n        <li>2. O que é um antibiótico e como ele age?</li>\n        <li>3. Cite três doenças virais e três bacterianas.</li>\n      </ul>\n    "
+        }
+      ]
+    },
+    {
+      "id": "historia",
+      "name": "História",
+      "color": "var(--amber-text)",
+      "topics": [
+        {
+          "title": "1. Grécia e Roma — O Berço do Ocidente",
+          "content": "\n      <h3>Grécia e Roma Antigas</h3>\n      \n      <h4>Grécia Antiga</h4>\n      <ul>\n        <li><strong>Períodos:</strong> Pré-Homérico (séc. XX-XII a.C., civilização micênica), Homérico (séc. XII-VIII a.C., formação das pólis), Arcaico (séc. VIII-VI a.C., colonização), Clássico (séc. V-IV a.C., apogeu: Atenas, Esparta, Guerras Médicas, Guerra do Peloponeso), Helenístico (após Alexandre Magno).</li>\n        <li><strong>Pólis (cidades-estado):</strong> Atenas (democracia, filosofia, teatro), Esparta (militarista, oligárquica).</li>\n        <li><strong>Democracia ateniense:</strong> Direta, restrita a homens livres (cerca de 10% da população).</li>\n        <li><strong>Cultura:</strong> Filosofia (Sócrates, Platão, Aristóteles), teatro (Ésquilo, Sófocles, Eurípides), historiografia (Heródoto, Tucídides), Olimpíadas.</li>\n        <li><strong>Religião:</strong> Politeísta, com deuses antropomórficos (Zeus, Atena, Apolo).</li>\n      </ul>\n      \n      <h4>Roma Antiga</h4>\n      <ul>\n        <li><strong>Monarquia (753-509 a.C.):</strong> Rômulo, primeiro rei.</li>\n        <li><strong>República (509-27 a.C.):</strong> Senado, cônsules, magistraturas. Conflitos entre patrícios e plebeus (Lei das Doze Tábuas, tribunos). Expansão territorial (Guerras Púnicas).</li>\n        <li><strong>Império (27 a.C.-476 d.C.):</strong> Augusto, Pax Romana. O império atingiu sua máxima extensão no século II. Reformas de Diocleciano, divisão em Ocidente e Oriente.</li>\n        <li><strong>Contribuições:</strong> Direito (Direito Romano, base do civil law), engenharia (estradas, aquedutos), latim (língua base), arquitetura (arco, cúpula), cristianismo (oficializado por Teodósio).</li>\n        <li><strong>Causas da queda:</strong> Crise econômica (inflação, escassez de escravos), invasões bárbaras (hunos, germânicos), crise política.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Compare as pólis de Atenas e Esparta.</li>\n        <li>2. Qual a principal herança de Roma para o Ocidente?</li>\n        <li>3. Explique a importância da democracia ateniense.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "2. Idade Média — Feudalismo e a Sociedade Estamental",
+          "content": "\n      <h3>Idade Média (séc. V ao XV)</h3>\n      <p>A Idade Média iniciou-se com a queda do Império Romano do Ocidente (476) e estendeu-se até o século XV (tomada de Constantinopla pelos turcos ou o descobrimento da América).</p>\n      \n      <h4>Feudalismo</h4>\n      <ul>\n        <li><strong>Economia:</strong> Agrícola, autossuficiente (feudo). Sistema de suserania e vassalagem (relações de dependência).</li>\n        <li><strong>Sociedade estamental:</strong> Três estados: clero (oratores), nobreza (bellatores), servos (laboratores). Mobilidade social quase nula.</li>\n        <li><strong>Poder político:</strong> Descentralizado, fragmentado em feudos. O rei tinha poder limitado.</li>\n        <li><strong>Igreja Católica:</strong> Centralizadora do conhecimento (mosteiros, universidades), detentora do poder espiritual e temporal. Inquisição.</li>\n      </ul>\n      \n      <h4>Renascimento do século XII</h4>\n      <ul>\n        <li>Aumento populacional, renascimento comercial e urbano.</li>\n        <li>Cruzadas (séc. XI-XIII) reabriram rotas comerciais com o Oriente.</li>\n        <li>Formação das universidades (Bolonha, Paris, Oxford).</li>\n      </ul>\n      \n      <h4>Crise da Idade Média</h4>\n      <ul>\n        <li>Século XIV: fome (pequena era glacial), peste negra (redução populacional), revoltas camponesas.</li>\n        <li>Enfraquecimento do feudalismo e fortalecimento das monarquias nacionais.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Caracterize a sociedade feudal.</li>\n        <li>2. Qual o papel da Igreja na Idade Média?</li>\n        <li>3. Explique a relação de suserania e vassalagem.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "3. Renascimento e Reformas — O Despertar da Modernidade",
+          "content": "\n      <h3>Renascimento Cultural e Reforma Protestante</h3>\n      \n      <h4>Renascimento (séc. XIV-XVI)</h4>\n      <ul>\n        <li>Movimento cultural que valorizou o <strong>antropocentrismo</strong> (o homem no centro) em oposição ao teocentrismo medieval.</li>\n        <li><strong>Características:</strong> Racionalismo, individualismo, experimentalismo, busca do conhecimento clássico (greco-romano).</li>\n        <li><strong>Arte:</strong> Leonardo da Vinci, Michelangelo, Rafael, Giotto. Uso da perspectiva, realismo, temas mitológicos e religiosos.</li>\n        <li><strong>Ciência:</strong> Copérnico (heliocentrismo), Galileu, Kepler, Newton (já no século XVII).</li>\n        <li>Mecenas: apoio de ricos comerciantes e da Igreja.</li>\n      </ul>\n      \n      <h4>Reforma Protestante (séc. XVI)</h4>\n      <ul>\n        <li><strong>Contexto:</strong> Crise da Igreja Católica: venda de indulgências, luxo do clero, descontentamento popular.</li>\n        <li><strong>Lutero (1517):</strong> Afixou as 95 teses na porta da igreja de Wittenberg, criticando as indulgências. Defendia a salvação pela fé (sola fide) e a livre interpretação da Bíblia (sola scriptura).</li>\n        <li><strong>Calvino:</strong> Predestinação (Deus já escolheu os salvos), vida austera, teocracia em Genebra.</li>\n        <li><strong>Igreja Anglicana:</strong> Criada por Henrique VIII, por motivos políticos (divórcio de Catarina de Aragão).</li>\n        <li><strong>Contrarreforma (ou Reforma Católica):</strong> Concílio de Trento (1545-1563): reafirma dogmas, condena a venda de indulgências, cria o Index (lista de livros proibidos), e a Inquisição.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que foi o Renascimento?</li>\n        <li>2. Qual a principal crítica de Lutero?</li>\n        <li>3. Diferencie a Reforma Luterana da Anglicana.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "4. Expansão Marítima — O Encontro com o Novo Mundo",
+          "content": "\n      <h3>Expansão Marítima Europeia (séc. XV-XVI)</h3>\n      <p>Portugal e Espanha lideraram a expansão marítima em busca de novas rotas para as especiarias do Oriente (pimenta, cravo, canela) e metais preciosos.</p>\n      \n      <h4>Portugal</h4>\n      <ul>\n        <li>Inovações: caravela (navegação em mares oceânicos), bússola, astrolábio, portulanos.</li>\n        <li>Escola de Sagres (criada por Dom Henrique).</li>\n        <li>Chegada ao Brasil (1500) por Pedro Álvares Cabral.</li>\n        <li>Rota do Cabo (Bartolomeu Dias, 1488) e chegada à Índia (Vasco da Gama, 1498).</li>\n      </ul>\n      \n      <h4>Espanha</h4>\n      <ul>\n        <li>Cristóvão Colombo alcançou a América (1492) a serviço da Espanha, acreditando ter chegado às Índias.</li>\n        <li>Conquista: Hernán Cortés (México, 1521), Francisco Pizarro (Peru, 1533).</li>\n        <li>Tratado de Tordesilhas (1494): divisão do mundo entre Portugal e Espanha (meridiano a 370 léguas a oeste de Cabo Verde).</li>\n      </ul>\n      \n      <h4>Consequências</h4>\n      <ul>\n        <li><strong>Mercantilismo:</strong> Acumulação de metais preciosos (balança comercial favorável, metalismo, monopólio comercial).</li>\n        <li>Colonização da América, exploração de recursos, escravização e genocídio de populações nativas.</li>\n        <li>Tráfico de escravos africanos.</li>\n        <li>Intercâmbio colombiano: troca de produtos (milho, batata, café, etc.) e doenças (varíola, sarampo) entre os continentes.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Quais foram os fatores que impulsionaram a expansão marítima?</li>\n        <li>2. Explique o Tratado de Tordesilhas.</li>\n        <li>3. O que foi o Mercantilismo?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "5. Brasil Colônia — Ciclo do Açúcar e Sociedade",
+          "content": "\n      <h3>Brasil Colônia (1530-1822)</h3>\n      <p>A colonização do Brasil iniciou-se com as capitanias hereditárias e a economia açucareira.</p>\n      \n      <h4>Ciclo do Açúcar (séc. XVI-XVII)</h4>\n      <ul>\n        <li><strong>Economia:</strong> Monocultura da cana-de-açúcar, latifúndio, mão de obra escrava (indígena e africana).</li>\n        <li><strong>Sociedade:</strong> Patriarcal, estratificada: senhores de engenho, trabalhadores livres, escravos.</li>\n        <li><strong>Administração:</strong> Governador-geral (1549), câmaras municipais.</li>\n        <li><strong>Invasões:</strong> Franceses (Rio de Janeiro, Maranhão), holandeses (Pernambuco, 1630-1654).</li>\n      </ul>\n      \n      <h4>Ciclo do Ouro (séc. XVIII)</h4>\n      <ul>\n        <li>Descoberta de ouro em Minas Gerais (1690), Goiás, Mato Grosso.</li>\n        <li>Deslocamento do eixo econômico do Nordeste para o Sudeste.</li>\n        <li>Crescimento urbano (Vila Rica, Mariana, Ouro Preto).</li>\n        <li>Derrama (cobrança de impostos) e Inconfidência Mineira (1789) — Tiradentes.</li>\n      </ul>\n      \n      <h4>Vinda da Família Real (1808)</h4>\n      <ul>\n        <li>Dom João VI, fugindo das invasões napoleônicas, transferiu a corte para o Rio de Janeiro.</li>\n        <li>Abertura dos portos às nações amigas (favoreceu a Inglaterra).</li>\n        <li>Criação de instituições (Banco do Brasil, Imprensa Régia, Jardim Botânico).</li>\n        <li>Elevação do Brasil a Reino Unido (1815).</li>\n      </ul>\n      \n      <h4>Independência (1822)</h4>\n      <ul>\n        <li>Dom Pedro I, regente no Brasil, declarou a independência (Dia do Fico, Carta aos Paulistas, Grito do Ipiranga).</li>\n        <li>Reconhecimento internacional (Inglaterra e Portugal).</li>\n        <li>Manutenção da estrutura agrária e escravista.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Descreva a economia açucareira.</li>\n        <li>2. Qual o papel do ouro na colônia?</li>\n        <li>3. Explique a Independência do Brasil.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "6. Ciclo do Ouro e Independência — Mineração e Ruptura",
+          "content": "\n      <h3>Ciclo do Ouro e a Independência do Brasil</h3>\n      <p>O ciclo do ouro, no século XVIII, foi crucial para a economia colonial e para a formação de uma elite local que futuramente lideraria a independência.</p>\n      \n      <h4>A mineração</h4>\n      <ul>\n        <li>O ouro era encontrado em áreas de difícil acesso, o que favoreceu a criação de vilas e a urbanização.</li>\n        <li>O governo português controlava a extração através de impostos (quinto, derrama).</li>\n        <li>A Coroa cobrava o quinto (20% do ouro), mas a sonegação era comum, dando origem à Inconfidência Mineira.</li>\n      </ul>\n      \n      <h4>Inconfidência Mineira (1789)</h4>\n      <ul>\n        <li>Movimento de caráter separatista, influenciado pelo Iluminismo e pela Revolução Americana.</li>\n        <li>Liderança: Tiradentes (Joaquim José da Silva Xavier) e outros intelectuais.</li>\n        <li>O movimento foi denunciado e os participantes presos; Tiradentes foi enforcado.</li>\n      </ul>\n      \n      <h4>Chegada da Família Real e Independência</h4>\n      <ul>\n        <li>Em 1808, Dom João VI e a corte portuguesa chegaram ao Brasil, fugindo de Napoleão.</li>\n        <li>A abertura dos portos (1808) e a elevação do Brasil a Reino Unido (1815) minaram os laços coloniais.</li>\n        <li>Em 1821, Dom João VI retornou a Portugal, deixando Dom Pedro como regente.</li>\n        <li>Dom Pedro, pressionado pelas Cortes de Lisboa (que queriam recolonizar o Brasil), proclamou a independência em 1822.</li>\n        <li>A independência foi reconhecida em 1825, com a mediação da Inglaterra.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que foi a Inconfidência Mineira?</li>\n        <li>2. Qual a importância da vinda da Família Real para o Brasil?</li>\n        <li>3. Por que a independência do Brasil foi liderada pela elite?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "7. Iluminismo e Revolução Francesa — As Revoluções Burguesas",
+          "content": "\n      <h3>Iluminismo e Revolução Francesa</h3>\n      \n      <h4>Iluminismo (séc. XVIII)</h4>\n      <ul>\n        <li>Movimento intelectual que defendia a razão, a liberdade, a igualdade e a separação dos poderes.</li>\n        <li><strong>Principais pensadores:</strong> Locke (liberalismo), Montesquieu (tripartição de poderes), Voltaire (defesa da liberdade de expressão), Rousseau (contrato social, soberania popular).</li>\n        <li>Enciclopédia (Diderot e D'Alembert) - compilação do conhecimento.</li>\n        <li>Influenciou a Revolução Francesa e a independência das colônias americanas.</li>\n      </ul>\n      \n      <h4>Revolução Francesa (1789-1799)</h4>\n      <ul>\n        <li><strong>Causas:</strong> Desigualdades sociais (três estados: clero, nobreza, terceiro estado), crise econômica, ideias iluministas.</li>\n        <li><strong>Fases:</strong>\n          <ul>\n            <li>Assembleia Nacional Constituinte (1789-1791): Tomada da Bastilha, Declaração dos Direitos do Homem e do Cidadão.</li>\n            <li>Convenção Nacional (1792-1795): Queda da monarquia, execução de Luís XVI, Regime do Terror (Robespierre).</li>\n            <li>Diretório (1795-1799): Governo moderado, ascensão de Napoleão.</li>\n          </ul>\n        </li>\n        <li><strong>Consequências:</strong> Fim do absolutismo, ascensão da burguesia, disseminação dos ideais liberais na Europa.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que defendia o Iluminismo?</li>\n        <li>2. Quais as principais fases da Revolução Francesa?</li>\n        <li>3. Qual o legado da Revolução Francesa?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "8. Revolução Industrial e Imperialismo — A Era do Capitalismo",
+          "content": "\n      <h3>Revolução Industrial (séc. XVIII-XIX) e Imperialismo</h3>\n      \n      <h4>Revolução Industrial</h4>\n      <ul>\n        <li><strong>1ª Revolução (Inglaterra, séc. XVIII):</strong> Máquina a vapor (Watt), indústria têxtil, carvão, ferrovias.</li>\n        <li><strong>2ª Revolução (séc. XIX-XX):</strong> Eletricidade, petróleo, motor a combustão, indústria química (aço, borracha).</li>\n        <li><strong>Consequências:</strong> Crescimento urbano, exploração do proletariado, surgimento do socialismo (Marx, Engels).</li>\n        <li><strong>Movimentos operários:</strong> Ludismo, cartismo, sindicalismo.</li>\n      </ul>\n      \n      <h4>Imperialismo (séc. XIX-XX)</h4>\n      <ul>\n        <li>Corrida pela partilha da África e Ásia entre as potências europeias (Inglaterra, França, Alemanha, Bélgica).</li>\n        <li><strong>Causas:</strong> Busca por matérias-primas, mercados consumidores, áreas para investimento, e nacionalismo.</li>\n        <li><strong>Conferência de Berlim (1884-1885):</strong> Estabeleceu regras para a colonização da África.</li>\n        <li><strong>Consequências:</strong> Dominação política e cultural, exploração econômica, conflitos étnicos.</li>\n        <li>O imperialismo foi uma das causas da Primeira Guerra Mundial.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Diferencie a 1ª da 2ª Revolução Industrial.</li>\n        <li>2. O que foi o Imperialismo?</li>\n        <li>3. Qual a relação entre industrialização e imperialismo?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "9. Era Vargas — O Brasil em Transformação",
+          "content": "\n      <h3>Era Vargas (1930-1945)</h3>\n      <p>Getúlio Vargas governou o Brasil de 1930 a 1945, período marcado por profundas transformações políticas, econômicas e sociais.</p>\n      \n      <h4>Revolução de 1930</h4>\n      <ul>\n        <li>Fim da República Velha (oligarquias de São Paulo e Minas Gerais).</li>\n        <li>Vargas assume como chefe do Governo Provisório.</li>\n      </ul>\n      \n      <h4>Constituição de 1934</h4>\n      <ul>\n        <li>Introduziu direitos trabalhistas (jornada de 8 horas, férias, repouso remunerado).</li>\n      </ul>\n      \n      <h4>Estado Novo (1937-1945)</h4>\n      <ul>\n        <li>Golpe de 1937: Vargas institui uma ditadura, baseado no Plano Cohen (falso plano comunista).</li>\n        <li>Centralização do poder, censura, repressão política (DBE).</li>\n        <li><strong>Criação da CLT (1943):</strong> Consolidação das Leis do Trabalho, ainda vigente.</li>\n        <li><strong>Industrialização:</strong> Investimento em siderurgia (CSN), indústria de base.</li>\n        <li><strong>Política externa:</strong> Alinhamento com os EUA na Segunda Guerra, enviando a Força Expedicionária Brasileira (FEB).</li>\n      </ul>\n      \n      <h4>Queda de Vargas (1945)</h4>\n      <ul>\n        <li>Fim do Estado Novo, eleições para a Assembleia Constituinte.</li>\n        <li>Vargas foi deposto, mas eleito presidente em 1951, suicidando-se em 1954.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que foi o Estado Novo?</li>\n        <li>2. Qual a importância da CLT?</li>\n        <li>3. Explique a política trabalhista de Vargas.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "10. Guerra Fria e Ditadura Militar — O Brasil sob o Regime",
+          "content": "\n      <h3>Guerra Fria e Ditadura Militar no Brasil</h3>\n      \n      <h4>Guerra Fria (1947-1991)</h4>\n      <ul>\n        <li>Confronto ideológico entre EUA (capitalismo) e URSS (socialismo), sem conflito direto.</li>\n        <li>Corrida armamentista, corrida espacial, divisão do mundo em blocos (OTAN x Pacto de Varsóvia).</li>\n        <li>Guerras localizadas: Coreia, Vietnã, Afeganistão.</li>\n        <li>Brasil alinhou-se aos EUA, especialmente após 1945.</li>\n      </ul>\n      \n      <h4>Ditadura Militar no Brasil (1964-1985)</h4>\n      <ul>\n        <li><strong>Golpe de 1964:</strong> Militares assumem o poder com apoio da classe média e dos EUA (Operação Brother Sam).</li>\n        <li><strong>Atos Institucionais (AI):</strong> AI-1 (suspensão de direitos), AI-2 (bipartidarismo), AI-3 (eleições indiretas), AI-5 (1968, o mais repressivo, fechou o Congresso).</li>\n        <li><strong>Repressão:</strong> Censura, perseguição política, tortura, desaparecimentos (Comissão da Verdade).</li>\n        <li><strong>Milagre econômico (1970-1973):</strong> Crescimento do PIB, mas com endividamento externo e desigualdade.</li>\n        <li><strong>Abertura política (lenta e gradual):</strong> Lei de Anistia (1979), eleições diretas para governadores (1982).</li>\n        <li><strong>Diretas Já (1984):</strong> Movimento popular, mas a emenda não foi aprovada.</li>\n        <li><strong>Redemocratização:</strong> Eleição de Tancredo Neves (1985, indireta), e promulgação da Constituição de 1988.</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que foi a Guerra Fria?</li>\n        <li>2. Quais os principais atos institucionais da ditadura?</li>\n        <li>3. Explique o processo de redemocratização.</li>\n      </ul>\n    "
+        }
+      ]
+    },
+    {
+      "id": "fisica",
+      "name": "Física",
+      "color": "var(--cat-blue)",
+      "topics": [
+        {
+          "title": "1. Cinemática — Estudo do Movimento",
+          "content": "\n      <h3>Cinemática</h3>\n      <p>A cinemática descreve o movimento sem investigar suas causas. São estudadas grandezas como posição, velocidade e aceleração.</p>\n      \n      <h4>Movimento Retilíneo Uniforme (MRU)</h4>\n      <ul>\n        <li>Velocidade constante (v ≠ 0) e aceleração nula (a = 0).</li>\n        <li>Função horária: S = S₀ + vt, onde S₀ é a posição inicial.</li>\n        <li>Gráfico S × t: reta inclinada (v = inclinação).</li>\n        <li>Gráfico v × t: reta horizontal.</li>\n      </ul>\n      \n      <h4>Movimento Retilíneo Uniformemente Variado (MRUV)</h4>\n      <ul>\n        <li>Aceleração constante (a ≠ 0).</li>\n        <li>Funções horárias: v = v₀ + at; S = S₀ + v₀t + (1/2)at².</li>\n        <li>Equação de Torricelli: v² = v₀² + 2aΔS.</li>\n        <li>Gráfico S × t: parábola; v × t: reta inclinada.</li>\n      </ul>\n      \n      <h4>Queda livre</h4>\n      <ul>\n        <li>MRUV com aceleração igual à aceleração da gravidade (g ≈ 10 m/s²).</li>\n        <li>Desprezando a resistência do ar, todos os corpos caem com a mesma aceleração.</li>\n        <li>Funções: v = gt; h = (1/2)gt².</li>\n      </ul>\n      \n      <h4>Exemplos Resolvidos</h4>\n      <p><strong>1.</strong> Um carro parte do repouso com aceleração de 2 m/s². Qual a velocidade após 5 s?</p>\n      <p><em>Solução:</em> v = v₀ + at = 0 + 2·5 = 10 m/s.</p>\n      \n      <p><strong>2.</strong> Um objeto é lançado verticalmente para cima com v₀ = 20 m/s (g = 10 m/s²). Calcule a altura máxima.</p>\n      <p><em>Solução:</em> Na altura máxima v = 0. 0² = 20² - 2·10·h ⇒ h = 20 m.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a distância percorrida por um móvel com MRU a 72 km/h durante 30 min?</li>\n        <li>2. Em um MRUV com a = 3 m/s², partindo do repouso, qual a velocidade após 4 s?</li>\n        <li>3. Qual o tempo de queda de um objeto solto de uma altura de 45 m?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "2. As Leis de Newton — Fundamentos da Dinâmica",
+          "content": "\n      <h3>Leis de Newton</h3>\n      <p>As três leis de Newton descrevem o comportamento dos corpos sob ação de forças.</p>\n      \n      <h4>1ª Lei (Lei da Inércia)</h4>\n      <ul>\n        <li>Um corpo em repouso tende a permanecer em repouso; um corpo em movimento retilíneo uniforme tende a manter seu movimento, a menos que uma força resultante atue.</li>\n        <li>Conceito de inércia: resistência à mudança de estado.</li>\n      </ul>\n      \n      <h4>2ª Lei (Princípio Fundamental da Dinâmica)</h4>\n      <ul>\n        <li>A força resultante sobre um corpo é igual ao produto de sua massa pela aceleração: F<sub>R</sub> = m·a.</li>\n        <li>Unidade: N (newton) = kg·m/s².</li>\n        <li>Importante: a aceleração tem a mesma direção e sentido da força resultante.</li>\n      </ul>\n      \n      <h4>3ª Lei (Ação e Reação)</h4>\n      <ul>\n        <li>Para toda força de ação, existe uma força de reação de mesma intensidade, mesma direção, e sentido oposto, em corpos diferentes.</li>\n        <li>Ex: Ao empurrar uma parede, a parede empurra você de volta.</li>\n      </ul>\n      \n      <h4>Forças comuns</h4>\n      <ul>\n        <li><strong>Peso:</strong> P = m·g (vertical para baixo).</li>\n        <li><strong>Normal:</strong> Força de contato perpendicular à superfície.</li>\n        <li><strong>Atrito:</strong> F<sub>at</sub> = μ·N (μ = coeficiente de atrito).</li>\n        <li><strong>Tração:</strong> Força transmitida por fios e cabos.</li>\n      </ul>\n      \n      <h4>Exemplo resolvido</h4>\n      <p>Um bloco de massa 5 kg é puxado por uma força horizontal de 20 N, sobre uma superfície com atrito (μ = 0,2). Calcule a aceleração.</p>\n      <p><em>Solução:</em> N = P = 50 N. F<sub>at</sub> = 0,2·50 = 10 N. F<sub>R</sub> = 20 - 10 = 10 N. a = 10/5 = 2 m/s².</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a aceleração de um corpo de 10 kg sob uma força resultante de 50 N?</li>\n        <li>2. Explique a 3ª lei com um exemplo do dia a dia.</li>\n        <li>3. O que é força normal?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "3. Energia e Trabalho — Princípio da Conservação",
+          "content": "\n      <h3>Energia Mecânica</h3>\n      <p>A energia pode se transformar, mas não se cria nem se destrói (princípio da conservação).</p>\n      \n      <h4>Trabalho (W)</h4>\n      <ul>\n        <li>Definição: W = F·d·cosθ (força constante).</li>\n        <li>Unidade: J (joule).</li>\n        <li>Trabalho motor (θ = 0°): W > 0; trabalho resistente (θ = 180°): W < 0.</li>\n      </ul>\n      \n      <h4>Energia Cinética (Ec)</h4>\n      <ul>\n        <li>Energia associada ao movimento: Ec = (1/2)mv².</li>\n        <li>Teorema do trabalho-energia: W<sub>R</sub> = ΔEc.</li>\n      </ul>\n      \n      <h4>Energia Potencial</h4>\n      <ul>\n        <li><strong>Gravitacional:</strong> Ep = m·g·h (relacionada à altura).</li>\n        <li><strong>Elástica:</strong> Ee = (1/2)kx² (relacionada à deformação de uma mola).</li>\n      </ul>\n      \n      <h4>Conservação da Energia Mecânica</h4>\n      <ul>\n        <li>Em sistemas conservativos (sem atrito, sem dissipação), a energia mecânica total (Ec + Ep) permanece constante.</li>\n        <li>Exemplo: queda livre (Ep → Ec).</li>\n      </ul>\n      \n      <h4>Exemplo resolvido</h4>\n      <p>Um corpo de 2 kg cai de uma altura de 10 m. Qual a velocidade ao chegar ao solo? (g = 10 m/s²).</p>\n      <p><em>Solução:</em> Energia mecânica inicial = mgh = 2·10·10 = 200 J. Final = (1/2)mv² = 200 ⇒ v² = 200 ⇒ v ≈ 14,14 m/s.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Calcule o trabalho realizado por uma força de 10 N que desloca um corpo 5 m na mesma direção.</li>\n        <li>2. Qual a energia cinética de um carro de 1000 kg a 20 m/s?</li>\n        <li>3. Explique o princípio da conservação da energia mecânica.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "4. Estática e Hidrostática — Equilíbrio e Fluidos",
+          "content": "\n      <h3>Estática e Hidrostática</h3>\n      \n      <h4>Estática</h4>\n      <ul>\n        <li>Condições de equilíbrio de um corpo: ΣF = 0 (resultante nula) e ΣM = 0 (soma dos momentos nula).</li>\n        <li>Centro de massa e torque (momento de uma força).</li>\n      </ul>\n      \n      <h4>Hidrostática</h4>\n      <ul>\n        <li><strong>Pressão:</strong> P = F/A (N/m² = Pa).</li>\n        <li><strong>Pressão hidrostática:</strong> P = ρ·g·h (ρ = densidade, h = profundidade).</li>\n        <li><strong>Empuxo (Arquimedes):</strong> Todo corpo imerso em um fluido recebe uma força vertical para cima igual ao peso do volume de fluido deslocado. E = ρ<sub>fluido</sub>·V<sub>deslocado</sub>·g.</li>\n        <li><strong>Peso aparente:</strong> Peso real - Empuxo.</li>\n        <li><strong>Princípio de Pascal:</strong> Uma pressão aplicada a um fluido confinado se transmite integralmente a todos os pontos do fluido (aplicação em elevadores hidráulicos).</li>\n      </ul>\n      \n      <h4>Exemplo resolvido</h4>\n      <p>Um objeto de volume 0,5 m³ é totalmente imerso em água (ρ = 1000 kg/m³). Calcule o empuxo.</p>\n      <p><em>Solução:</em> E = 1000 · 0,5 · 10 = 5000 N.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a pressão exercida por uma força de 100 N sobre uma área de 2 m²?</li>\n        <li>2. Explique o princípio de Arquimedes.</li>\n        <li>3. O que é peso aparente?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "5. Termologia e Calorimetria — Calor e Temperatura",
+          "content": "\n      <h3>Termologia e Calorimetria</h3>\n      \n      <h4>Conceitos básicos</h4>\n      <ul>\n        <li><strong>Temperatura:</strong> Mede a agitação das moléculas (escalas Celsius, Kelvin, Fahrenheit).</li>\n        <li><strong>Calor:</strong> Energia em trânsito devido à diferença de temperatura.</li>\n        <li><strong>Capacidade térmica:</strong> C = Q/ΔT (J/°C).</li>\n        <li><strong>Calor específico (c):</strong> Quantidade de calor necessária para elevar 1 °C a temperatura de 1 g (ou 1 kg) de substância.</li>\n      </ul>\n      \n      <h4>Calor Sensível</h4>\n      <ul>\n        <li>Quando há variação de temperatura sem mudança de estado: Q = m·c·ΔT.</li>\n      </ul>\n      \n      <h4>Calor Latente</h4>\n      <ul>\n        <li>Quando há mudança de estado físico a temperatura constante: Q = m·L (L = calor latente de fusão ou vaporização).</li>\n      </ul>\n      \n      <h4>Diagrama de fase</h4>\n      <ul>\n        <li>Curvas de aquecimento e resfriamento mostram patamares (calor latente) e inclinações (calor sensível).</li>\n      </ul>\n      \n      <h4>Exemplo resolvido</h4>\n      <p>Calcule a quantidade de calor necessária para aquecer 100 g de água de 20 °C a 80 °C (c = 1 cal/g°C).</p>\n      <p><em>Solução:</em> Q = 100·1·(80-20) = 6000 cal.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a diferença entre calor e temperatura?</li>\n        <li>2. O que é calor latente? Dê um exemplo.</li>\n        <li>3. Uma substância de 200 g recebe 1000 cal e sua temperatura sobe 5 °C. Calcule seu calor específico.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "6. Óptica Geométrica — Comportamento da Luz",
+          "content": "\n      <h3>Óptica Geométrica</h3>\n      <p>Estuda a propagação da luz e fenômenos como reflexão e refração.</p>\n      \n      <h4>Reflexão</h4>\n      <ul>\n        <li>Lei da reflexão: ângulo de incidência = ângulo de reflexão (medidos em relação à normal).</li>\n        <li>Espelho plano: imagem virtual, direita, do mesmo tamanho e simétrica em relação ao espelho.</li>\n        <li>Espelhos esféricos: côncavos (convergentes) e convexos (divergentes). Equação de Gauss: 1/f = 1/p + 1/p' (p = distância objeto, p' = distância imagem, f = distância focal).</li>\n      </ul>\n      \n      <h4>Refração</h4>\n      <ul>\n        <li>Passagem da luz de um meio para outro, com alteração de velocidade e desvio.</li>\n        <li>Lei de Snell: n₁·senθ₁ = n₂·senθ₂ (n = índice de refração).</li>\n        <li>Índice de refração absoluto: n = c/v.</li>\n        <li>Lentes: convergentes (bordas finas) e divergentes (bordas grossas). Fórmula das lentes: 1/f = 1/p + 1/p'.</li>\n      </ul>\n      \n      <h4>Exemplo resolvido</h4>\n      <p>Um raio de luz passa do ar (n=1) para a água (n=1,33) com ângulo de incidência 30°. Calcule o ângulo de refração.</p>\n      <p><em>Solução:</em> 1·sen30° = 1,33·senθ₂ ⇒ 0,5 = 1,33·senθ₂ ⇒ senθ₂ ≈ 0,376 ⇒ θ₂ ≈ 22,1°.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que é reflexão total?</li>\n        <li>2. Explique a formação de imagem em um espelho plano.</li>\n        <li>3. Qual a diferença entre lente convergente e divergente?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "7. Ondulatória — Ondas e Fenômenos",
+          "content": "\n      <h3>Ondulatória</h3>\n      <p>As ondas transportam energia sem transportar matéria.</p>\n      \n      <h4>Classificação</h4>\n      <ul>\n        <li><strong>Quanto à natureza:</strong> Mecânicas (som, ondas em cordas) necessitam de um meio; eletromagnéticas (luz, rádio) não necessitam.</li>\n        <li><strong>Quanto à direção de vibração:</strong> Transversais (vibração perpendicular à propagação) e longitudinais (vibração paralela).</li>\n      </ul>\n      \n      <h4>Grandezas</h4>\n      <ul>\n        <li><strong>Comprimento de onda (λ):</strong> Distância entre dois pontos em fase (ex: cristas consecutivas).</li>\n        <li><strong>Frequência (f):</strong> Número de oscilações por segundo (Hz).</li>\n        <li><strong>Período (T):</strong> T = 1/f.</li>\n        <li><strong>Velocidade de propagação (v):</strong> v = λ·f.</li>\n      </ul>\n      \n      <h4>Fenômenos ondulatórios</h4>\n      <ul>\n        <li><strong>Reflexão:</strong> Onda bate em uma superfície e volta.</li>\n        <li><strong>Refração:</strong> Onda passa de um meio a outro, alterando sua velocidade.</li>\n        <li><strong>Difração:</strong> Onda contorna obstáculos.</li>\n        <li><strong>Interferência:</strong> Superposição de ondas (construtiva ou destrutiva).</li>\n        <li><strong>Ressonância:</strong> Fenômeno de amplitude máxima quando a frequência da fonte coincide com a frequência natural do sistema.</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>Uma onda tem comprimento de onda 2 m e frequência 50 Hz. Calcule sua velocidade.</p>\n      <p><em>Solução:</em> v = 2·50 = 100 m/s.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que diferencia ondas mecânicas de eletromagnéticas?</li>\n        <li>2. Explique a interferência construtiva.</li>\n        <li>3. Qual a velocidade do som no ar? (aproximadamente).</li>\n      </ul>\n    "
+        },
+        {
+          "title": "8. Eletrostática — Cargas em Repouso",
+          "content": "\n      <h3>Eletrostática</h3>\n      <p>Estuda as cargas elétricas em repouso e as forças que atuam entre elas.</p>\n      \n      <h4>Conceitos básicos</h4>\n      <ul>\n        <li><strong>Carga elétrica:</strong> Propriedade da matéria, quantizada (Q = n·e, onde e = 1,6×10⁻¹⁹ C).</li>\n        <li><strong>Lei de Coulomb:</strong> Força entre duas cargas pontuais: F = k·|Q₁·Q₂|/d², com k = 9×10⁹ N·m²/C².</li>\n        <li>Força atrativa para cargas opostas, repulsiva para cargas iguais.</li>\n      </ul>\n      \n      <h4>Campo Elétrico</h4>\n      <ul>\n        <li>Região do espaço onde uma carga de prova sofre ação de uma força.</li>\n        <li>Vetor campo elétrico: E = F/q. A direção é radial a partir da carga, com sentido para fora (carga positiva) ou para dentro (negativa).</li>\n        <li>Campo criado por carga pontual: E = k·|Q|/d².</li>\n      </ul>\n      \n      <h4>Potencial Elétrico</h4>\n      <ul>\n        <li>Energia potencial por unidade de carga: V = k·Q/d (unidade: V = J/C).</li>\n        <li>Diferença de potencial (ddp): V<sub>AB</sub> = V<sub>A</sub> - V<sub>B</sub>.</li>\n        <li>Relação entre campo e potencial: E = −dV/ds (campo uniforme).</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>Duas cargas de 2 μC e 3 μC estão separadas por 0,5 m. Calcule a força entre elas.</p>\n      <p><em>Solução:</em> F = 9×10⁹ · (2×10⁻⁶ · 3×10⁻⁶) / (0,5)² = 9×10⁹ · 6×10⁻¹² / 0,25 = 54×10⁻³ / 0,25 = 0,216 N.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a carga elétrica de um corpo com 5×10¹⁵ elétrons?</li>\n        <li>2. Explique a Lei de Coulomb.</li>\n        <li>3. O que é potencial elétrico?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "9. Eletrodinâmica — Circuitos Elétricos",
+          "content": "\n      <h3>Eletrodinâmica</h3>\n      <p>Estuda as cargas em movimento (corrente elétrica) e os circuitos.</p>\n      \n      <h4>Corrente Elétrica (i)</h4>\n      <ul>\n        <li>Fluxo ordenado de cargas (i = Q/Δt).</li>\n        <li>Unidade: A (ampère).</li>\n        <li>Sentido convencional: do polo positivo para o negativo.</li>\n      </ul>\n      \n      <h4>Resistência Elétrica (R)</h4>\n      <ul>\n        <li>Oposição à passagem da corrente.</li>\n        <li>1ª Lei de Ohm: U = R·i (válida para condutores ôhmicos).</li>\n        <li>Resistividade: R = ρ·L/A (ρ = resistividade, L = comprimento, A = área).</li>\n      </ul>\n      \n      <h4>Potência Elétrica</h4>\n      <ul>\n        <li>P = U·i = R·i² = U²/R.</li>\n        <li>Energia: E = P·Δt (kWh).</li>\n      </ul>\n      \n      <h4>Associação de Resistores</h4>\n      <ul>\n        <li><strong>Série:</strong> R<sub>eq</sub> = R₁ + R₂ + ... (mesma corrente, tensões se somam).</li>\n        <li><strong>Paralelo:</strong> 1/R<sub>eq</sub> = 1/R₁ + 1/R₂ + ... (mesma tensão, correntes se somam).</li>\n      </ul>\n      \n      <h4>Leis de Kirchhoff</h4>\n      <ul>\n        <li>Lei dos nós: soma das correntes que chegam a um nó é igual à soma das que saem.</li>\n        <li>Lei das malhas: a soma algébrica das d.d.p. em uma malha é zero.</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>Calcule a corrente em um resistor de 10 Ω submetido a 30 V.</p>\n      <p><em>Solução:</em> i = U/R = 30/10 = 3 A.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a resistência equivalente de dois resistores de 3 Ω e 6 Ω em paralelo?</li>\n        <li>2. Explique a 1ª Lei de Ohm.</li>\n        <li>3. Calcule a potência dissipada por um resistor de 5 Ω percorrido por 2 A.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "10. Eletromagnetismo — Campos e Indução",
+          "content": "\n      <h3>Eletromagnetismo</h3>\n      <p>Relação entre eletricidade e magnetismo.</p>\n      \n      <h4>Campo Magnético</h4>\n      <ul>\n        <li>Gerado por imãs e cargas em movimento.</li>\n        <li>Regra da mão direita para determinar a direção do campo magnético (B).</li>\n        <li>Unidade: T (tesla).</li>\n      </ul>\n      \n      <h4>Força Magnética sobre uma carga</h4>\n      <ul>\n        <li>F = q·v·B·senθ (carga em movimento em um campo magnético).</li>\n        <li>Regra da mão esquerda para a direção da força.</li>\n      </ul>\n      \n      <h4>Indução Eletromagnética (Faraday)</h4>\n      <ul>\n        <li>A variação do fluxo magnético (Φ) através de uma superfície induz uma força eletromotriz (fem).</li>\n        <li>Lei de Faraday: ε = −dΦ/dt.</li>\n        <li>Lei de Lenz: o sentido da corrente induzida é tal que se opõe à variação que a produziu.</li>\n      </ul>\n      \n      <h4>Aplicações</h4>\n      <ul>\n        <li>Geradores elétricos (convertem energia mecânica em elétrica).</li>\n        <li>Transformadores (alteram tensão e corrente).</li>\n        <li>Motores elétricos (convertem energia elétrica em mecânica).</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>Uma carga de 2 C move-se a 5 m/s perpendicularmente a um campo B = 0,5 T. Calcule a força magnética.</p>\n      <p><em>Solução:</em> F = 2·5·0,5·sen90° = 5 N.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que é indução eletromagnética?</li>\n        <li>2. Explique a Lei de Lenz.</li>\n        <li>3. Como funciona um transformador?</li>\n      </ul>\n    "
+        }
+      ]
+    },
+    {
+      "id": "quimica",
+      "name": "Química",
+      "color": "var(--cat-purple)",
+      "topics": [
+        {
+          "title": "1. Modelos Atômicos — Evolução da Estrutura",
+          "content": "\n      <h3>Modelos Atômicos</h3>\n      <p>A estrutura do átomo foi sendo refinada ao longo do tempo.</p>\n      \n      <h4>Dalton (1803)</h4>\n      <ul>\n        <li>Átomo maciço, indivisível, esfera rígida (bola de bilhar).</li>\n        <li>Átomos de diferentes elementos têm massas diferentes.</li>\n      </ul>\n      \n      <h4>Thomson (1898)</h4>\n      <ul>\n        <li>Descobriu o elétron (carga negativa).</li>\n        <li>Modelo \"pudim de passas\": elétrons incrustados em uma esfera positiva.</li>\n        <li>Átomo divisível.</li>\n      </ul>\n      \n      <h4>Rutherford (1911)</h4>\n      <ul>\n        <li>Experimento da lâmina de ouro: partículas α foram desviadas, sugerindo um núcleo denso e positivo.</li>\n        <li>Modelo planetário: núcleo (prótons + nêutrons) e eletrosfera com elétrons.</li>\n        <li>A maior parte do átomo é vazia.</li>\n      </ul>\n      \n      <h4>Bohr (1913)</h4>\n      <ul>\n        <li>Elétrons em órbitas quantizadas (níveis de energia).</li>\n        <li>Saltos quânticos: o elétron absorve ou emite energia (fótons) para mudar de nível.</li>\n        <li>Modelo baseado na teoria quântica.</li>\n      </ul>\n      \n      <h4>Modelo Quântico Atual</h4>\n      <ul>\n        <li>Baseado na mecânica ondulatória (Schrödinger).</li>\n        <li>Os elétrons são descritos por funções de onda (orbitais), não por trajetórias definidas.</li>\n        <li>Números quânticos: n (nível), l (subnível), m<sub>l</sub> (orientação), s (spin).</li>\n      </ul>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a principal diferença entre o modelo de Thomson e o de Rutherford?</li>\n        <li>2. O que são órbitas quantizadas?</li>\n        <li>3. Explique o experimento de Rutherford.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "2. Tabela Periódica — Organização dos Elementos",
+          "content": "\n      <h3>Tabela Periódica</h3>\n      <p>Os elementos são organizados por ordem crescente de número atômico, em períodos (linhas) e grupos (colunas).</p>\n      \n      <h4>Grupos (Famílias)</h4>\n      <ul>\n        <li>Elementos de um mesmo grupo têm o mesmo número de elétrons na camada de valência, portanto propriedades químicas semelhantes.</li>\n        <li><strong>Grupo 1:</strong> Metais alcalinos (Li, Na, K, Rb, Cs, Fr) — reativos, formam bases fortes.</li>\n        <li><strong>Grupo 2:</strong> Metais alcalino-terrosos (Mg, Ca, Sr, Ba) — menos reativos.</li>\n        <li><strong>Grupo 17:</strong> Halogênios (F, Cl, Br, I, At) — muito reativos, formam sais.</li>\n        <li><strong>Grupo 18:</strong> Gases nobres (He, Ne, Ar, Kr, Xe, Rn) — estáveis, baixa reatividade.</li>\n      </ul>\n      \n      <h4>Períodos</h4>\n      <ul>\n        <li>Representam o número de camadas eletrônicas.</li>\n        <li>Ex: 1º período: K (1 camada); 2º período: L (2 camadas), etc.</li>\n      </ul>\n      \n      <h4>Propriedades Periódicas</h4>\n      <ul>\n        <li><strong>Raio atômico:</strong> Cresce para baixo (novas camadas) e para a esquerda (menor carga nuclear efetiva).</li>\n        <li><strong>Eletronegatividade:</strong> Capacidade de atrair elétrons em uma ligação. Cresce para cima e para a direita (F é o mais eletronegativo).</li>\n        <li><strong>Energia de ionização:</strong> Energia necessária para remover um elétron. Cresce na mesma direção.</li>\n        <li><strong>Afinidade eletrônica:</strong> Energia liberada ao ganhar um elétron.</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>O cloro (Cl) está no grupo 17, período 3. Possui 7 elétrons na valência, é muito reativo.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que são elementos de transição?</li>\n        <li>2. Explique a tendência do raio atômico na tabela.</li>\n        <li>3. Qual o elemento mais eletronegativo?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "3. Ligações Químicas — Combinação entre Átomos",
+          "content": "\n      <h3>Ligações Químicas</h3>\n      <p>Os átomos se ligam para atingir a estabilidade (regra do octeto).</p>\n      \n      <h4>Ligação Iônica</h4>\n      <ul>\n        <li>Transferência de elétrons de um metal (eletropositivo) para um ametal (eletronegativo).</li>\n        <li>Formam íons: cátions (+) e ânions (−).</li>\n        <li>Ex: NaCl (Na⁺Cl⁻).</li>\n        <li>Características: alta temperatura de fusão, conduzem corrente quando dissolvidos em água, sólidos cristalinos.</li>\n      </ul>\n      \n      <h4>Ligação Covalente</h4>\n      <ul>\n        <li>Compartilhamento de pares de elétrons entre ametais (ou entre hidrogênio e ametais).</li>\n        <li>Ex: H₂, H₂O, CO₂.</li>\n        <li>Classificação: simples (1 par), dupla (2 pares), tripla (3 pares).</li>\n        <li>Polar: quando há diferença de eletronegatividade (ex: HCl). Apolar: quando a diferença é nula (ex: H₂).</li>\n        <li>Geometria molecular: linear, angular, trigonal plana, tetraédrica, etc.</li>\n      </ul>\n      \n      <h4>Ligação Metálica</h4>\n      <ul>\n        <li>Mar de elétrons livres (elétrons deslocalizados) que envolvem os cátions metálicos.</li>\n        <li>Explica a condutividade elétrica e térmica dos metais, a maleabilidade e a ductilidade.</li>\n      </ul>\n      \n      <h4>Forças Intermoleculares</h4>\n      <ul>\n        <li>Forças de Van der Waals: dipolo-dipolo, dipolo induzido, ligações de hidrogênio (fortes).</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>A molécula de água (H₂O) tem ligações covalentes polares e geometria angular.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Diferencie ligação iônica de covalente.</li>\n        <li>2. O que é a regra do octeto?</li>\n        <li>3. Explique a ligação metálica.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "4. Funções Inorgânicas — Ácidos, Bases, Sais e Óxidos",
+          "content": "\n      <h3>Funções Inorgânicas</h3>\n      \n      <h4>Ácidos</h4>\n      <ul>\n        <li>Substâncias que, em solução aquosa, liberam H⁺ (ou H₃O⁺).</li>\n        <li>Ex: HCl (ácido clorídrico), H₂SO₄ (ácido sulfúrico), HNO₃ (ácido nítrico).</li>\n        <li>Classificação: quanto ao número de H⁺, presença de oxigênio (hidrácidos e oxiácidos).</li>\n        <li>pH < 7.</li>\n      </ul>\n      \n      <h4>Bases</h4>\n      <ul>\n        <li>Substâncias que, em solução aquosa, liberam OH⁻.</li>\n        <li>Ex: NaOH (hidróxido de sódio), KOH, Ca(OH)₂.</li>\n        <li>pH > 7.</li>\n      </ul>\n      \n      <h4>Sais</h4>\n      <ul>\n        <li>Produtos da neutralização entre um ácido e uma base.</li>\n        <li>Ex: NaCl (cloreto de sódio), Na₂CO₃ (carbonato de sódio).</li>\n        <li>pH pode ser neutro, ácido ou básico dependendo da força do ácido e base.</li>\n      </ul>\n      \n      <h4>Óxidos</h4>\n      <ul>\n        <li>Compostos binários de oxigênio com outro elemento.</li>\n        <li>Ex: CO₂ (dióxido de carbono), Fe₂O₃ (óxido de ferro), CaO (óxido de cálcio).</li>\n        <li>Classificação: óxidos ácidos (reagem com água formando ácido), básicos (formam bases), neutros, anfóteros.</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>A reação HCl + NaOH → NaCl + H₂O é uma neutralização.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Classifique as substâncias: H₂SO₄, NaOH, CaO, NaCl.</li>\n        <li>2. O que é um sal?</li>\n        <li>3. Dê dois exemplos de óxidos e classifique-os.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "5. Estequiometria — Cálculos Químicos",
+          "content": "\n      <h3>Estequiometria</h3>\n      <p>Relações quantitativas entre reagentes e produtos em uma reação química.</p>\n      \n      <h4>Conceitos fundamentais</h4>\n      <ul>\n        <li><strong>Mol:</strong> Quantidade de matéria que contém 6,02×10²³ entidades (número de Avogadro).</li>\n        <li><strong>Massa molar:</strong> Massa de 1 mol de uma substância (g/mol), numericamente igual à massa molecular.</li>\n        <li><strong>Volume molar:</strong> Nas CNTP (0°C, 1 atm), 1 mol de gás ideal ocupa 22,4 L.</li>\n      </ul>\n      \n      <h4>Etapas para resolver problemas estequiométricos</h4>\n      <ul>\n        <li>1. Escrever a equação balanceada.</li>\n        <li>2. Calcular as massas molares.</li>\n        <li>3. Relacionar as quantidades (em mol) conforme a proporção estequiométrica.</li>\n        <li>4. Converter para a unidade solicitada (massa, volume, número de partículas).</li>\n      </ul>\n      \n      <h4>Exemplo resolvido</h4>\n      <p>Na reação 2H₂ + O₂ → 2H₂O, calcule a massa de água obtida a partir de 4 g de H₂.</p>\n      <p><em>Solução:</em> Mol de H₂ = 4/2 = 2 mol. Proporção: 2 mol H₂ → 2 mol H₂O ⇒ 2 mol H₂O. Massa de H₂O = 2·18 = 36 g.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Quantas gramas de CO₂ são produzidas na combustão de 10 g de metano (CH₄)? (CH₄ + 2O₂ → CO₂ + 2H₂O).</li>\n        <li>2. Qual o volume de O₂ (CNTP) necessário para reagir completamente com 4 g de H₂?</li>\n        <li>3. Defina mol.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "6. Soluções e Concentração — Misturas Homogêneas",
+          "content": "\n      <h3>Soluções e Concentrações</h3>\n      <p>Uma solução é uma mistura homogênea de duas ou mais substâncias.</p>\n      \n      <h4>Componentes</h4>\n      <ul>\n        <li><strong>Soluto:</strong> Substância dissolvida (em menor quantidade).</li>\n        <li><strong>Solvente:</strong> Substância que dissolve (em maior quantidade).</li>\n      </ul>\n      \n      <h4>Concentrações</h4>\n      <ul>\n        <li><strong>Concentração comum (C):</strong> C = m/V (g/L).</li>\n        <li><strong>Molaridade (M):</strong> M = n/V (mol/L).</li>\n        <li><strong>Molalidade (W):</strong> W = n/(massa solvente em kg).</li>\n        <li><strong>Fração molar:</strong> X<sub>soluto</sub> = n<sub>soluto</sub> / (n<sub>soluto</sub> + n<sub>solvente</sub>).</li>\n        <li><strong>Densidade:</strong> d = m/V.</li>\n      </ul>\n      \n      <h4>Diluição</h4>\n      <ul>\n        <li>M₁·V₁ = M₂·V₂ (número de mols se conserva).</li>\n        <li>Ex: adicionar água a uma solução.</li>\n      </ul>\n      \n      <h4>Exemplo resolvido</h4>\n      <p>Prepara-se uma solução dissolvendo 20 g de NaCl em água suficiente para 500 mL. Calcule a molaridade.</p>\n      <p><em>Solução:</em> NaCl: MM = 58,5 g/mol. n = 20/58,5 ≈ 0,342 mol. M = 0,342 / 0,5 = 0,684 mol/L.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Qual a concentração comum de uma solução com 10 g de soluto em 2 L?</li>\n        <li>2. Explique o que é molaridade.</li>\n        <li>3. Como se calcula a diluição de uma solução?</li>\n      </ul>\n    "
+        },
+        {
+          "title": "7. Termoquímica — Calor nas Reações",
+          "content": "\n      <h3>Termoquímica</h3>\n      <p>Estuda a troca de calor (entalpia) durante as reações químicas.</p>\n      \n      <h4>Entalpia (H)</h4>\n      <ul>\n        <li>Função de estado que corresponde ao conteúdo de calor de um sistema.</li>\n        <li>Variação de entalpia (ΔH) = H<sub>produtos</sub> - H<sub>reagentes</sub>.</li>\n      </ul>\n      \n      <h4>Reações exotérmicas</h4>\n      <ul>\n        <li>Liberam calor: ΔH < 0.</li>\n        <li>Ex: combustão (CH₄ + 2O₂ → CO₂ + 2H₂O + calor).</li>\n      </ul>\n      \n      <h4>Reações endotérmicas</h4>\n      <ul>\n        <li>Absorvem calor: ΔH > 0.</li>\n        <li>Ex: fotossíntese.</li>\n      </ul>\n      \n      <h4>Lei de Hess</h4>\n      <ul>\n        <li>A variação de entalpia de uma reação é a soma das variações de entalpia das etapas intermediárias, independentemente do caminho.</li>\n        <li>Ex: reação global pode ser escrita como soma de reações parciais.</li>\n      </ul>\n      \n      <h4>Entalpia de formação</h4>\n      <ul>\n        <li>Calor envolvido na formação de 1 mol de uma substância a partir de seus elementos no estado padrão.</li>\n        <li>Substâncias simples no estado padrão têm ΔH<sub>f</sub> = 0.</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>A combustão do metano libera 890 kJ/mol. Portanto, ΔH = -890 kJ/mol.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que é uma reação exotérmica?</li>\n        <li>2. Explique a Lei de Hess.</li>\n        <li>3. Calcule o ΔH da reação a partir das entalpias de formação.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "8. Cinética Química — Velocidade das Reações",
+          "content": "\n      <h3>Cinética Química</h3>\n      <p>Estuda a velocidade das reações e os fatores que a influenciam.</p>\n      \n      <h4>Velocidade de reação</h4>\n      <ul>\n        <li>Variação da concentração de um reagente ou produto por unidade de tempo.</li>\n        <li>v = −Δ[reagente]/Δt ou v = Δ[produto]/Δt.</li>\n      </ul>\n      \n      <h4>Lei da velocidade</h4>\n      <ul>\n        <li>v = k·[A]^m·[B]^n, onde m e n são as ordens parciais (determinadas experimentalmente).</li>\n        <li>Ordem global = m + n.</li>\n      </ul>\n      \n      <h4>Fatores que aumentam a velocidade</h4>\n      <ul>\n        <li><strong>Temperatura:</strong> Aumenta a energia cinética, aumentando a frequência de colisões efetivas (regra de Van't Hoff: a cada 10°C, velocidade dobra).</li>\n        <li><strong>Concentração:</strong> Maior concentração → mais colisões.</li>\n        <li><strong>Superfície de contato:</strong> Sólidos pulverizados reagem mais rápido.</li>\n        <li><strong>Catalisadores:</strong> Diminuem a energia de ativação, acelerando a reação sem serem consumidos.</li>\n      </ul>\n      \n      <h4>Energia de ativação</h4>\n      <ul>\n        <li>Energia mínima necessária para que uma colisão seja efetiva (quebre ligações).</li>\n        <li>Gráfico: complexo ativado (pico).</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>A reação 2H₂O₂ → 2H₂O + O₂ é catalisada pelo MnO₂.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que é energia de ativação?</li>\n        <li>2. Como um catalisador atua?</li>\n        <li>3. Explique a influência da temperatura na velocidade.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "9. Eletroquímica — Pilhas e Eletrólise",
+          "content": "\n      <h3>Eletroquímica</h3>\n      <p>Estuda a relação entre reações químicas e eletricidade.</p>\n      \n      <h4>Pilhas (eletroquímicas)</h4>\n      <ul>\n        <li>Transformam energia química em elétrica (processo espontâneo).</li>\n        <li><strong>Ânodo:</strong> Onde ocorre a oxidação (perde elétrons).</li>\n        <li><strong>Cátodo:</strong> Onde ocorre a redução (ganha elétrons).</li>\n        <li>Ex: pilha de Daniell (Zn/Zn²⁺ || Cu²⁺/Cu).</li>\n        <li>d.d.p. = potencial de redução (cátodo) - potencial de redução (ânodo).</li>\n      </ul>\n      \n      <h4>Eletrólise</h4>\n      <ul>\n        <li>Processo não espontâneo que usa corrente elétrica para forçar uma reação química.</li>\n        <li>Ex: eletrólise da água (2H₂O → 2H₂ + O₂) e da salmoura (obtenção de Cl₂, H₂, NaOH).</li>\n        <li><strong>Leis de Faraday:</strong> A massa de substância depositada ou liberada é proporcional à quantidade de carga elétrica (Q = i·t) e à massa equivalente.</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>Na pilha de Daniell, o zinco se oxida (Zn → Zn²⁺ + 2e⁻) e o cobre se reduz (Cu²⁺ + 2e⁻ → Cu).</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. O que é uma pilha?</li>\n        <li>2. Diferencie ânodo e cátodo.</li>\n        <li>3. Explique a eletrólise da água.</li>\n      </ul>\n    "
+        },
+        {
+          "title": "10. Química Orgânica — Compostos de Carbono",
+          "content": "\n      <h3>Química Orgânica</h3>\n      <p>Estuda os compostos que contêm carbono (exceto alguns óxidos, carbonetos, cianetos).</p>\n      \n      <h4>Características do carbono</h4>\n      <ul>\n        <li>Tetravalente, formando quatro ligações covalentes.</li>\n        <li>Pode formar cadeias carbônicas (abertas, fechadas, mistas).</li>\n        <li>Pode ter ligações simples, duplas ou triplas.</li>\n      </ul>\n      \n      <h4>Funções Orgânicas Principais</h4>\n      <ul>\n        <li><strong>Hidrocarbonetos:</strong> Apenas C e H (alcanos, alcenos, alcinos, aromáticos).</li>\n        <li><strong>Álcoois:</strong> R−OH (ex: etanol).</li>\n        <li><strong>Cetonas:</strong> R−CO−R' (ex: acetona).</li>\n        <li><strong>Aldeídos:</strong> R−CHO (ex: formaldeído).</li>\n        <li><strong>Ácidos carboxílicos:</strong> R−COOH (ex: ácido acético).</li>\n        <li><strong>Ésteres:</strong> R−COO−R' (ex: acetato de etila).</li>\n        <li><strong>Éteres:</strong> R−O−R' (ex: éter dietílico).</li>\n        <li><strong>Amidas:</strong> R−CO−NH₂ (ex: uréia).</li>\n        <li><strong>Compostos aromáticos:</strong> Benzeno e derivados (tolueno, fenol).</li>\n      </ul>\n      \n      <h4>Isomeria</h4>\n      <ul>\n        <li>Mesma fórmula molecular, estruturas diferentes.</li>\n        <li><strong>Isomeria plana:</strong> cadeia, posição, função, tautomeria.</li>\n        <li><strong>Isomeria espacial:</strong> geométrica (cis-trans) e óptica (isômeros dextro e levo).</li>\n      </ul>\n      \n      <h4>Reações orgânicas</h4>\n      <ul>\n        <li><strong>Substituição:</strong> Troca de um átomo ou grupo por outro.</li>\n        <li><strong>Adição:</strong> Em ligações duplas ou triplas.</li>\n        <li><strong>Eliminação:</strong> Perda de molécula pequena.</li>\n        <li><strong>Oxidação:</strong> Ganho de oxigênio ou perda de hidrogênio.</li>\n      </ul>\n      \n      <h4>Exemplo</h4>\n      <p>O etanol (C₂H₅OH) é um álcool; o ácido acético (CH₃COOH) é um ácido carboxílico.</p>\n      \n      <h4>Exercícios</h4>\n      <ul>\n        <li>1. Identifique a função orgânica na acetona.</li>\n        <li>2. O que é isomeria?</li>\n        <li>3. Quais as principais reações de hidrocarbonetos?</li>\n      </ul>\n    "
+        }
+      ]
+    }
+  ]
+}
