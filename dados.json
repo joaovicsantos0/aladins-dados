@@ -28,6 +28,7 @@
       ],
       "link": "https://www.obmep.org.br"
     },
+    
     {
       "id": "oba",
       "category": "olimpiadas",
@@ -52,6 +53,38 @@
       ],
       "link": "http://www.oba.org.br"
     },
+
+    {
+  "id": "obs",
+  "category": "olimpiadas",
+  "status": "encerradas",
+  "title": "Olimpíada Brasileira do Saber (OBS)",
+  "institution": "LODIBECS",
+  "description": "A Olimpíada Brasileira do Saber (OBS) é um evento anual que visa promover e reconhecer o conhecimento e a excelência acadêmica entre estudantes brasileiros do Ensino Médio. A competição abrange diversas áreas do saber, como Química, Biologia, Física, Matemática, Raciocínio Lógico, Astronomia, Atualidade e Tecnologia. Os participantes são submetidos a provas teóricas e práticas, projetos de pesquisa e atividades interativas, projetadas para estimular o pensamento crítico, a resolução de problemas e a criatividade. A OBS é dividida em três fases: 1ª Fase (prova objetiva individual, eliminatória), 2ª Fase (prova objetiva individual, classificatória) e 3ª Fase (provas em equipe, com desafios aquáticos, gincanas, competições de robôs, quiz e debate). A organização também prepara os estudantes para desafios internacionais, como a QUANTA, fortalecendo a representação brasileira em competições globais.",
+  "requirement": "Estudantes do Ensino Médio (escolas públicas e privadas).",
+  "timeline": [
+    { "date": "05 Jan a 12 Mar 2026", "label": "Período de inscrições" },
+    { "date": "13 Mar 2026", "label": "Disponibilização das provas e folhas de respostas" },
+    { "date": "16 e 17 Mar 2026", "label": "Prova da 1ª Fase (aplicação nas escolas)" },
+    { "date": "18 Mar 2026", "label": "Gabarito provisório da 1ª Fase" },
+    { "date": "18 e 19 Mar 2026", "label": "Solicitação de recursos" },
+    { "date": "20 Mar 2026", "label": "Gabarito oficial da 1ª Fase" },
+    { "date": "20 e 27 Mar 2026", "label": "Envio das notas no portal OBS" },
+    { "date": "01 Abr 2026", "label": "Divulgação dos classificados para a 2ª Fase" },
+    { "date": "10 Abr 2026", "label": "Prova da 2ª Fase" },
+    { "date": "11 Abr 2026", "label": "Gabarito provisório da 2ª Fase" },
+    { "date": "11 e 13 Abr 2026", "label": "Solicitação de recursos" },
+    { "date": "14 Abr 2026", "label": "Gabarito oficial da 2ª Fase" },
+    { "date": "14 a 22 Abr 2026", "label": "Envio das notas no portal OBS" },
+    { "date": "28 Abr 2026", "label": "Comunicado às escolas sobre alunos com possibilidade de premiação" },
+    { "date": "29 Abr a 04 Mai 2026", "label": "Envio dos cartões-resposta pelas escolas notificadas" },
+    { "date": "05 Mai 2026", "label": "Divulgação do resultado oficial dos premiados" },
+    { "date": "05 Mai a 20 Jun 2026", "label": "Inscrições para a fase presencial e solicitação de medalhas" },
+    { "date": "29 Jun a 03 Jul 2026", "label": "Fase presencial" },
+    { "date": "20 Jul 2026", "label": "Disponibilização dos certificados digitais da 2ª Fase" }
+  ],
+  "link": "https://obssaberes.org/"
+},
     {
       "id": "obf",
       "category": "olimpiadas",
@@ -127,7 +160,7 @@
     {
       "id": "obq",
       "category": "olimpiadas",
-      "status": "embreve",
+      "status": "abertas",
       "title": "Olimpíada Brasileira de Química (OBQ)",
       "institution": "ABQ",
       "description": "A OBQ é uma competição que estimula o estudo da Química, integrando aspectos teóricos e práticos. A prova é dividida em três fases: a primeira é uma prova objetiva com 30 questões de múltipla escolha; a segunda é uma prova teórica com questões abertas; e a terceira é uma prova experimental realizada em laboratórios universitários. Os participantes devem demonstrar conhecimentos em química geral, orgânica, inorgânica e físico-química. Os medalhistas são convidados a participar da seleção para a Olimpíada Internacional de Química (IChO). A OBQ é uma excelente oportunidade para alunos que desejam aprofundar seus conhecimentos em química e seguir carreiras científicas.",
