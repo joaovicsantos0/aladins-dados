@@ -2058,7 +2058,7 @@
     {
       "id": "portugues",
       "name": "Português",
-      "color": "var(--cat-purple)",
+      "color": "var(--red-text)",
       "topics": [
         {
           "id": "portugues-01-morfologia",
@@ -2995,7 +2995,7 @@
     {
       "id": "fisica",
       "name": "Física",
-      "color": "var(--cat-cyan)",
+      "color": "var(--cat-blue)",
       "topics": [
         {
           "id": "explicacao-cinematica-formatada",
@@ -4348,7 +4348,7 @@
     {
       "id": "quimica",
       "name": "Química",
-      "color": "var(--cat-green)",
+      "color": "var(--cat-purple)",
       "topics": [
         {
           "id": "quimica-01-modelos-atomicos",
@@ -5307,7 +5307,7 @@
     {
       "id": "biologia",
       "name": "Biologia",
-      "color": "var(--cat-red)",
+      "color": "var(--cat-green)",
       "topics": [
         {
           "id": "biologia-01-citologia",
@@ -6244,7 +6244,7 @@
     {
       "id": "historia",
       "name": "História",
-      "color": "var(--cat-amber)",
+      "color": "var(--amber-text)",
       "topics": [
         {
           "id": "historia-01-grecia-e-roma",
@@ -6911,7 +6911,7 @@
     {
       "id": "redacao",
       "name": "Redação",
-      "color": "var(--cat-pink)",
+      "color": "var(--cat-purple)",
       "topics": [
         {
           "id": "redacao-01-estrutura-dissertacao-argumentativa",
