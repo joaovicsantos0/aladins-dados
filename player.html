@@ -10,8 +10,6 @@ html,body,#wrap{width:100%;height:100%;margin:0;background:#000;overflow:hidden}
 #wrap{position:relative}
 iframe{width:100%;height:100%;border:0;display:block}
 .erro{height:100%;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;font:600 15px system-ui;padding:24px;box-sizing:border-box}
-#reset-player{position:absolute;z-index:20;top:10px;left:10px;min-height:38px;padding:0 12px;border-radius:11px;border:1px solid rgba(255,255,255,.32);background:rgba(5,7,12,.82);color:#fff;font:800 12px system-ui;box-shadow:0 5px 16px rgba(0,0,0,.3);backdrop-filter:blur(7px);display:none;align-items:center;gap:6px}
-#reset-player.show{display:inline-flex}
 </style>
 </head>
 <body><div id="wrap"></div>
@@ -30,18 +28,6 @@ iframe{width:100%;height:100%;border:0;display:block}
  // Mantém o player funcional, mas impede pop-ups e navegação do WebViewer principal.
  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-presentation');
  frame.referrerPolicy='strict-origin-when-cross-origin';
- const reset=document.createElement('button');
- reset.id='reset-player';
- reset.type='button';
- reset.innerHTML='<span aria-hidden="true">↶</span><span>Voltar ao vídeo</span>';
- reset.setAttribute('aria-label','Voltar ao vídeo incorporado');
- reset.addEventListener('click',function(){frame.src=embedUrl;reset.classList.remove('show');});
- // O botão fica disponível depois que o usuário interage com o player. Se algum
- // link interno substituir o vídeo pelo site do YouTube, ele restaura o embed.
- frame.addEventListener('load',function(){
-   window.setTimeout(function(){reset.classList.add('show');},700);
- });
  wrap.appendChild(frame);
- wrap.appendChild(reset);
 })();
 </script></body></html>
