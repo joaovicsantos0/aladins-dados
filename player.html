@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<title>Player Aladins</title>
+<style>html,body,#wrap{width:100%;height:100%;margin:0;background:#000;overflow:hidden}iframe{width:100%;height:100%;border:0;display:block}.erro{height:100%;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;font:600 15px system-ui;padding:24px;box-sizing:border-box}</style>
+</head>
+<body><div id="wrap"></div>
+<script>
+(function(){
+ const id=new URLSearchParams(location.search).get('v')||'';
+ const wrap=document.getElementById('wrap');
+ if(!/^[A-Za-z0-9_-]{11}$/.test(id)){wrap.innerHTML='<div class="erro">Vídeo inválido. Use o botão abaixo do player no aplicativo.</div>';return;}
+ const origin=encodeURIComponent(location.origin);
+ const ref=encodeURIComponent(location.href);
+ const frame=document.createElement('iframe');
+ frame.title='Vídeo-aula do Aladins';
+ frame.src='https://www.youtube.com/embed/'+id+'?rel=0&playsinline=1&enablejsapi=1&origin='+origin+'&widget_referrer='+ref;
+ frame.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+ frame.referrerPolicy='strict-origin-when-cross-origin';
+ frame.allowFullscreen=true;
+ wrap.appendChild(frame);
+})();
+</script></body></html>
