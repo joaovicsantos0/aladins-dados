@@ -19,15 +19,7 @@
         },
         {
           "date": "Até 03/01/2027",
-          "label": "prazo máximo indicado na autorização para publicação do edital"
-        },
-        {
-          "date": "Primeira prova",
-          "label": "somente poderá ocorrer, em regra, pelo menos dois meses após a publicação do edital"
-        },
-        {
-          "date": "Após as provas",
-          "label": "recursos, resultados, homologação e nomeações dependerão do cronograma da banca e da disponibilidade orçamentária"
+          "label": "prazo máximo indicado na autorização para publicação do edital. Etapas posteriores sem data oficial: Primeira prova — somente poderá ocorrer, em regra, pelo menos dois meses após a publicação do edital; Após as provas — recursos, resultados, homologação e nomeações dependerão do cronograma da banca e da disponibilidade orçamentária."
         }
       ],
       "link": "https://www.gov.br/gestao/pt-br/assuntos/editoria-2013-defeso-eleitoral/publicadas-portarias-que-autorizam-concurso-na-receita-federal-e-no-banco-central"
@@ -51,15 +43,7 @@
         },
         {
           "date": "Até 03/01/2027",
-          "label": "limite de seis meses para publicação do edital"
-        },
-        {
-          "date": "Provas",
-          "label": "mínimo de dois meses entre o edital e a primeira avaliação"
-        },
-        {
-          "date": "Etapas posteriores",
-          "label": "resultados, eventuais provas discursivas ou de títulos, homologação e nomeação serão detalhados pela banca"
+          "label": "limite de seis meses para publicação do edital. Etapas posteriores sem data oficial: Provas — mínimo de dois meses entre o edital e a primeira avaliação; Etapas posteriores — resultados, eventuais provas discursivas ou de títulos, homologação e nomeação serão detalhados pela banca."
         }
       ],
       "link": "https://www.gov.br/gestao/pt-br/assuntos/editoria-2013-defeso-eleitoral/publicadas-portarias-que-autorizam-concurso-na-receita-federal-e-no-banco-central"
@@ -83,15 +67,7 @@
         },
         {
           "date": "Até 24/12/2026",
-          "label": "prazo máximo para o edital de abertura"
-        },
-        {
-          "date": "Provas",
-          "label": "não antes de dois meses da publicação do edital"
-        },
-        {
-          "date": "Depois do certame",
-          "label": "resultados, homologação e provimento condicionados ao orçamento"
+          "label": "prazo máximo para o edital de abertura. Etapas posteriores sem data oficial: Provas — não antes de dois meses da publicação do edital; Depois do certame — resultados, homologação e provimento condicionados ao orçamento."
         }
       ],
       "link": "https://www.gov.br/cgu/pt-br/acesso-a-informacao/concursos"
@@ -111,15 +87,7 @@
         },
         {
           "date": "Até 24/12/2026",
-          "label": "edital deve ser publicado em até seis meses"
-        },
-        {
-          "date": "Provas",
-          "label": "intervalo mínimo de dois meses após o edital"
-        },
-        {
-          "date": "Após o resultado final",
-          "label": "homologação e nomeações conforme disponibilidade orçamentária"
+          "label": "edital deve ser publicado em até seis meses. Etapas posteriores sem data oficial: Provas — intervalo mínimo de dois meses após o edital; Após o resultado final — homologação e nomeações conforme disponibilidade orçamentária."
         }
       ],
       "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/primeiro-concurso-publico-para-carreira-propria-da-anpd-e-autorizado"
@@ -139,19 +107,7 @@
         },
         {
           "date": "10/08/2026",
-          "label": "encerramento das inscrições"
-        },
-        {
-          "date": "Período de isenção, pagamento, homologação e recursos",
-          "label": "conforme o Edital 002/2026"
-        },
-        {
-          "date": "Prova objetiva e demais etapas",
-          "label": "consultar o cronograma oficial atualizado do IFMT"
-        },
-        {
-          "date": "Resultados, heteroidentificação, homologação e convocações",
-          "label": "publicados no portal do processo seletivo"
+          "label": "encerramento das inscrições. Etapas posteriores sem data oficial: Período de isenção, pagamento, homologação e recursos — conforme o Edital 002/2026; Prova objetiva e demais etapas — consultar o cronograma oficial atualizado do IFMT; Resultados, heteroidentificação, homologação e convocações — publicados no portal do processo seletivo."
         }
       ],
       "link": "https://seletivo.ifmt.edu.br/"
@@ -174,16 +130,12 @@
           "label": "encerramento das inscrições"
         },
         {
-          "date": "Períodos de isenção, correção cadastral e recursos",
-          "label": "definidos em cada edital"
+          "date": "A confirmar",
+          "label": "Períodos de isenção, correção cadastral e recursos — definidos em cada edital"
         },
         {
           "date": "27/09/2026",
-          "label": "data prevista para as provas objetivas"
-        },
-        {
-          "date": "Após as provas",
-          "label": "gabaritos, recursos, resultados e convocações conforme a banca"
+          "label": "data prevista para as provas objetivas. Etapas posteriores sem data oficial: Após as provas — gabaritos, recursos, resultados e convocações conforme a banca."
         }
       ],
       "link": "https://www.taubate.sp.gov.br/"
@@ -203,19 +155,7 @@
         },
         {
           "date": "10/08/2026",
-          "label": "encerramento das inscrições"
-        },
-        {
-          "date": "Conforme o edital",
-          "label": "Taxas informadas no edital por nível de escolaridade"
-        },
-        {
-          "date": "Publicação de locais, prova objetiva e eventuais provas práticas ou de títulos",
-          "label": "conforme cronograma da organizadora"
-        },
-        {
-          "date": "Resultado final e homologação",
-          "label": "após recursos e etapas específicas"
+          "label": "encerramento das inscrições. Etapas posteriores sem data oficial: Conforme o edital — Taxas informadas no edital por nível de escolaridade; Publicação de locais, prova objetiva e eventuais provas práticas ou de títulos — conforme cronograma da organizadora; Resultado final e homologação — após recursos e etapas específicas."
         }
       ],
       "link": "https://www.ituporanga.sc.gov.br/"
@@ -235,19 +175,7 @@
         },
         {
           "date": "03/08/2026, às 18h",
-          "label": "encerramento previsto"
-        },
-        {
-          "date": "Homologação das inscrições e locais de prova",
-          "label": "conforme edital"
-        },
-        {
-          "date": "Provas, gabaritos e recursos",
-          "label": "datas publicadas pela banca"
-        },
-        {
-          "date": "Classificação final, homologação e convocações",
-          "label": "pelo portal oficial"
+          "label": "encerramento previsto. Etapas posteriores sem data oficial: Homologação das inscrições e locais de prova — conforme edital; Provas, gabaritos e recursos — datas publicadas pela banca; Classificação final, homologação e convocações — pelo portal oficial."
         }
       ],
       "link": "https://www.forquetinha.rs.gov.br/"
@@ -270,16 +198,12 @@
           "label": "fim das inscrições"
         },
         {
-          "date": "Publicação das inscrições homologadas e locais",
-          "label": "conforme cronograma"
+          "date": "A confirmar",
+          "label": "Publicação das inscrições homologadas e locais — conforme cronograma"
         },
         {
           "date": "30/08/2026",
-          "label": "data prevista para a prova"
-        },
-        {
-          "date": "Depois da prova",
-          "label": "gabarito, recursos, resultado e homologação"
+          "label": "data prevista para a prova. Etapas posteriores sem data oficial: Depois da prova — gabarito, recursos, resultado e homologação."
         }
       ],
       "link": "https://www.generalcarneiro.pr.gov.br/"
@@ -311,11 +235,7 @@
         },
         {
           "date": "08/06/2026",
-          "label": "homologação preliminar das inscrições"
-        },
-        {
-          "date": "Etapas seguintes",
-          "label": "consultar o cronograma atualizado e a página de acompanhamento da FGV"
+          "label": "homologação preliminar das inscrições. Etapas posteriores sem data oficial: Etapas seguintes — consultar o cronograma atualizado e a página de acompanhamento da FGV."
         }
       ],
       "link": "https://conhecimento.fgv.br/concursos/navbrasil26"
@@ -330,24 +250,16 @@
       "requirement": "Escolaridade prevista para a função escolhida. Disponibilidade para atuação na localidade indicada. Cumprimento das condições de contratação temporária do edital. Inscrição concluída até o prazo final.",
       "timeline": [
         {
-          "date": "Inscrições",
-          "label": "encerradas em 20/07/2026"
+          "date": "20/07/2026",
+          "label": "Inscrições — encerradas"
         },
         {
-          "date": "Pagamento e regularização",
-          "label": "conforme prazo do edital"
+          "date": "A confirmar",
+          "label": "Pagamento e regularização — conforme prazo do edital"
         },
         {
           "date": "30/08/2026",
-          "label": "data prevista para aplicação da prova"
-        },
-        {
-          "date": "Após a prova",
-          "label": "gabarito preliminar, recursos e resultado"
-        },
-        {
-          "date": "Contratações",
-          "label": "conforme classificação, necessidade do IBGE e exames/documentos admissionais"
+          "label": "data prevista para aplicação da prova. Etapas posteriores sem data oficial: Após a prova — gabarito preliminar, recursos e resultado; Contratações — conforme classificação, necessidade do IBGE e exames/documentos admissionais."
         }
       ],
       "link": "https://conhecimento.fgv.br/"
@@ -362,24 +274,16 @@
       "requirement": "Escolaridade, experiência e registros profissionais conforme o cargo. Inscrição e taxa concluídas no período oficial. Documentos de reserva de vagas e atendimento especial apresentados nos prazos. Comparecimento às provas e etapas específicas.",
       "timeline": [
         {
-          "date": "Período de inscrições",
-          "label": "encerrado em 20/07/2026"
+          "date": "20/07/2026",
+          "label": "Período de inscrições — encerrado"
         },
         {
-          "date": "Publicação de locais e cartões de confirmação",
-          "label": "portal da banca"
+          "date": "A confirmar",
+          "label": "Publicação de locais e cartões de confirmação — portal da banca"
         },
         {
-          "date": "Provas",
-          "label": "previstas para agosto de 2026, conforme divisão de cargos no edital"
-        },
-        {
-          "date": "Gabaritos e recursos",
-          "label": "após cada aplicação"
-        },
-        {
-          "date": "Resultados, títulos, homologação e convocações",
-          "label": "conforme cronograma oficial"
+          "date": "Agosto de 2026",
+          "label": "Provas — previstas para , conforme divisão de cargos no edital. Etapas posteriores sem data oficial: Gabaritos e recursos — após cada aplicação; Resultados, títulos, homologação e convocações — conforme cronograma oficial."
         }
       ],
       "link": "https://www.araguaina.to.gov.br/"
@@ -399,19 +303,7 @@
         },
         {
           "date": "19/07/2026",
-          "label": "encerramento"
-        },
-        {
-          "date": "Homologação e locais de prova",
-          "label": "conforme portal da organizadora"
-        },
-        {
-          "date": "Prova objetiva e eventuais práticas/títulos",
-          "label": "conforme edital"
-        },
-        {
-          "date": "Resultado final e homologação",
-          "label": "depois dos recursos"
+          "label": "encerramento. Etapas posteriores sem data oficial: Homologação e locais de prova — conforme portal da organizadora; Prova objetiva e eventuais práticas/títulos — conforme edital; Resultado final e homologação — depois dos recursos."
         }
       ],
       "link": "https://www.tupipaulista.sp.gov.br/"
@@ -434,16 +326,12 @@
           "label": "encerramento"
         },
         {
-          "date": "Publicação dos locais",
-          "label": "antes da prova no portal oficial"
+          "date": "A confirmar",
+          "label": "Publicação dos locais — antes da prova no portal oficial"
         },
         {
           "date": "02/08/2026",
-          "label": "prova prevista"
-        },
-        {
-          "date": "Depois",
-          "label": "gabaritos, recursos, resultados e homologação"
+          "label": "prova prevista. Etapas posteriores sem data oficial: Depois — gabaritos, recursos, resultados e homologação."
         }
       ],
       "link": "https://www.aguasdesaopedro.sp.gov.br/"
@@ -463,19 +351,7 @@
         },
         {
           "date": "28/06/2026",
-          "label": "encerramento"
-        },
-        {
-          "date": "Homologação e convocação para provas",
-          "label": "portal oficial"
-        },
-        {
-          "date": "Prova, gabaritos e recursos",
-          "label": "conforme cronograma da banca"
-        },
-        {
-          "date": "Resultados e homologação",
-          "label": "após conclusão das etapas"
+          "label": "encerramento. Etapas posteriores sem data oficial: Homologação e convocação para provas; Prova, gabaritos e recursos — conforme cronograma da banca; Resultados e homologação — após conclusão das etapas."
         }
       ],
       "link": "https://www.brauna.sp.gov.br/"
@@ -499,15 +375,7 @@
         },
         {
           "date": "26/07/2026",
-          "label": "data prevista para a prova"
-        },
-        {
-          "date": "Após 26/07",
-          "label": "gabarito preliminar e recursos"
-        },
-        {
-          "date": "Resultado final e homologação",
-          "label": "conforme andamento oficial"
+          "label": "data prevista para a prova. Etapas posteriores sem data oficial: Após 26/07 — gabarito preliminar e recursos; Resultado final e homologação — conforme andamento oficial."
         }
       ],
       "link": "https://www.getulina.sp.gov.br/"
@@ -527,19 +395,7 @@
         },
         {
           "date": "30/04/2026",
-          "label": "encerramento"
-        },
-        {
-          "date": "Etapas de isenção e homologação",
-          "label": "conforme cronograma da FGV"
-        },
-        {
-          "date": "Provas e recursos",
-          "label": "nas datas do edital e retificações"
-        },
-        {
-          "date": "Resultados e convocações",
-          "label": "FGV e Diário Oficial de Macaé"
+          "label": "encerramento. Etapas posteriores sem data oficial: Etapas de isenção e homologação — conforme cronograma da FGV; Provas e recursos — nas datas do edital e retificações; Resultados e convocações — FGV e Diário Oficial de Macaé."
         }
       ],
       "link": "https://www.macae.rj.gov.br/"
@@ -563,15 +419,7 @@
         },
         {
           "date": "05/07/2026",
-          "label": "prova prevista/realizada"
-        },
-        {
-          "date": "Publicação de gabaritos e período de recursos",
-          "label": "após a prova"
-        },
-        {
-          "date": "Classificação final e homologação",
-          "label": "conforme cronograma"
+          "label": "prova prevista/realizada. Etapas posteriores sem data oficial: Publicação de gabaritos e período de recursos — após a prova; Classificação final e homologação — conforme cronograma."
         }
       ],
       "link": "https://www.pmgv.rs.gov.br/"
@@ -591,19 +439,7 @@
         },
         {
           "date": "Maio de 2026",
-          "label": "encerramento conforme cronograma/retificações publicadas"
-        },
-        {
-          "date": "Homologação, prova e gabaritos",
-          "label": "portal oficial e banca"
-        },
-        {
-          "date": "Recursos e resultado final",
-          "label": "datas do edital atualizado"
-        },
-        {
-          "date": "Convocações",
-          "label": "Diário Oficial do Município"
+          "label": "encerramento conforme cronograma/retificações publicadas. Etapas posteriores sem data oficial: Homologação, prova e gabaritos — portal oficial e banca; Recursos e resultado final — datas do edital atualizado; Convocações — Diário Oficial do Município."
         }
       ],
       "link": "https://www.promissao.sp.gov.br/"
@@ -618,24 +454,12 @@
       "requirement": "Escolaridade e requisitos técnicos do cargo. Inscrição e taxa confirmadas. Carteira ou registro profissional quando previsto. Participação em prova objetiva e etapas adicionais do edital.",
       "timeline": [
         {
-          "date": "Inscrições",
-          "label": "encerradas em 27/05/2026"
+          "date": "27/05/2026",
+          "label": "Inscrições — encerradas"
         },
         {
           "date": "21/06/2026",
-          "label": "prova prevista/realizada"
-        },
-        {
-          "date": "Gabaritos e recursos",
-          "label": "após a aplicação"
-        },
-        {
-          "date": "Resultado final e homologação",
-          "label": "conforme banca"
-        },
-        {
-          "date": "Convocações",
-          "label": "site do SAAE/município"
+          "label": "prova prevista/realizada. Etapas posteriores sem data oficial: Gabaritos e recursos — após a aplicação; Resultado final e homologação — conforme banca; Convocações — site do SAAE/município."
         }
       ],
       "link": "https://www.saaepompeia.sp.gov.br/"
@@ -655,19 +479,7 @@
         },
         {
           "date": "26/07/2026",
-          "label": "data prevista para prova"
-        },
-        {
-          "date": "Divulgação de gabarito e recursos",
-          "label": "após a prova"
-        },
-        {
-          "date": "Resultado preliminar/final",
-          "label": "conforme cronograma"
-        },
-        {
-          "date": "Homologação e convocações",
-          "label": "portal municipal"
+          "label": "data prevista para prova. Etapas posteriores sem data oficial: Divulgação de gabarito e recursos — após a prova; Resultado preliminar/final — conforme cronograma; Homologação e convocações — portal municipal."
         }
       ],
       "link": "https://www.lourdes.sp.gov.br/"
@@ -690,16 +502,12 @@
           "label": "encerramento"
         },
         {
-          "date": "Provas e fases de análise",
-          "label": "conforme edital"
+          "date": "A confirmar",
+          "label": "Provas e fases de análise — conforme edital"
         },
         {
           "date": "Julho de 2026",
-          "label": "processo ainda com publicações de julgamento/recursos"
-        },
-        {
-          "date": "Resultado final e homologação",
-          "label": "aguardados no portal oficial"
+          "label": "processo ainda com publicações de julgamento/recursos. Etapas posteriores sem data oficial: Resultado final e homologação — aguardados no portal oficial."
         }
       ],
       "link": "https://www.cataguases.mg.gov.br/"
@@ -726,12 +534,8 @@
           "label": "prova prevista/realizada"
         },
         {
-          "date": "Junho e julho",
-          "label": "gabaritos, recursos e resultados"
-        },
-        {
-          "date": "Homologação e convocações",
-          "label": "UFT/Copese"
+          "date": "Junho e julho de 2026",
+          "label": "Junho e julho — gabaritos, recursos e resultados. Etapas posteriores sem data oficial: Homologação e convocações — UFT/Copese."
         }
       ],
       "link": "https://www.copese.uft.edu.br/"
@@ -746,24 +550,24 @@
       "requirement": "Escolaridade/habilitação do cargo. Registro profissional, se aplicável. Inscrição e pagamento realizados no período. Documentação de cotas e atendimento especial conforme edital.",
       "timeline": [
         {
-          "date": "Publicação do Edital 29/2026",
-          "label": "página da DIPS"
+          "date": "A confirmar",
+          "label": "Publicação do Edital 29/2026 — página da DIPS"
         },
         {
-          "date": "Inscrições",
-          "label": "encerradas"
+          "date": "A confirmar",
+          "label": "Inscrições — encerradas"
         },
         {
-          "date": "Provas e divulgações",
-          "label": "conforme cronograma do edital e retificações"
+          "date": "A confirmar",
+          "label": "Provas e divulgações — conforme cronograma do edital e retificações"
         },
         {
-          "date": "Recursos, resultados e homologação",
-          "label": "DIPS/UNIFAL-MG"
+          "date": "A confirmar",
+          "label": "Recursos, resultados e homologação — DIPS/UNIFAL-MG"
         },
         {
-          "date": "Convocações",
-          "label": "Diário Oficial e portal institucional"
+          "date": "A confirmar",
+          "label": "Convocações — Diário Oficial e portal institucional"
         }
       ],
       "link": "https://www.unifal-mg.edu.br/dips/"
@@ -778,24 +582,24 @@
       "requirement": "Escolaridade e requisitos do cargo. Registro em conselho quando exigido. Inscrição e taxa concluídas. Participação em etapas e comprovações previstas.",
       "timeline": [
         {
-          "date": "Edital 72/2026",
-          "label": "publicação no portal de concursos da UFFS"
+          "date": "A confirmar",
+          "label": "Edital 72/2026 — publicação no portal de concursos da UFFS"
         },
         {
-          "date": "Inscrições",
-          "label": "encerradas"
+          "date": "A confirmar",
+          "label": "Inscrições — encerradas"
         },
         {
-          "date": "Provas e recursos",
-          "label": "conforme cronograma oficial"
+          "date": "A confirmar",
+          "label": "Provas e recursos — conforme cronograma oficial"
         },
         {
-          "date": "Resultados preliminar e final",
-          "label": "portal da UFFS"
+          "date": "A confirmar",
+          "label": "Resultados preliminar e final — portal da UFFS"
         },
         {
-          "date": "Homologação e convocações",
-          "label": "atos oficiais da Universidade"
+          "date": "A confirmar",
+          "label": "Homologação e convocações — atos oficiais da Universidade"
         }
       ],
       "link": "https://concursos.uffs.edu.br/"
@@ -823,11 +627,7 @@
         },
         {
           "date": "17/10/2026",
-          "label": "aplicação da 2ª fase"
-        },
-        {
-          "date": "Resultados, medalhas, menções e programas acadêmicos",
-          "label": "calendário oficial posterior do IMPA"
+          "label": "aplicação da 2ª fase. Etapas posteriores sem data oficial: Resultados, medalhas, menções e programas acadêmicos — calendário oficial posterior do IMPA."
         }
       ],
       "link": "https://www.obmep.org.br/"
@@ -847,19 +647,7 @@
         },
         {
           "date": "19 e 20/06/2026",
-          "label": "aplicação da primeira fase, conforme organização por nível"
-        },
-        {
-          "date": "Fases seguintes",
-          "label": "realizadas no segundo semestre conforme calendário da OBF"
-        },
-        {
-          "date": "Resultados, recursos e premiação",
-          "label": "publicados no portal da Sociedade Brasileira de Física"
-        },
-        {
-          "date": "Convocações para treinamentos/seletivas",
-          "label": "somente aos estudantes habilitados"
+          "label": "aplicação da primeira fase, conforme organização por nível. Etapas posteriores sem data oficial: Fases seguintes — realizadas no segundo semestre conforme calendário da OBF; Resultados, recursos e premiação — publicados no portal da Sociedade Brasileira de Física; Convocações para treinamentos/seletivas — somente aos estudantes habilitados."
         }
       ],
       "link": "https://www1.fisica.org.br/olimpiada/"
@@ -879,19 +667,7 @@
         },
         {
           "date": "12/08/2026",
-          "label": "aplicação prevista da primeira fase"
-        },
-        {
-          "date": "Classificação e segunda fase",
-          "label": "datas e locais informados no calendário oficial"
-        },
-        {
-          "date": "Recursos, resultados e premiação",
-          "label": "portal OBFEP/SBF"
-        },
-        {
-          "date": "Certificados e medalhas",
-          "label": "disponibilizados após a conclusão da edição"
+          "label": "aplicação prevista da primeira fase. Etapas posteriores sem data oficial: Classificação e segunda fase — datas e locais informados no calendário oficial; Recursos, resultados e premiação — portal OBFEP/SBF; Certificados e medalhas — disponibilizados após a conclusão da edição."
         }
       ],
       "link": "https://www.obfep.org.br/"
@@ -906,24 +682,12 @@
       "requirement": "Estar matriculado na educação básica em nível previsto no regulamento. Escola e professor representante cadastrados. Realizar a prova no nível correspondente. Autorização e documentação escolar conforme procedimentos internos.",
       "timeline": [
         {
-          "date": "Inscrições escolares",
-          "label": "prorrogadas até 08/05/2026"
+          "date": "Até 08/05/2026",
+          "label": "Inscrições escolares"
         },
         {
-          "date": "Prova nacional",
-          "label": "realizada no período oficial de maio de 2026"
-        },
-        {
-          "date": "Lançamento de notas e conferência de dados",
-          "label": "sistema da OBA"
-        },
-        {
-          "date": "Divulgação de medalhas/certificados",
-          "label": "após processamento nacional"
-        },
-        {
-          "date": "Seletivas internacionais e atividades posteriores",
-          "label": "apenas para estudantes convidados"
+          "date": "Maio de 2026",
+          "label": "Prova nacional — realizada. Etapas posteriores sem data oficial: Lançamento de notas e conferência de dados — sistema da OBA; Divulgação de medalhas/certificados — após processamento nacional; Seletivas internacionais e atividades posteriores — apenas para estudantes convidados."
         }
       ],
       "link": "https://oba.org.br/"
@@ -938,24 +702,12 @@
       "requirement": "Participação por escola e professor responsável. Estar em série compatível com o nível escolhido. Construir e lançar somente conforme os materiais e protocolos autorizados pelo regulamento. Realizar a atividade em ambiente controlado, com supervisão adulta e escolar.",
       "timeline": [
         {
-          "date": "Cadastro da escola e participantes",
-          "label": "até 08/05/2026, conforme prorrogação conjunta"
+          "date": "Até 08/05/2026, conforme prorrogação conjunta",
+          "label": "Cadastro da escola e participantes"
         },
         {
-          "date": "Construção e lançamentos",
-          "label": "período definido pela coordenação em 2026"
-        },
-        {
-          "date": "Registro das distâncias/resultados",
-          "label": "sistema oficial"
-        },
-        {
-          "date": "Convites para jornadas de foguetes",
-          "label": "após avaliação dos resultados"
-        },
-        {
-          "date": "Certificados e premiação",
-          "label": "cronograma posterior da OBA"
+          "date": "2026",
+          "label": "Construção e lançamentos — período definido pela coordenação. Etapas posteriores sem data oficial: Registro das distâncias/resultados — sistema oficial; Convites para jornadas de foguetes — após avaliação dos resultados; Certificados e premiação — cronograma posterior da OBA."
         }
       ],
       "link": "https://oba.org.br/"
@@ -979,15 +731,7 @@
         },
         {
           "date": "11 a 13/08/2026",
-          "label": "segunda fase prevista"
-        },
-        {
-          "date": "Resultados e recursos",
-          "label": "portal da OBR"
-        },
-        {
-          "date": "Medalhas, certificados e eventuais convites",
-          "label": "após a classificação nacional"
+          "label": "segunda fase prevista. Etapas posteriores sem data oficial: Resultados e recursos — portal da OBR; Medalhas, certificados e eventuais convites — após a classificação nacional."
         }
       ],
       "link": "https://obr.robocup.org.br/"
@@ -1010,16 +754,12 @@
           "label": "etapas regionais, com datas por estado"
         },
         {
-          "date": "Homologação dos classificados",
-          "label": "após cada regional"
+          "date": "A confirmar",
+          "label": "Homologação dos classificados — após cada regional"
         },
         {
           "date": "23 a 27/11/2026",
-          "label": "etapa nacional prevista"
-        },
-        {
-          "date": "Resultados, certificados e seletivas internacionais",
-          "label": "após a final"
+          "label": "etapa nacional prevista. Etapas posteriores sem data oficial: Resultados, certificados e seletivas internacionais — após a final."
         }
       ],
       "link": "https://obr.robocup.org.br/"
@@ -1038,24 +778,20 @@
           "label": "abertura do sistema"
         },
         {
-          "date": "Até 25/05",
-          "label": "cadastro de escolas na Iniciação; até 26/05 — competidores"
+          "date": "A confirmar",
+          "label": "Até 25/05 — cadastro de escolas na Iniciação; até 26/05 — competidores"
         },
         {
-          "date": "Até 06/06",
-          "label": "cadastro de escolas na Programação; até 08/06 — competidores"
+          "date": "A confirmar",
+          "label": "Até 06/06 — cadastro de escolas na Programação; até 08/06 — competidores"
         },
         {
-          "date": "Fases locais/estaduais/nacionais",
-          "label": "conforme calendário da modalidade"
+          "date": "A confirmar",
+          "label": "Fases locais/estaduais/nacionais — conforme calendário da modalidade"
         },
         {
           "date": "22/10/2026",
-          "label": "final nacional prevista no calendário de 2026"
-        },
-        {
-          "date": "Resultados e cursos de formação",
-          "label": "após cada fase"
+          "label": "final nacional prevista no calendário de 2026. Etapas posteriores sem data oficial: Resultados e cursos de formação — após cada fase."
         }
       ],
       "link": "https://olimpiada.ic.unicamp.br/"
@@ -1070,24 +806,16 @@
       "requirement": "Enquadramento no público feminino e nível escolar previsto. Cadastro da escola e da participante no sistema. Respeito às regras de prova individual. Uso de linguagem/ambiente autorizado quando a categoria exigir programação.",
       "timeline": [
         {
-          "date": "Cadastro de escolas",
-          "label": "até 08/09/2026"
+          "date": "Até 08/09/2026",
+          "label": "Cadastro de escolas"
         },
         {
-          "date": "Cadastro de competidoras",
-          "label": "até 09/09/2026"
+          "date": "Até 09/09/2026",
+          "label": "Cadastro de competidoras"
         },
         {
           "date": "11/09/2026",
-          "label": "prova prevista"
-        },
-        {
-          "date": "Correção, recursos e resultados",
-          "label": "calendário da OBI"
-        },
-        {
-          "date": "Certificados/premiação",
-          "label": "após homologação"
+          "label": "prova prevista. Etapas posteriores sem data oficial: Correção, recursos e resultados — calendário da OBI; Certificados/premiação — após homologação."
         }
       ],
       "link": "https://olimpiada.ic.unicamp.br/"
@@ -1102,24 +830,12 @@
       "requirement": "Equipe com estudantes da escolaridade prevista. Professor orientador responsável. Cadastro e pagamento/isenção dentro do período. Realização colaborativa das fases dentro dos prazos, respeitando as regras de autoria.",
       "timeline": [
         {
-          "date": "Inscrições",
-          "label": "encerradas antes do início das fases de 2026"
+          "date": "2026",
+          "label": "Inscrições — encerradas antes do início das fases de"
         },
         {
-          "date": "Fases on-line",
-          "label": "realizadas em sequência durante maio e junho"
-        },
-        {
-          "date": "Divulgação de classificados",
-          "label": "após a etapa eliminatória final on-line"
-        },
-        {
-          "date": "Final presencial",
-          "label": "data e local no calendário oficial da ONHB"
-        },
-        {
-          "date": "Premiação e resultados",
-          "label": "após a final"
+          "date": "Maio e junho de 2026",
+          "label": "Fases on-line — realizadas em sequência. Etapas posteriores sem data oficial: Divulgação de classificados — após a etapa eliminatória final on-line; Final presencial — data e local no calendário oficial da ONHB; Premiação e resultados — após a final."
         }
       ],
       "link": "https://www.olimpiadadehistoria.com.br/"
@@ -1139,19 +855,7 @@
         },
         {
           "date": "04 a 10/05/2026",
-          "label": "primeira fase"
-        },
-        {
-          "date": "Fases classificatórias seguintes",
-          "label": "conforme calendário oficial"
-        },
-        {
-          "date": "Treinamento e seletiva nacional",
-          "label": "para classificados"
-        },
-        {
-          "date": "Representação internacional",
-          "label": "definida ao final do processo"
+          "label": "primeira fase. Etapas posteriores sem data oficial: Fases classificatórias seguintes — conforme calendário oficial; Treinamento e seletiva nacional — classificados; Representação internacional — definida ao final do processo."
         }
       ],
       "link": "https://obecon.org/"
@@ -1178,8 +882,8 @@
           "label": "aplicação das provas"
         },
         {
-          "date": "Primeira quinzena de outubro",
-          "label": "divulgação prevista dos resultados"
+          "date": "A confirmar",
+          "label": "Primeira quinzena de outubro — divulgação prevista dos resultados"
         },
         {
           "date": "02 a 06/11/2026",
@@ -1202,8 +906,8 @@
       "requirement": "Estar matriculado em etapa de ensino contemplada. Cadastro pela escola ou responsável institucional. Realização das atividades no período oficial. Cumprimento das regras de participação e identificação.",
       "timeline": [
         {
-          "date": "Inscrições",
-          "label": "até 13/09/2026"
+          "date": "Até 13/09/2026",
+          "label": "Inscrições"
         },
         {
           "date": "14 a 18/09/2026",
@@ -1211,15 +915,7 @@
         },
         {
           "date": "30/09/2026",
-          "label": "divulgação de resultados prevista"
-        },
-        {
-          "date": "Certificados e reconhecimento",
-          "label": "conforme regulamento"
-        },
-        {
-          "date": "Eventuais etapas complementares",
-          "label": "comunicadas no portal"
+          "label": "divulgação de resultados prevista. Etapas posteriores sem data oficial: Certificados e reconhecimento — conforme regulamento; Eventuais etapas complementares — comunicadas no portal."
         }
       ],
       "link": "https://one.org.br/"
@@ -1267,23 +963,7 @@
       "timeline": [
         {
           "date": "Julho de 2026",
-          "label": "formulário e cadastro da edição permaneciam ativos"
-        },
-        {
-          "date": "Missões e rodadas digitais",
-          "label": "liberadas conforme calendário interno da plataforma"
-        },
-        {
-          "date": "Classificação",
-          "label": "atualizada durante a competição"
-        },
-        {
-          "date": "Encerramento e premiação/sorteio final",
-          "label": "data publicada no painel oficial"
-        },
-        {
-          "date": "Certificados",
-          "label": "conforme critérios do regulamento"
+          "label": "formulário e cadastro da edição permaneciam ativos. Etapas posteriores sem data oficial: Missões e rodadas digitais — liberadas conforme calendário interno da plataforma; Classificação — atualizada durante a competição; Encerramento e premiação/sorteio final — data publicada no painel oficial; Certificados — conforme critérios do regulamento."
         }
       ],
       "link": "https://olimpiadadigital.com.br/"
@@ -1311,11 +991,7 @@
         },
         {
           "date": "30/10/2026",
-          "label": "resultado previsto"
-        },
-        {
-          "date": "Premiação e certificados",
-          "label": "etapas posteriores comunicadas pela organização"
+          "label": "resultado previsto. Etapas posteriores sem data oficial: Premiação e certificados — etapas posteriores comunicadas pela organização."
         }
       ],
       "link": "https://www.olitef.com.br/"
@@ -1374,8 +1050,8 @@
           "label": "primeira fase"
         },
         {
-          "date": "Divulgação de classificados e orientações",
-          "label": "após recursos da primeira fase"
+          "date": "A confirmar",
+          "label": "Divulgação de classificados e orientações — após recursos da primeira fase"
         },
         {
           "date": "07 a 25/09/2026",
@@ -1407,15 +1083,7 @@
         },
         {
           "date": "06 a 10/10/2026",
-          "label": "segunda fase"
-        },
-        {
-          "date": "Divulgação de resultados e medalhistas",
-          "label": "conforme calendário oficial"
-        },
-        {
-          "date": "Emissão de certificados e envio de premiação",
-          "label": "após homologação"
+          "label": "segunda fase. Etapas posteriores sem data oficial: Divulgação de resultados e medalhistas — conforme calendário oficial; Emissão de certificados e envio de premiação — após homologação."
         }
       ],
       "link": "https://www.obrl.com.br/"
@@ -1462,24 +1130,12 @@
       "requirement": "Estar no público escolar contemplado pelo regulamento. Inscrição dentro do ciclo anual. Resolver as provas individualmente, usando somente os recursos permitidos. Classificação para fases posteriores conforme desempenho.",
       "timeline": [
         {
-          "date": "Final de 2025",
-          "label": "abertura e primeira fase do ciclo Ojidu"
+          "date": "A confirmar",
+          "label": "Final de 2025 — abertura e primeira fase do ciclo Ojidu"
         },
         {
           "date": "2026",
-          "label": "fases classificatórias e prova aberta conforme o regulamento da edição"
-        },
-        {
-          "date": "Divulgação de classificados",
-          "label": "após correções e recursos"
-        },
-        {
-          "date": "Escola de Linguística/treinamentos",
-          "label": "para convidados"
-        },
-        {
-          "date": "Seleção internacional",
-          "label": "processo posterior para os melhores desempenhos"
+          "label": "fases classificatórias e prova aberta conforme o regulamento da edição. Etapas posteriores sem data oficial: Divulgação de classificados — após correções e recursos; Escola de Linguística/treinamentos — convidados; Seleção internacional — processo posterior para os melhores desempenhos."
         }
       ],
       "link": "https://obling.org/"
@@ -1503,15 +1159,7 @@
         },
         {
           "date": "Maio de 2026",
-          "label": "seletivas/capacitação internacional"
-        },
-        {
-          "date": "Divulgação de medalhistas",
-          "label": "após conclusão das fases"
-        },
-        {
-          "date": "Competições internacionais",
-          "label": "para equipes selecionadas"
+          "label": "seletivas/capacitação internacional. Etapas posteriores sem data oficial: Divulgação de medalhistas — após conclusão das fases; Competições internacionais — equipes selecionadas."
         }
       ],
       "link": "https://olimpiadasdebiologia.butantan.gov.br/"
@@ -1526,24 +1174,20 @@
       "requirement": "Estar matriculado no 8º ou 9º ano. Ser inscrito pela escola/coordenador estadual. Realizar a primeira fase e alcançar a classificação. Comparecer à segunda fase na data e local indicados.",
       "timeline": [
         {
-          "date": "Cadastro escolar",
-          "label": "encerrado antes da primeira fase"
+          "date": "A confirmar",
+          "label": "Cadastro escolar — encerrado antes da primeira fase"
         },
         {
           "date": "03/06/2026",
           "label": "primeira fase"
         },
         {
-          "date": "Divulgação dos classificados",
-          "label": "após correção estadual/nacional"
+          "date": "A confirmar",
+          "label": "Divulgação dos classificados — após correção estadual/nacional"
         },
         {
           "date": "21/08/2026",
-          "label": "segunda fase prevista"
-        },
-        {
-          "date": "Resultados e premiação",
-          "label": "cronograma do Programa Nacional Olimpíadas de Química"
+          "label": "segunda fase prevista. Etapas posteriores sem data oficial: Resultados e premiação — cronograma do Programa Nacional Olimpíadas de Química."
         }
       ],
       "link": "https://www.obquimica.org/"
@@ -1559,23 +1203,7 @@
       "timeline": [
         {
           "date": "Primeiro semestre de 2026",
-          "label": "olimpíadas estaduais e processos classificatórios"
-        },
-        {
-          "date": "Segundo semestre",
-          "label": "confirmação/indicação dos classificados para a OBQ"
-        },
-        {
-          "date": "Prova nacional",
-          "label": "data definida no calendário oficial de 2026"
-        },
-        {
-          "date": "Resultados e medalhas",
-          "label": "após correção"
-        },
-        {
-          "date": "Seletivas internacionais",
-          "label": "etapas posteriores para estudantes convocados"
+          "label": "olimpíadas estaduais e processos classificatórios. Etapas posteriores sem data oficial: Segundo semestre — confirmação/indicação dos classificados para a OBQ; Prova nacional — data definida no calendário oficial de 2026; Resultados e medalhas — após correção; Seletivas internacionais — etapas posteriores para estudantes convocados."
         }
       ],
       "link": "https://www.obquimica.org/"
@@ -1590,24 +1218,16 @@
       "requirement": "Atender a uma das formas de qualificação previstas pela OBM. Estar no nível correspondente à escolaridade. Confirmar participação conforme convocação. Realizar provas discursivas com autoria individual.",
       "timeline": [
         {
-          "date": "Primeiro semestre",
-          "label": "definição dos qualificados por olimpíadas e processos reconhecidos"
+          "date": "A confirmar",
+          "label": "Primeiro semestre — definição dos qualificados por olimpíadas e processos reconhecidos"
         },
         {
-          "date": "Segundo semestre",
-          "label": "confirmação de participantes e locais"
+          "date": "A confirmar",
+          "label": "Segundo semestre — confirmação de participantes e locais"
         },
         {
           "date": "08 e 09/10/2026",
-          "label": "provas previstas da OBM"
-        },
-        {
-          "date": "Correção, recursos e resultados",
-          "label": "após as provas"
-        },
-        {
-          "date": "Premiação e seletivas internacionais",
-          "label": "conforme calendário posterior"
+          "label": "provas previstas da OBM. Etapas posteriores sem data oficial: Correção, recursos e resultados — após as provas; Premiação e seletivas internacionais — conforme calendário posterior."
         }
       ],
       "link": "https://www.obm.org.br/"
@@ -1742,8 +1362,8 @@
           "label": "período de inscrições previsto pela Comvest; datas exatas devem ser conferidas no edital"
         },
         {
-          "date": "Após o fechamento",
-          "label": "processamento das notas e verificação das modalidades"
+          "date": "A confirmar",
+          "label": "Após o fechamento — processamento das notas e verificação das modalidades"
         },
         {
           "date": "Janeiro/2027",
@@ -1766,8 +1386,8 @@
           "label": "inscrições"
         },
         {
-          "date": "Após o encerramento",
-          "label": "confirmação das inscrições e divulgação dos locais"
+          "date": "A confirmar",
+          "label": "Após o encerramento — confirmação das inscrições e divulgação dos locais"
         },
         {
           "date": "22/11/2026",
@@ -1779,11 +1399,7 @@
         },
         {
           "date": "Janeiro/2027",
-          "label": "divulgação de resultados e chamadas, conforme cronograma completo a ser publicado"
-        },
-        {
-          "date": "Após cada chamada",
-          "label": "matrícula virtual e entrega/validação documental"
+          "label": "divulgação de resultados e chamadas, conforme cronograma completo a ser publicado. Etapas posteriores sem data oficial: Após cada chamada — matrícula virtual e entrega/validação documental."
         }
       ],
       "link": "https://www.vunesp.com.br/VNSP2514"
@@ -1810,12 +1426,12 @@
           "label": "prazo operacional indicado para emissão/pagamento da guia"
         },
         {
-          "date": "Após agosto",
-          "label": "homologação das inscrições e divulgação dos locais"
+          "date": "A confirmar",
+          "label": "Após agosto — homologação das inscrições e divulgação dos locais"
         },
         {
-          "date": "Provas e etapas específicas",
-          "label": "consultar o manual e o cronograma oficial, que devem prevalecer sobre resumos"
+          "date": "A confirmar",
+          "label": "Provas e etapas específicas — consultar o manual e o cronograma oficial, que devem prevalecer sobre resumos"
         },
         {
           "date": "Até 30/11/2026",
@@ -1838,16 +1454,16 @@
           "label": "previsão oficial de abertura das inscrições; datas ainda sujeitas a confirmação"
         },
         {
-          "date": "Após as inscrições",
-          "label": "confirmação, recursos e divulgação dos locais de prova"
+          "date": "A confirmar",
+          "label": "Após as inscrições — confirmação, recursos e divulgação dos locais de prova"
         },
         {
           "date": "05 e 06/12/2026",
           "label": "provas previstas para o Vestibular 2027"
         },
         {
-          "date": "Após as provas",
-          "label": "gabaritos preliminares, recursos e resultados"
+          "date": "A confirmar",
+          "label": "Após as provas — gabaritos preliminares, recursos e resultados"
         },
         {
           "date": "Janeiro/2027",
@@ -1866,24 +1482,24 @@
       "requirement": "Pertencer a uma das categorias elegíveis: pessoa indígena, quilombola, pessoa com deficiência ou pessoa trans, nos termos do edital. Ter concluído ou concluir o ensino médio até a matrícula. Realizar inscrição gratuita no sistema da Coperve. Apresentar autodeclarações, documentos e passar por verificações específicas quando previstas. Fazer a prova e cumprir os procedimentos de matrícula.",
       "timeline": [
         {
-          "date": "15/07/2026 às 9h",
-          "label": "abertura das inscrições"
+          "date": "15/07/2026",
+          "label": "às 9h — abertura das inscrições"
         },
         {
-          "date": "20/08/2026 às 23h59",
-          "label": "encerramento das inscrições"
+          "date": "20/08/2026",
+          "label": "às 23h59 — encerramento das inscrições"
         },
         {
-          "date": "Após 20/08",
-          "label": "homologação, recursos e divulgação dos locais"
+          "date": "A confirmar",
+          "label": "Após 20/08 — homologação, recursos e divulgação dos locais"
         },
         {
-          "date": "18/10/2026 às 14h",
-          "label": "prova objetiva e redação"
+          "date": "18/10/2026",
+          "label": "às 14h — prova objetiva e redação"
         },
         {
-          "date": "Após a prova",
-          "label": "gabaritos, recursos, resultado e chamadas"
+          "date": "A confirmar",
+          "label": "Após a prova — gabaritos, recursos, resultado e chamadas"
         },
         {
           "date": "2027",
@@ -1902,24 +1518,24 @@
       "requirement": "Ter concluído ou concluir o ensino médio até a matrícula. Escolher uma das ofertas/cursos disponíveis na edição. Realizar inscrição e pagar a taxa, salvo hipótese de isenção prevista. Apresentar documentos que comprovem condições ou prioridades previstas no edital, quando aplicável. Comparecer à prova presencial e cumprir as regras de matrícula.",
       "timeline": [
         {
-          "date": "15/07/2026 às 9h",
-          "label": "início das inscrições"
+          "date": "15/07/2026",
+          "label": "às 9h — início das inscrições"
         },
         {
-          "date": "20/08/2026 às 23h59",
-          "label": "término das inscrições"
+          "date": "20/08/2026",
+          "label": "às 23h59 — término das inscrições"
         },
         {
-          "date": "Após o encerramento",
-          "label": "homologação, recursos e locais de prova"
+          "date": "A confirmar",
+          "label": "Após o encerramento — homologação, recursos e locais de prova"
         },
         {
-          "date": "18/10/2026 às 14h",
-          "label": "prova objetiva e redação"
+          "date": "18/10/2026",
+          "label": "às 14h — prova objetiva e redação"
         },
         {
-          "date": "Depois da prova",
-          "label": "gabaritos, recursos e classificação"
+          "date": "A confirmar",
+          "label": "Depois da prova — gabaritos, recursos e classificação"
         },
         {
           "date": "2027",
@@ -1938,20 +1554,20 @@
       "requirement": "Ser candidato indígena e atender às condições de pertencimento e comprovação previstas. Ter concluído ou estar apto a concluir o ensino médio até a matrícula. Enviar histórico escolar e a documentação comunitária/identitária exigida. Preencher a inscrição gratuita no sistema da Coperve. Atender a eventuais critérios de distribuição de vagas descritos no edital.",
       "timeline": [
         {
-          "date": "15/07/2026 às 9h",
-          "label": "abertura das inscrições"
+          "date": "15/07/2026",
+          "label": "às 9h — abertura das inscrições"
         },
         {
-          "date": "31/08/2026 às 23h59",
-          "label": "encerramento"
+          "date": "31/08/2026",
+          "label": "às 23h59 — encerramento"
         },
         {
           "date": "Setembro/2026",
           "label": "análise documental e possibilidade de recursos, conforme edital"
         },
         {
-          "date": "Após a análise",
-          "label": "divulgação da classificação e chamadas"
+          "date": "A confirmar",
+          "label": "Após a análise — divulgação da classificação e chamadas"
         },
         {
           "date": "2027",
@@ -1983,11 +1599,7 @@
         },
         {
           "date": "18 a 25/01/2027",
-          "label": "chamada de vagas não preenchidas por ordem de inscrição"
-        },
-        {
-          "date": "Datas de prova, sorteio, resultados e matrícula",
-          "label": "detalhadas nos editais de cada oferta"
+          "label": "chamada de vagas não preenchidas por ordem de inscrição. Etapas posteriores sem data oficial: Datas de prova, sorteio, resultados e matrícula — detalhadas nos editais de cada oferta."
         }
       ],
       "link": "https://www.ifsc.edu.br/pt/calendario-de-inscricoes"
@@ -2015,11 +1627,7 @@
         },
         {
           "date": "18 a 25/01/2027",
-          "label": "vagas não preenchidas"
-        },
-        {
-          "date": "Resultados e matrículas",
-          "label": "conforme cada edital"
+          "label": "vagas não preenchidas. Etapas posteriores sem data oficial: Resultados e matrículas — conforme cada edital."
         }
       ],
       "link": "https://www.ifsc.edu.br/pt/calendario-de-inscricoes"
@@ -2038,8 +1646,8 @@
           "label": "inscrições para seleção por sorteio"
         },
         {
-          "date": "Após 06/11",
-          "label": "realização/publicação do sorteio e primeira chamada"
+          "date": "A confirmar",
+          "label": "Após 06/11 — realização/publicação do sorteio e primeira chamada"
         },
         {
           "date": "18 a 25/01/2027",
@@ -2063,23 +1671,7 @@
       "timeline": [
         {
           "date": "28/09 a 22/10/2026",
-          "label": "inscrições para o vestibular"
-        },
-        {
-          "date": "Após 22/10",
-          "label": "confirmação, locais e aplicação conforme edital"
-        },
-        {
-          "date": "Data a confirmar pelo MEC",
-          "label": "vagas do IFSC via Sisu, que exigem Enem 2026"
-        },
-        {
-          "date": "Data futura a confirmar",
-          "label": "cadastro de reserva por histórico escolar para vagas não preenchidas"
-        },
-        {
-          "date": "Chamadas e matrículas",
-          "label": "conforme editais específicos"
+          "label": "inscrições para o vestibular. Etapas posteriores sem data oficial: Após 22/10 — confirmação, locais e aplicação conforme edital; Data a confirmar pelo MEC — vagas do IFSC via Sisu, que exigem Enem 2026; Data futura a confirmar — cadastro de reserva por histórico escolar para vagas não preenchidas; Chamadas e matrículas — conforme editais específicos."
         }
       ],
       "link": "https://www.ifsc.edu.br/pt/calendario-de-inscricoes"
@@ -2098,8 +1690,8 @@
           "label": "janela geral de inscrições dos mestrados com ingresso em 2027.1"
         },
         {
-          "date": "Durante/setembro-outubro",
-          "label": "conferência documental e recursos"
+          "date": "A confirmar",
+          "label": "Durante/setembro-outubro — conferência documental e recursos"
         },
         {
           "date": "Outubro-dezembro/2026",
@@ -2166,20 +1758,20 @@
           "label": "divulgação do programa de provas"
         },
         {
-          "date": "Período de inscrições",
-          "label": "a ser confirmado no portal da CVU"
+          "date": "A confirmar",
+          "label": "Período de inscrições — a ser confirmado no portal da CVU"
         },
         {
-          "date": "Após inscrições",
-          "label": "homologação e divulgação dos locais"
+          "date": "A confirmar",
+          "label": "Após inscrições — homologação e divulgação dos locais"
         },
         {
           "date": "01/11/2026",
           "label": "prova anunciada pela UEM"
         },
         {
-          "date": "Após a aplicação",
-          "label": "gabaritos, recursos e resultados"
+          "date": "A confirmar",
+          "label": "Após a aplicação — gabaritos, recursos e resultados"
         },
         {
           "date": "2027",
@@ -2219,11 +1811,7 @@
         },
         {
           "date": "15/11/2026",
-          "label": "segundo dia de provas"
-        },
-        {
-          "date": "Resultado",
-          "label": "data posterior a ser divulgada pelo Inep"
+          "label": "segundo dia de provas. Etapas posteriores sem data oficial: Resultado — data posterior a ser divulgada pelo Inep."
         }
       ],
       "link": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem"
@@ -2242,12 +1830,12 @@
           "label": "inscrição e acompanhamento das notas de corte da edição regular"
         },
         {
-          "date": "Após o fechamento",
-          "label": "resultado da chamada regular"
+          "date": "A confirmar",
+          "label": "Após o fechamento — resultado da chamada regular"
         },
         {
-          "date": "Prazo definido no edital",
-          "label": "manifestação de interesse na lista de espera"
+          "date": "A confirmar",
+          "label": "Prazo definido no edital — manifestação de interesse na lista de espera"
         },
         {
           "date": "Janeiro-fevereiro/2026",
@@ -2274,16 +1862,16 @@
           "label": "período de inscrições informado para o Vestibular 2027"
         },
         {
-          "date": "Após 20/07",
-          "label": "homologação e recursos"
+          "date": "A confirmar",
+          "label": "Após 20/07 — homologação e recursos"
         },
         {
-          "date": "Datas de provas",
-          "label": "conforme edital e comunicados do Núcleo de Concursos"
+          "date": "A confirmar",
+          "label": "Datas de provas — conforme edital e comunicados do Núcleo de Concursos"
         },
         {
-          "date": "Após as provas",
-          "label": "gabaritos, recursos e resultado"
+          "date": "A confirmar",
+          "label": "Após as provas — gabaritos, recursos e resultado"
         },
         {
           "date": "2027",
@@ -2310,16 +1898,12 @@
           "label": "aplicação da prova"
         },
         {
-          "date": "Após a prova",
-          "label": "publicação de gabaritos e recursos"
+          "date": "A confirmar",
+          "label": "Após a prova — publicação de gabaritos e recursos"
         },
         {
           "date": "07/08/2026",
-          "label": "resultado previsto"
-        },
-        {
-          "date": "Após o resultado",
-          "label": "chamadas e matrículas conforme calendário da UEM"
+          "label": "resultado previsto. Etapas posteriores sem data oficial: Após o resultado — chamadas e matrículas conforme calendário da UEM."
         }
       ],
       "link": "https://www.vestibular.uem.br/"
@@ -2342,8 +1926,8 @@
           "label": "prova do processo seletivo, conforme calendário oficial"
         },
         {
-          "date": "Após a prova",
-          "label": "gabarito e classificação"
+          "date": "A confirmar",
+          "label": "Após a prova — gabarito e classificação"
         },
         {
           "date": "Julho/2026",
@@ -2374,8 +1958,8 @@
           "label": "aplicação da prova, conforme calendário"
         },
         {
-          "date": "Após a prova",
-          "label": "gabaritos e classificação"
+          "date": "A confirmar",
+          "label": "Após a prova — gabaritos e classificação"
         },
         {
           "date": "Julho/2026",
@@ -2402,20 +1986,12 @@
           "label": "publicação do edital, isenção e inscrições"
         },
         {
-          "date": "Após inscrições",
-          "label": "locais de prova e aplicação"
+          "date": "A confirmar",
+          "label": "Após inscrições — locais de prova e aplicação"
         },
         {
           "date": "Primeiro semestre de 2026",
-          "label": "resultado e matrículas"
-        },
-        {
-          "date": "Após chamadas",
-          "label": "convocação de suplentes quando houver vagas"
-        },
-        {
-          "date": "Calendário acadêmico",
-          "label": "início das atividades conforme a universidade"
+          "label": "resultado e matrículas. Etapas posteriores sem data oficial: Após chamadas — convocação de suplentes quando houver vagas; Calendário acadêmico — início das atividades conforme a universidade."
         }
       ],
       "link": "https://vestibular.univesp.br/"
@@ -2471,15 +2047,7 @@
         },
         {
           "date": "24/03/2026",
-          "label": "resultado informado"
-        },
-        {
-          "date": "Após o resultado",
-          "label": "matrícula dos convocados"
-        },
-        {
-          "date": "Chamadas adicionais",
-          "label": "apenas se previstas e houver vagas"
+          "label": "resultado informado. Etapas posteriores sem data oficial: Após o resultado — matrícula dos convocados; Chamadas adicionais — apenas se previstas e houver vagas."
         }
       ],
       "link": "https://www.vestibular.uem.br/"
@@ -2502,8 +2070,8 @@
           "label": "prazo final"
         },
         {
-          "date": "Outubro a novembro/2026",
-          "label": "ciclo de seleção e entrevistas"
+          "date": "Novembro/2026",
+          "label": "Outubro a — ciclo de seleção e entrevistas"
         },
         {
           "date": "Fim de 2026",
@@ -2578,8 +2146,8 @@
           "label": "entrevistas e seleção"
         },
         {
-          "date": "Após a seleção",
-          "label": "candidatura acadêmica a Oxford com apoio do Rhodes Trust"
+          "date": "A confirmar",
+          "label": "Após a seleção — candidatura acadêmica a Oxford com apoio do Rhodes Trust"
         },
         {
           "date": "Outubro/2027",
@@ -2598,12 +2166,12 @@
       "requirement": "Ser cidadão de país elegível e comprometer-se a retornar por pelo menos dois anos após a bolsa. Possuir graduação que permita ingresso em mestrado britânico. Cumprir a experiência profissional exigida nas regras do ciclo. Inscrever-se em três cursos elegíveis no Reino Unido. Apresentar referências, documentos acadêmicos e oferta universitária nas etapas previstas.",
       "timeline": [
         {
-          "date": "04/08/2026 às 11h UTC",
-          "label": "abertura"
+          "date": "04/08/2026",
+          "label": "às 11h UTC — abertura"
         },
         {
-          "date": "06/10/2026 às 11h UTC",
-          "label": "encerramento"
+          "date": "06/10/2026",
+          "label": "às 11h UTC — encerramento"
         },
         {
           "date": "Outubro/2026",
@@ -2626,8 +2194,8 @@
           "label": "resultados"
         },
         {
-          "date": "08/07/2027 às 17h BST",
-          "label": "prazo da oferta universitária incondicional"
+          "date": "08/07/2027",
+          "label": "às 17h BST — prazo da oferta universitária incondicional"
         },
         {
           "date": "Setembro-outubro/2027",
@@ -2650,12 +2218,12 @@
           "label": "atualização do catálogo e publicação dos novos programas"
         },
         {
-          "date": "Outono europeu de 2026",
-          "label": "abertura prevista das candidaturas para programas que começam em 2027"
+          "date": "2027",
+          "label": "Outono europeu de 2026 — abertura prevista das candidaturas para programas que começam"
         },
         {
-          "date": "Em geral, outubro/2026 a janeiro/2027",
-          "label": "principais prazos; cada consórcio define o seu"
+          "date": "Outubro/2026 a janeiro/2027",
+          "label": "Em geral — principais prazos; cada consórcio define o seu"
         },
         {
           "date": "Primeiro semestre de 2027",
@@ -2678,8 +2246,8 @@
       "requirement": "Possuir graduação compatível e desempenho acadêmico adequado. Normalmente ter pelo menos dois anos de experiência profissional relevante. Ser proveniente de país elegível e demonstrar motivação ligada ao desenvolvimento. Comprovar idioma do curso, geralmente inglês ou alemão. Enviar documentação ao programa acadêmico conforme a lista específica.",
       "timeline": [
         {
-          "date": "Durante 2026",
-          "label": "abertura em datas diferentes por curso"
+          "date": "2026",
+          "label": "Durante 2026 — abertura em datas diferentes por curso"
         },
         {
           "date": "Agosto-novembro/2026",
@@ -2694,8 +2262,8 @@
           "label": "decisões de vários programas"
         },
         {
-          "date": "Quando aplicável, meses anteriores ao curso",
-          "label": "formação em alemão"
+          "date": "A confirmar",
+          "label": "Quando aplicável, meses anteriores ao curso — formação em alemão"
         },
         {
           "date": "Segundo semestre de 2027",
@@ -2726,8 +2294,8 @@
           "label": "avaliação formal e artística"
         },
         {
-          "date": "Por volta de abril/2027",
-          "label": "seleção esperada"
+          "date": "Abril/2027",
+          "label": "Por volta de — seleção esperada"
         },
         {
           "date": "Outubro/2027",
@@ -2750,12 +2318,12 @@
           "label": "abertura das candidaturas dos cursos para 2027"
         },
         {
-          "date": "Dezembro/2026 ou janeiro/2027",
-          "label": "prazo relevante, conforme o curso"
+          "date": "Dezembro/2026",
+          "label": "ou janeiro/2027 — prazo relevante, conforme o curso"
         },
         {
-          "date": "Após a análise acadêmica",
-          "label": "departamentos indicam candidatos"
+          "date": "A confirmar",
+          "label": "Após a análise acadêmica — departamentos indicam candidatos"
         },
         {
           "date": "Fevereiro-abril/2027",
@@ -2782,24 +2350,24 @@
           "label": "pré-inscrição gratuita disponível para o Processo Seletivo 2027"
         },
         {
-          "date": "Percurso inicial",
-          "label": "testes de raciocínio, formulários e vídeo-desafio"
+          "date": "A confirmar",
+          "label": "Percurso inicial — testes de raciocínio, formulários e vídeo-desafio"
         },
         {
-          "date": "Etapa de prova",
-          "label": "avaliação on-line de conhecimentos e habilidades"
+          "date": "A confirmar",
+          "label": "Etapa de prova — avaliação on-line de conhecimentos e habilidades"
         },
         {
-          "date": "Depois",
-          "label": "análise socioeconômica e entrevistas familiar e individual"
+          "date": "A confirmar",
+          "label": "Depois — análise socioeconômica e entrevistas familiar e individual"
         },
         {
-          "date": "Etapas finais",
-          "label": "dinâmica de grupo para Bolsa Talento ou Ideathon para programa on-line"
+          "date": "A confirmar",
+          "label": "Etapas finais — dinâmica de grupo para Bolsa Talento ou Ideathon para programa on-line"
         },
         {
-          "date": "Resultado e ingresso em 2027",
-          "label": "conforme comunicações por e-mail/WhatsApp"
+          "date": "2027",
+          "label": "Resultado e ingresso — conforme comunicações por e-mail/WhatsApp"
         }
       ],
       "link": "https://paginas.ismart.org.br/processo-seletivo"
@@ -2902,8 +2470,8 @@
           "label": "formulário de interesse"
         },
         {
-          "date": "Após o prazo",
-          "label": "contato e seleção para projetos disponíveis"
+          "date": "A confirmar",
+          "label": "Após o prazo — contato e seleção para projetos disponíveis"
         },
         {
           "date": "Agosto/2026",
@@ -2938,16 +2506,12 @@
           "label": "análise documental e acadêmica"
         },
         {
-          "date": "Etapas posteriores",
-          "label": "entrevistas/avaliações conforme a chamada"
+          "date": "A confirmar",
+          "label": "Etapas posteriores — entrevistas/avaliações conforme a chamada"
         },
         {
           "date": "2027",
-          "label": "preparação, visto e início do estágio segundo a concessão"
-        },
-        {
-          "date": "Duração",
-          "label": "um ano acadêmico"
+          "label": "preparação, visto e início do estágio segundo a concessão. Etapas posteriores sem data oficial: Duração — um ano acadêmico."
         }
       ],
       "link": "https://fulbright.org.br/"
@@ -2974,20 +2538,16 @@
           "label": "homologação pelas pró-reitorias"
         },
         {
-          "date": "A partir de 22/12/2026",
-          "label": "relação de inscrições homologadas"
+          "date": "22/12/2026",
+          "label": "A partir de — relação de inscrições homologadas"
         },
         {
           "date": "22/02 a 18/03/2027",
           "label": "análise técnica"
         },
         {
-          "date": "A partir de 25/03/2027",
-          "label": "resultado documental inicial"
-        },
-        {
-          "date": "Depois",
-          "label": "recursos, aprovação e implementação conforme a janela de viagem"
+          "date": "25/03/2027",
+          "label": "A partir de — resultado documental inicial. Etapas posteriores sem data oficial: Depois — recursos, aprovação e implementação conforme a janela de viagem."
         }
       ],
       "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-de-doutorado-sanduiche-no-exterior-pdse"
@@ -3062,8 +2622,8 @@
           "label": "resultado previsto no calendário divulgado"
         },
         {
-          "date": "Após o resultado",
-          "label": "recursos, assinatura/ativação e comprovação na instituição"
+          "date": "A confirmar",
+          "label": "Após o resultado — recursos, assinatura/ativação e comprovação na instituição"
         },
         {
           "date": "Segundo semestre/2026",
@@ -3086,24 +2646,20 @@
           "label": "inscrição on-line"
         },
         {
-          "date": "Até 30 dias após notificação",
-          "label": "complementação documental, quando solicitada"
+          "date": "A confirmar",
+          "label": "Até 30 dias após notificação — complementação documental, quando solicitada"
         },
         {
           "date": "23 a 27/03/2026",
           "label": "primeira lista de contemplados"
         },
         {
-          "date": "Até 10 dias corridos da publicação",
-          "label": "recursos"
+          "date": "A confirmar",
+          "label": "Até 10 dias corridos da publicação — recursos"
         },
         {
           "date": "20 a 24/04/2026",
-          "label": "lista de recursos deferidos"
-        },
-        {
-          "date": "Após contemplação",
-          "label": "termo, pagamentos e prestação de contas"
+          "label": "lista de recursos deferidos. Etapas posteriores sem data oficial: Após contemplação — termo, pagamentos e prestação de contas."
         }
       ],
       "link": "https://www.gov.br/esporte/pt-br/acoes-e-programas/ProgramaBolsaAtleta"
@@ -3158,12 +2714,12 @@
           "label": "publicação do edital e preparação das propostas"
         },
         {
-          "date": "Até 08/07/2026 às 17h",
-          "label": "submissão das propostas"
+          "date": "Até 08/07/2026",
+          "label": "às 17h — submissão das propostas"
         },
         {
-          "date": "Após o fechamento",
-          "label": "relação de inscrições e recursos"
+          "date": "A confirmar",
+          "label": "Após o fechamento — relação de inscrições e recursos"
         },
         {
           "date": "Segundo semestre de 2026",
@@ -3171,11 +2727,7 @@
         },
         {
           "date": "Fim de 2026/início de 2027",
-          "label": "resultado e início dos projetos"
-        },
-        {
-          "date": "Durante a vigência",
-          "label": "seleções internas de bolsistas"
+          "label": "resultado e início dos projetos. Etapas posteriores sem data oficial: Durante a vigência — seleções internas de bolsistas."
         }
       ],
       "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/programa-capes-brafitec"
@@ -3198,8 +2750,8 @@
           "label": "envio de dúvidas"
         },
         {
-          "date": "28/05/2026 às 17h",
-          "label": "prazo das propostas"
+          "date": "28/05/2026",
+          "label": "às 17h — prazo das propostas"
         },
         {
           "date": "Até 30/11/2026",
@@ -3234,20 +2786,12 @@
           "label": "prazo final após prorrogação"
         },
         {
-          "date": "Até 15 dias úteis depois",
-          "label": "relação das inscrições recebidas"
+          "date": "A confirmar",
+          "label": "Até 15 dias úteis depois — relação das inscrições recebidas"
         },
         {
           "date": "Segundo semestre/2026",
-          "label": "análise e recursos"
-        },
-        {
-          "date": "Resultado",
-          "label": "conforme cronograma atualizado do edital"
-        },
-        {
-          "date": "Após aprovação",
-          "label": "execução, missões e indicação de bolsistas"
+          "label": "análise e recursos. Etapas posteriores sem data oficial: Resultado — conforme cronograma atualizado do edital; Após aprovação — execução, missões e indicação de bolsistas."
         }
       ],
       "link": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm"
@@ -3266,12 +2810,12 @@
           "label": "publicação do Edital nº 10/2026"
         },
         {
-          "date": "Até 10/06/2026 às 17h",
-          "label": "submissão à CAPES"
+          "date": "Até 10/06/2026",
+          "label": "às 17h — submissão à CAPES"
         },
         {
-          "date": "Após o encerramento",
-          "label": "conferência das inscrições"
+          "date": "A confirmar",
+          "label": "Após o encerramento — conferência das inscrições"
         },
         {
           "date": "Segundo semestre/2026",
@@ -3314,8 +2858,8 @@
           "label": "contato/cartas de aceite e envio ao MEXT"
         },
         {
-          "date": "Até início de 2027",
-          "label": "resultado final"
+          "date": "2027",
+          "label": "Até início de — resultado final"
         },
         {
           "date": "2027",
@@ -3338,8 +2882,8 @@
           "label": "inscrições em diversas jurisdições"
         },
         {
-          "date": "Fim de junho/início de julho",
-          "label": "análise documental"
+          "date": "A confirmar",
+          "label": "Fim de junho/início de julho — análise documental"
         },
         {
           "date": "Julho/2026",
@@ -3378,8 +2922,8 @@
           "label": "exemplo de data de exames na circunscrição de São Paulo"
         },
         {
-          "date": "14 ou 15/07/2026",
-          "label": "entrevistas em São Paulo"
+          "date": "15/07/2026",
+          "label": "14 ou — entrevistas em São Paulo"
         },
         {
           "date": "Segundo semestre/2026",
